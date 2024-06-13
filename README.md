@@ -1,3 +1,0 @@
-PROJECT TEAM 15 - 22KDL1
-
-
