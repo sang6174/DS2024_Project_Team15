@@ -1,0 +1,1201 @@
+Type,Price_sale,Sale_off,Total_sold,Preview,Location,Price_original,Ship_price,Sale_rating,Ship_on_time,Chat_response,One_star,Two_star,Three_star,Four_star,Five_star
+laptop,17990000,38,3000,666,Ho Chi Minh,28990000,10200,94,98,100,28,5,10,17,606
+laptop,7223999,52,51,5,Hai Phong,13899999,None,100,100,80,0,0,0,0,5
+laptop,39000,17,312,67,Ho Chi Minh,47000,17000,96,98,90,11,1,3,5,47
+laptop,7254959,45,16,3,Hai Phong,13199999,100,100,80,0,0,0,0,3,
+laptop,4390000,20,126,29,Hà Nội,5900000,98,100,100,0,0,1,0,28,
+laptop,3200000,50,None,None,Hanoi,6400000,100,None,None,None,0,0,0,0,0
+laptop,1798761,10,18,6,Ha Noi,4290000,84600,94,100,76,0,0,0,0,6
+laptop,6519809,8,294,118,Ho Chi Minh,8999999,100,96,100,None,1,0,2,0,115
+laptop,6614299,27,91,49,Ho Chi Minh,8999999,100,96,100,None,1,0,0,2,46
+laptop,1000000,None,81,28,Hà Nội,None,198200,94,20,83,2,1,1,3,21
+laptop,1200000,None,25,10,Tien Giang,None,32200,87,37,100,0,0,0,1,9
+laptop,4173000,11,154,49,Hung Yen,6459000,56800,97,100,100,0,0,1,3,46
+laptop,1300000,28,82,41,Hà Nội,None,744000,92,66,85,0,0,0,6,35
+laptop,2668000,8,33,18,Nghệ An,2898000,56800,94,91,92,0,2,0,2,15
+laptop,3248000,10,64,28,Nghệ An,3598000,56800,94,91,92,0,0,0,0,28
+laptop,3258000,19,73,32,Nghệ An,3998000,56800,94,91,92,0,0,1,0,31
+laptop,1200000,48,24,11,Ho Chi Minh,2300000,100,91,100,100,0,1,0,1,9
+laptop,269233,7,2200,789,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,771
+laptop,10490000,19,351,108,Ho Chi Minh,12990000,21200,98,75,66,3,0,0,1,104
+laptop,1799000,None,117,35,Dong Nai,None,65500,96,50,100,0,0,0,1,35
+laptop,27590000,16,147,3,Bac Ninh,32990000,10200,94,98,100,0,0,0,0,4
+laptop,2455000,None,14,2,Hà Nội,None,38000,79,86,95,0,0,1,0,1
+laptop,27290000,3,7,None,Ho Chi Minh,32999000,9700,94,98,100,0,0,0,0,0
+laptop,1239000,38,22,10,Ho Chi Minh,2200000,100,91,100,100,0,0,0,0,10
+laptop,14699000,30,38,12,Ho Chi Minh,21000000,23800,100,100,100,0,0,0,0,12
+laptop,3500000,None,15,3,Ho Chi Minh,None,20100,88,100,None,0,0,0,0,3
+laptop,4804919,44,97,23,Hai Phong,8599999,51100,88,100,100,3,0,1,0,20
+laptop,6500000,27,None,1,Ho Chi Minh,11900000,100,96,100,100,0,0,0,0,2
+laptop,7689000,None,40,7,Hung Yen,None,37700,100,98,100,0,0,0,0,7
+laptop,902899,25,11,2,Hung Yen,1499999,70000,86,100,88,1,0,0,0,2
+laptop,3390000,15,None,3,Hanoi,4000000,52400,91,85,100,0,0,0,0,3
+laptop,55188000,None,48,None,Ho Chi Minh,None,Mien phi,82,None,100,0,0,0,0,0
+laptop,1089839,16,None,3,Hung Yen,1399999,80200,86,100,88,0,0,0,0,3
+laptop,4560080,21,28,15,Hà Nội,6500000,84600,94,100,76,0,2,0,1,12
+laptop,4799999,40,117,33,Hai Phong,7939999,100,95,99,100,1,0,0,0,32
+laptop,2833699,19,50,4,Ha Noi,6500000,98,100,100,0,0,0,0,4,
+laptop,2550000,20,33,9,Ha Noi,3200000,52400,91,85,100,0,0,0,0,9
+laptop,7250089,19,129,35,Ho Chi Minh,8999999,100,95,100,83,1,0,0,0,34
+laptop,4351599,48,25,5,Hai Phong,8299999,100,100,80,0,0,0,0,5,
+laptop,21600000,8,nan,1,Ho Chi Minh,23590000,100,94,81,100,0,0,0,0,1
+laptop,864999,28,None,None,Hung Yen,None,None,None,None,1,0,0,0,1,
+laptop,400000,None,None,None,Tien Giang,None,40300,87,37,100,0,0,0,0,2
+laptop,3800000,46,None,None,Ho Chi Minh,7000000,16500,96,80,94,0,0,0,1,0
+laptop,2300000,8,nan,nan,Ha Noi,3000000,104900,92,66,85,0,0,0,0,1
+laptop,1300000,None,None,None,Hanoi,None,104900,92,66,85,0,0,0,0,8
+laptop,2500000,None,None,None,Hanoi,None,104900,92,66,85,0,0,2,1,43
+laptop,2750000,31,nan,nan,Ho Chi Minh,4000000,16500,96,80,94,0,0,0,0,0
+laptop,1600000,None,None,None,Nghệ An,None,56800,95,100,None,6,1,2,9,115
+laptop,2550000,49,None,None,Thai Binh,5000000,80200,95,100,None,2,0,0,2,46
+laptop,3240000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,465000,6,nan,nan,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,771
+laptop,6000000,None,None,None,Nam Dinh,None,56800,99,100,100,0,0,0,0,42
+laptop,1799000,None,None,None,Dong Nai,None,65500,96,50,100,0,0,0,1,12
+laptop,4000000,50,nan,nan,Ho Chi Minh,8598000,10200,91,100,80,0,0,0,0,1
+laptop,3200000,33,nan,nan,Ho Chi Minh,4800000,23800,96,100,100,0,0,0,0,1
+laptop,9999000,26,None,None,Ho Chi Minh,4800000,23800,96,100,100,0,0,0,0,1
+laptop,12000000,None,None,None,Thai Nguyen,None,43900,None,None,None,0,0,0,0,0
+laptop,6851459,24,None,None,Ho Chi Minh,9999999,100,97,None,100,0,0,0,0,27
+laptop,2700000,36,nan,nan,Ho Chi Minh,4200000,20100,88,100,nan,0,0,0,0,1
+laptop,6950000,None,None,None,Ho Chi Minh,None,Miễn phí,96,100,93,0,0,0,0,0
+laptop,6414925,52,nan,nan,Ho Chi Minh,12999999,97,81,100,1,0,0,0,18,
+laptop,4600000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,240000,nan,nan,nan,Ho Chi Minh,12999999,100,97,81,100,1,0,0,0,18
+laptop,12870000,20,nan,nan,Hà Nội,15990000,74400,98,100,92,0,0,0,0,2
+laptop,21799000,13,nan,nan,Ho Chi Minh,25000000,23800,93,100,nan,0,0,0,0,0
+laptop,8275139,36,nan,nan,Ho Chi Minh,13999999,97,81,100,0,0,0,0,4,
+laptop,11200000,44,None,None,Ho Chi Minh,20000000,1200,99,75,100,0,0,0,0,0
+laptop,6047091,45,None,None,Hanoi,11000000,38000,94,100,76,0,0,0,0,5
+laptop,2789000,20,nan,nan,Quang Tri,4199000,70000,97,nan,nan,0,0,0,4,62
+laptop,7850000,43,None,None,Ho Chi Minh,13800000,27300,96,100,None,0,0,0,0,4
+laptop,14590000,23,None,None,Ho Chi Minh,18990000,10200,97,98,85,0,0,0,0,0
+laptop,16290000,4,nan,nan,Ho Chi Minh,16990000,nan,96,nan,83,0,0,0,0,1
+laptop,19100000,9,nan,nan,Ho Chi Minh,20990000,100,94,86,100,0,0,0,0,0
+laptop,10290000,21,None,None,Ho Chi Minh,12990000,10200,97,98,85,0,0,0,0,0
+laptop,15000000,12,nan,nan,Ho Chi Minh,16990000,100,94,86,100,0,0,0,0,0
+laptop,35990000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,20143200,25,nan,nan,Ho Chi Minh,44899000,100,97,100,100,0,0,0,0,0
+laptop,5900000,31,nan,nan,Thanh Hoa,8500000,56800,96,100,75,0,0,0,0,0
+laptop,20950000,7,nan,nan,Ho Chi Minh,22590000,100,94,86,100,0,0,0,0,0
+laptop,5800000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,17990000,38,3000,666,Bac Ninh,28990000,10200,94,98,100,28,5,10,17,606
+laptop,14900000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,3200000,50,None,None,Hanoi,6400000,100,None,None,None,0,0,0,0,0
+laptop,10490000,19,351,108,Ho Chi Minh,12990000,21200,98,77,66,3,0,0,1,104
+laptop,7254959,45,16,3,Hai Phong,13199999,100,100,80,0,0,0,0,3,
+laptop,2550000,20,33,9,Ha Noi,3200000,52400,91,75,100,0,0,0,0,9
+laptop,7223999,52,51,5,Hai Phong,13899999,None,100,100,80,0,0,0,0,5
+laptop,4351599,48,25,5,Hai Phong,8299999,100,100,80,0,0,0,0,5,
+laptop,902899,25,11,2,Hung Yen,1499999,70000,86,100,88,1,0,0,0,2
+laptop,4804919,44,97,23,Hai Phong,8599999,51100,88,100,100,3,0,1,0,20
+laptop,8600000,33,nan,nan,Ho Chi Minh,12800000,100,96,100,100,0,0,0,0,0
+laptop,499000,64,131,22,Nước ngoài,1400916,17000,96,98,100,0,0,0,0,22
+laptop,1300000,28,83,41,Hà Nội,None,744000,92,50,85,0,0,0,6,35
+laptop,3248000,10,64,28,Nghệ An,3598000,56800,94,92,92,0,0,0,0,28
+laptop,3258000,19,73,32,Nghệ An,3998000,56800,94,92,92,0,0,1,0,31
+laptop,1200000,48,24,11,Ho Chi Minh,2300000,100,91,100,100,0,1,0,1,9
+laptop,6000000,None,136,42,Nam Dinh,None,56800,99,100,100,0,0,0,0,42
+laptop,27590000,16,147,3,Bac Ninh,32990000,10200,94,98,100,0,0,0,0,4
+laptop,27290000,3,10,None,Ho Chi Minh,32999000,9700,94,98,100,0,0,0,0,0
+laptop,383775,50,193,171,Nước ngoài,772800,None,99,None,100,2,0,1,2,166
+laptop,690000,12,1500,430,Ho Chi Minh,1670000,18300,98,100,100,11,0,7,3,409
+laptop,619000,65,988,317,Nước ngoài,1750000,17000,96,98,100,2,4,5,12,294
+laptop,3111000,49,None,None,Hanoi,6100000,100,None,None,None,0,0,0,0,0
+laptop,12000000,None,None,None,Thai Nguyen,None,43900,None,None,None,0,0,0,0,0
+laptop,8000000,32,74,7,Ha Noi,11800000,84600,98,100,100,0,0,0,0,7
+laptop,1089839,16,None,3,Hung Yen,1399999,80200,86,100,88,0,0,0,0,3
+laptop,19800000,None,None,None,Ho Chi Minh,None,74700,92,20,90,0,0,0,0,0
+laptop,46490000,None,38,None,Ho Chi Minh,None,None,96,None,83,0,0,0,0,0
+laptop,14790000,22,None,None,Ho Chi Minh,18990000,21200,97,99,88,0,0,0,0,0
+laptop,8890000,29,None,None,Ho Chi Minh,12490000,20100,97,99,88,0,0,0,0,0
+laptop,25290000,None,5,None,Ho Chi Minh,None,None,96,None,83,0,0,0,0,0
+laptop,26000000,10,8,None,Ho Chi Minh,28790000,100,94,86,100,0,0,0,0,0
+laptop,7850000,43,8,4,Ho Chi Minh,13800000,27300,96,100,,0,0,0,0,4
+laptop,1700000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,14590000,23,None,None,Ho Chi Minh,18990000,10200,97,98,85,0,0,0,0,0
+laptop,2622600,42,89,36,Ho Chi Minh,4100000,16500,96,80,94,1,1,1,5,28
+laptop,7131799,52,21,4,Hai Phong,16099999,100,100,80,0,0,0,0,5,
+laptop,3400000,None,14,None,Quang Tri,None,37700,97,None,None,0,0,0,0,0
+laptop,8269999,44,None,None,Hai Phong,15399999,100,100,80,0,0,0,0,0,
+laptop,4200000,28,5,3,Ho Chi Minh,5800000,16500,96,80,94,0,0,0,0,4
+laptop,39000,17,312,67,Ho Chi Minh,None,None,None,None,None,11,1,3,5,47
+laptop,6626250,53,158,51,Hai Phong,15000000,100,96,100,96,0,0,1,0,50
+laptop,6933599,50,238,65,Hai Phong,13999999,95,100,78,0,0,0,3,62,
+laptop,3750000,50,None,None,Hanoi,7500000,100,None,None,None,0,0,0,0,0
+laptop,6519809,8,294,118,Ho Chi Minh,8999999,100,96,100,,1,0,2,0,115
+laptop,1099000,52,7,3,Bac Ninh,2299000,100,100,71,0,0,0,0,3,
+laptop,1239000,38,22,10,Ho Chi Minh,2200000,100,91,100,100,0,0,0,0,10
+laptop,32940000,6,9,None,Ho Chi Minh,39900000,19600,97,67,100,0,0,0,0,0
+laptop,864999,28,15,2,Hung Yen,1499999,100600,86,100,88,1,0,0,0,1
+laptop,687608,31,25,14,Nước ngoài,999999,100,98,100,100,0,0,0,0,14
+laptop,74000,50,nan,40,Nước ngoài,148000,17000,90,71,nan,1,0,1,1,38
+laptop,465000,6,2200,789,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,771
+laptop,6520000,None,43,14,Hung Yen,None,37700,100,98,100,0,0,0,2,12
+laptop,121000,56,16,6,Ha Noi,278000,32700,96,100,100,0,0,0,0,6
+laptop,1290000,None,None,None,Binh Duong,None,118500,None,None,None,0,0,0,0,0
+laptop,3390000,15,None,3,Hanoi,4000000,52400,91,75,100,0,0,0,0,3
+laptop,5499000,25,130,57,Ha Noi,7299000,74400,96,100,100,0,0,0,2,55
+laptop,1490000,32,10,3,Ha Noi,2200000,55400,95,100,100,0,0,0,1,2
+laptop,24610000,None,6,None,Ho Chi Minh,None,74700,92,20,90,0,0,0,0,0
+laptop,5618818,57,33,19,Ho Chi Minh,13999998,100,97,81,100,1,0,0,0,18
+laptop,15490000,25,20,7,Ho Chi Minh,20590000,20700,98,77,66,0,0,0,1,6
+laptop,4600000,None,None,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,3900000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,21799000,13,8,None,Ho Chi Minh,25000000,23800,93,100,None,0,0,0,0,0
+laptop,21600000,8,nan,1,Ho Chi Minh,23590000,100,94,86,100,0,0,0,0,1
+laptop,5200000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,6500000,None,19,8,Hung Yen,None,70000,91,65,100,0,0,0,0,8
+laptop,19690000,10,nan,nan,Ho Chi Minh,21990000,nan,96,nan,83,0,0,0,0,0
+laptop,10590000,None,None,None,Thanh Hoa,None,56800,96,100,75,0,0,0,0,0
+laptop,3500000,12,10,4,Hung Yen,3990000,56800,91,65,100,0,0,0,0,4
+laptop,48683200,None,10,None,Hà Nội,None,74400,92,None,None,0,0,0,0,0
+laptop,8400000,None,16,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,3400000,None,12,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,1700000,None,None,None,Hung Yen,None,80200,None,None,None,0,0,0,0,0
+laptop,7156999,53,20,4,Hai Phong,14099999,100,100,80,0,0,0,0,4,
+laptop,29990000,25,nan,nan,Ho Chi Minh,39990000,100,99,97,95,0,0,0,0,0
+laptop,27990000,26,nan,nan,Ho Chi Minh,37999000,100,99,97,95,0,0,0,0,0
+laptop,2990000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,15089000,8,nan,nan,Ho Chi Minh,16489000,12800,97,98,85,0,0,0,0,0
+laptop,350000,None,None,None,Tay Ninh,None,48200,97,100,80,0,0,0,0,0
+laptop,689000,23,8,7,Ha Noi,899000,38000,97,100,100,0,0,0,0,7
+laptop,1798761,10,19,6,Ha Noi,4290000,84600,94,100,76,0,0,0,0,6
+laptop,1000000,None,81,28,Hà Nội,None,198200,94,20,83,2,1,1,3,21
+laptop,990000,1,36,15,Hai Duong,1500000,90700,94,100,75,1,0,1,0,13
+laptop,1799000,None,118,35,Dong Nai,None,65500,96,50,100,0,0,0,1,35
+laptop,2300000,47,56,25,Binh Duong,4300000,28700,88,100,66,3,2,1,2,17
+laptop,6614299,27,91,49,Ho Chi Minh,8999999,100,96,100,None,1,0,0,2,46
+laptop,1799000,None,146,41,Dong Nai,None,65500,99,100,100,0,0,0,1,40
+laptop,47000,53,18,3,Ha Noi,129000,32700,99,100,100,0,0,0,0,4
+laptop,52406,53,1600,440,Ho Chi Minh,151000,17000,93,99,100,8,1,3,16,412
+laptop,4000000,50,nan,1,Ho Chi Minh,8598000,10200,91,100,80,0,0,0,0,1
+laptop,2550000,49,169,50,Thai Binh,5000000,80200,95,100,None,2,0,0,2,46
+laptop,3300000,43,None,None,Ho Chi Minh,6500000,23800,96,100,100,0,0,0,0,0
+laptop,14699000,30,38,12,Ho Chi Minh,21000000,23800,100,100,100,0,0,0,0,12
+laptop,1700000,None,17,8,Hung Yen,None,56800,91,65,100,0,0,0,1,7
+laptop,2268000,None,None,1,Nghệ An,None,56800,94,92,92,0,0,0,0,1
+laptop,361200,23,None,None,Nước ngoài,469560,100,97,100,100,0,0,0,0,0
+laptop,2848000,None,None,1,Nghệ An,None,56800,94,92,92,0,0,0,0,1
+laptop,3788000,12,11,5,Nghệ An,None,63300,94,92,92,0,0,1,1,3
+laptop,4388000,None,None,None,Nghệ An,None,63300,94,92,92,0,0,0,0,0
+laptop,2500000,None,None,None,Dong Nai,None,40300,None,None,100,0,0,0,0,0
+laptop,195000,38,9,9,Nước ngoài,312000,None,95,None,100,0,0,0,0,9
+laptop,3890000,15,None,1,Ha Noi,4600000,52400,91,75,100,0,0,0,0,1
+laptop,8500000,None,None,1,Thanh Hoa,None,Miễn phí,92,None,33,0,0,0,0,1
+laptop,3800000,None,17,5,Hung Yen,None,70000,91,65,100,1,0,1,0,3
+laptop,2358000,15,None,1,Nghệ An,2788000,63300,94,92,92,0,0,0,0,1
+laptop,5990000,9,nan,2,Thanh Hoa,6590000,56800,96,100,75,1,0,0,0,1
+laptop,47990000,None,6,None,Ho Chi Minh,None,45100,None,None,None,0,0,0,0,0
+laptop,6300000,None,15,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,9630000,None,19,None,Ho Chi Minh,None,52300,92,20,90,0,0,0,0,0
+laptop,22990000,43,None,None,Ho Chi Minh,39990000,100,98,98,94,0,0,0,0,0
+laptop,2990000,None,19,9,Hung Yen,None,90400,91,65,100,0,0,0,1,8
+laptop,9890000,18,None,None,Ho Chi Minh,11990000,21200,97,99,88,0,0,0,0,0
+laptop,3500000,12,30,12,Hung Yen,4600000,80200,91,65,100,1,1,4,0,6
+laptop,5900000,31,nan,nan,Thanh Hoa,8500000,56800,96,100,75,0,0,0,0,0
+laptop,42315000,None,7,None,Ho Chi Minh,None,74700,92,20,90,0,0,0,0,0
+laptop,20950000,7,nan,nan,Ho Chi Minh,22590000,100,94,86,100,0,0,0,0,0
+laptop,29900000,None,5,None,Hanoi,None,34100,90,100,75,0,0,0,0,0
+laptop,2500000,None,None,1,Hung Yen,None,80200,91,65,100,0,0,0,0,1
+laptop,2500000,None,6,None,Hung Yen,None,56800,91,65,100,0,0,0,0,0
+laptop,17989000,38,3000,671,Bac Ninh,28990000,10200,94,98,100,28,5,10,17,611
+laptop,2995000,50,None,None,Hanoi,5990000,100,None,None,None,0,0,0,0,0
+laptop,3200000,50,None,None,Hanoi,6400000,100,None,None,None,0,0,0,0,0
+laptop,10490000,19,351,108,Ho Chi Minh,12990000,21200,98,77,66,3,0,0,1,104
+laptop,6685956,27,69,28,Ho Chi Minh,9999999,100,97,None,100,0,0,0,0,28
+laptop,1000000,None,81,28,Hà Nội,None,198200,94,20,83,2,1,1,3,21
+laptop,39000,17,312,67,Ho Chi Minh,47000,17000,96,98,90,11,1,3,5,47
+laptop,902899,25,11,2,Hung Yen,1499999,70000,86,100,88,1,0,0,0,2
+laptop,1571000,None,17,6,Hà Nội,None,64700,79,84,95,0,0,1,0,4
+laptop,350000,None,None,None,Tay Ninh,None,48200,97,100,80,0,0,0,0,0
+laptop,4173000,11,154,49,Hung Yen,6459000,56800,97,100,100,0,0,1,3,46
+laptop,1300000,28,83,41,Ha Noi,None,744000,92,50,85,0,0,0,6,35
+laptop,3248000,10,64,28,Nghệ An,3598000,56800,94,92,92,0,0,0,0,28
+laptop,3258000,19,73,32,Nghệ An,3998000,56800,94,92,92,0,0,1,0,31
+laptop,1200000,48,24,11,Ho Chi Minh,2300000,100,91,100,100,0,1,0,1,9
+laptop,465000,6,2200,789,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,771
+laptop,4390000,20,126,29,Hà Nội,5900000,98,100,100,0,0,1,0,28,
+laptop,978780,11,9,1,Tien Giang,1100000,40300,82,86,88,0,0,0,0,1
+laptop,1799000,None,118,35,Dong Nai,None,65500,96,50,100,0,0,0,1,35
+laptop,27590000,16,147,3,Ho Chi Minh,32990000,10200,94,98,100,0,0,0,0,4
+laptop,2455000,None,14,2,Hà Nội,None,38000,79,84,95,0,0,1,0,1
+laptop,27290000,3,10,None,Ho Chi Minh,32999000,9700,94,98,100,0,0,0,0,0
+laptop,1200000,8,147,62,Ho Chi Minh,1500000,13800,90,100,100,5,0,1,3,54
+laptop,1239000,38,22,10,Ho Chi Minh,2200000,100,91,100,100,0,0,0,0,10
+laptop,2550000,49,169,50,Thai Binh,5000000,80200,95,100,None,2,0,0,2,46
+laptop,990000,1,36,15,Hai Duong,1500000,90700,94,100,75,1,0,1,0,13
+laptop,4804919,44,97,23,Hai Phong,8599999,51100,88,100,100,3,0,1,0,20
+laptop,1600000,None,261,133,Nghệ An,None,56800,95,100,None,6,1,2,9,115
+laptop,7689000,None,40,7,Hung Yen,None,37700,100,98,100,0,0,0,0,7
+laptop,3390000,15,None,3,Hanoi,4000000,52400,91,75,100,0,0,0,0,3
+laptop,1089839,16,None,3,Hung Yen,1399999,80200,86,100,88,0,0,0,0,3
+laptop,400000,None,None,1,Tien Giang,None,40300,87,28,100,0,0,0,0,1
+laptop,400000,None,9,2,Tien Giang,None,40300,87,28,100,0,0,0,0,2
+laptop,4799999,40,117,33,Hai Phong,7939999,100,95,99,100,1,0,0,0,32
+laptop,1200000,48,None,None,Ho Chi Minh,2300000,100,91,100,100,0,0,0,0,0
+laptop,6614299,27,91,49,Ho Chi Minh,8999999,100,96,100,None,1,0,0,2,46
+laptop,631000,18,None,None,Nước ngoài,768000,100,100,None,100,0,0,0,0,
+laptop,6519809,8,294,118,Ho Chi Minh,8999999,100,96,100,None,1,0,2,0,115
+laptop,2550000,20,33,9,Ha Noi,3200000,52400,91,75,100,0,0,0,0,9
+laptop,1790000,None,11,1,Hà Nội,None,51500,79,84,95,0,0,0,0,1
+laptop,1798761,10,19,6,Ha Noi,4290000,84600,94,100,76,0,0,0,0,6
+laptop,4560080,21,28,15,Hà Nội,6500000,84600,94,100,76,0,2,0,1,12
+laptop,2622600,42,89,36,Ho Chi Minh,4100000,16500,96,80,94,1,1,1,5,28
+laptop,2834699,19,52,4,Ha Noi,6500000,100,98,100,100,0,0,0,0,4
+laptop,79120,65,9,5,Nuoc Ngoai,228000,17000,95,93,99,0,0,0,0,6
+laptop,3240000,None,5,None,Hà Nội,None,100,98,100,100,0,0,0,0,0
+laptop,3730000,37,31,11,Ho Chi Minh,6800000,27300,96,100,100,1,0,0,0,10
+laptop,2668000,8,33,18,Nghệ An,2898000,56800,94,92,92,0,2,0,2,15
+laptop,3400000,None,14,None,Quang Tri,None,37700,97,None,None,0,0,0,0,0
+laptop,864999,28,15,2,Hung Yen,1499999,100600,86,100,88,1,0,0,0,1
+laptop,1200000,None,25,10,Tien Giang,None,32200,87,28,100,0,0,0,1,9
+laptop,2500000,None,102,46,Hà Nội,None,104900,92,50,85,0,0,2,1,43
+laptop,1300000,13,58,24,Ho Chi Minh,1500000,13800,90,100,100,1,0,1,4,18
+laptop,1799000,None,146,41,Dong Nai,None,65500,99,100,100,0,0,0,1,40
+laptop,999999,17,38,10,Hung Yen,1199999,100600,82,100,nan,1,1,1,0,7
+laptop,1200000,8,138,56,Ho Chi Minh,1850000,13800,90,100,100,4,2,1,2,47
+laptop,1799000,None,147,39,Dong Nai,None,65500,99,100,100,0,0,0,1,39
+laptop,2300000,8,nan,0,Ha Noi,3000000,104900,92,50,85,0,0,0,0,1
+laptop,1900000,None,29,5,Hà Nội,None,38000,79,84,95,1,0,0,0,4
+laptop,1799000,None,52,13,Dong Nai,None,100,96,50,100,0,0,0,0,14
+laptop,1950000,None,None,None,Ho Chi Minh,None,38000,None,None,100,0,0,0,0,0
+laptop,6851459,24,127,27,Ho Chi Minh,9999999,100,97,None,100,0,0,0,0,27
+laptop,1067760,18,18,6,Ho Chi Minh,1300000,13800,90,100,100,0,0,0,0,6
+laptop,1490000,32,10,3,Ha Noi,2200000,55400,95,100,100,0,0,0,1,2
+laptop,5618818,57,33,19,Ho Chi Minh,13999998,97,81,100,1,0,0,0,18,
+laptop,4351599,48,25,5,Hai Phong,8299999,100,100,80,0,0,0,0,5,
+laptop,2700000,36,None,2,Ho Chi Minh,4200000,20100,88,100,None,0,0,0,0,1
+laptop,7250089,19,129,35,Ho Chi Minh,8999999,100,95,100,83,1,0,0,0,34
+laptop,6228599,28,302,126,Ho Chi Minh,12900000,100,95,100,83,5,0,0,0,122
+laptop,3999999,None,7,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,1700000,None,17,8,Hung Yen,None,56800,91,65,100,0,0,0,1,7
+laptop,2990000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,2500000,44,7,2,Phu Tho,4800000,51100,87,None,None,0,0,0,0,2
+laptop,1499999,6,None,None,Hung Yen,1999999,100600,86,100,88,0,0,0,0,0
+laptop,5622499,14,8,2,Hà Nội,None,100,98,100,100,0,0,0,0,2
+laptop,29990000,25,nan,nan,Hà Nội,39990000,21200,99,97,98,0,0,0,0,0
+laptop,2789000,20,157,66,Quang Tri,4199000,70000,97,None,None,0,0,0,4,62
+laptop,455555,18,None,None,Nước ngoài,555555,100,100,None,100,0,0,0,0,0
+laptop,8890000,29,None,None,Ho Chi Minh,12490000,20100,97,99,88,0,0,0,0,0
+laptop,7224999,52,51,5,Hai Phong,13899999,100,100,80,0,0,0,0,5,
+laptop,631000,18,None,None,Nước ngoài,845000,100,100,None,100,0,0,0,0,
+laptop,7020000,33,nan,1,Ho Chi Minh,10500000,100,96,100,100,0,0,0,0,1
+laptop,7570000,None,55,13,Hà Nội,None,100,98,100,100,0,0,0,0,13
+laptop,5999999,25,13,9,Ho Chi Minh,7999999,100,97,None,100,0,1,0,0,8
+laptop,1799000,None,75,21,Dong Nai,None,65500,96,50,100,1,0,0,1,19
+laptop,2900000,50,13,3,Ho Chi Minh,5800000,27300,96,100,100,0,0,0,0,4
+laptop,400000,None,5,1,Tien Giang,None,40300,87,28,100,1,0,0,0,0
+laptop,1842000,None,None,None,Hanoi,None,64700,79,84,95,0,0,0,0,0
+laptop,700000,None,None,1,Tien Giang,None,32200,82,86,88,1,0,0,0,0
+laptop,2570000,10,33,10,Ha Noi,3270000,100,98,100,100,0,0,0,1,10
+laptop,2400000,None,31,10,Hà Nội,None,74400,92,50,85,0,0,1,2,7
+laptop,1300000,None,14,8,Hà Nội,None,104900,92,50,85,0,0,0,0,8
+laptop,1799000,None,170,49,Dong Nai,None,65500,97,None,None,2,0,0,0,47
+laptop,1900000,5,33,14,Ho Chi Minh,2000000,13800,90,100,100,0,0,1,1,12
+laptop,4000000,50,nan,1,Ho Chi Minh,8598000,10200,91,100,80,0,0,0,0,1
+laptop,1799000,None,133,36,Dong Nai,None,65500,99,100,100,0,0,0,0,36
+laptop,14699000,30,38,12,Ho Chi Minh,21000000,23800,100,100,100,0,0,0,0,12
+laptop,1799000,None,50,13,Dong Nai,None,65500,96,50,100,0,0,0,1,12
+laptop,78886,None,None,1,Ho Chi Minh,None,18300,99,100,100,0,0,0,0,1
+laptop,2000000,None,5,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,400000,1,nan,nan,Nuoc ngai,935000,100,nan,33,nan,0,0,0,0,0
+laptop,6414925,52,27,20,Ho Chi Minh,12999999,97,81,100,1,0,0,0,18,
+laptop,7191218,40,103,39,Ho Chi Minh,None,100,98,None,None,1,0,1,0,37
+laptop,5499000,25,130,57,Ha Noi,7299000,74400,96,100,100,0,0,0,2,55
+laptop,3500000,None,15,3,Ho Chi Minh,None,20100,88,100,None,0,0,0,0,3
+laptop,2100000,None,None,None,Hanoi,None,Miễn phí,None,None,None,0,0,0,0,0
+laptop,1290000,None,None,None,Binh Duong,None,118500,None,None,None,0,0,0,0,0
+laptop,222000,73,None,None,Nước ngoài,863000,17000,95,93,99,0,0,0,0,0
+laptop,2350000,22,48,24,Ha Noi,3000000,55400,95,100,100,0,2,0,2,20
+laptop,2198000,None,None,None,Nghệ An,None,63300,94,92,92,0,0,0,0,0
+laptop,2268000,None,None,1,Nghệ An,None,56800,94,92,92,0,0,0,0,1
+laptop,5900000,31,nan,nan,Thanh Hoa,8500000,56800,96,100,75,0,0,0,0,0
+laptop,3800000,None,17,5,Hung Yen,None,70000,91,65,100,1,0,1,0,3
+laptop,990000,42,None,None,Thanh Hoa,1699969,80200,86,100,None,0,0,0,0,0
+laptop,3500000,49,None,1,Ho Chi Minh,6800000,23800,96,100,100,0,0,0,0,1
+laptop,25080000,13,nan,nan,Hà Nội,28840000,74400,100,nan,nan,0,0,0,0,0
+laptop,2990000,25,13,8,Hà Nội,3990000,51500,100,100,None,0,1,0,0,7
+laptop,7131799,52,21,4,Hai Phong,16099999,100,100,80,0,0,0,0,5,
+laptop,4600000,None,None,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,3800000,46,None,1,Ho Chi Minh,7000000,16500,96,80,94,0,0,0,1,0
+laptop,1200000,14,145,53,Ho Chi Minh,1400000,13800,90,100,100,3,2,1,2,45
+laptop,9490000,42,8,3,Hà Nội,16426000,51500,92,None,None,0,0,0,0,3
+laptop,7254959,45,16,3,Hai Phong,13199999,100,100,80,0,0,0,0,3,
+laptop,3470000,None,9,5,Hà Nội,None,100,98,100,100,0,0,1,0,4
+laptop,3890000,15,None,1,Ha Noi,4600000,52400,91,75,100,0,0,0,0,1
+laptop,4439400,56,None,None,Ho Chi Minh,10500000,16500,96,80,94,0,0,0,0,0
+laptop,8400000,None,16,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,6900000,None,123,52,Hà Nội,None,494000,96,None,None,0,0,0,0,52
+laptop,4650000,None,8,1,Ha Noi,None,45100,99,100,100,0,0,0,0,1
+laptop,6047091,45,11,5,Ha Noi,11000000,38000,94,100,76,0,0,0,0,5
+laptop,3800000,None,90,25,Nam Dinh,None,56800,99,100,100,0,0,0,0,25
+laptop,6000000,None,136,42,Nam Dinh,None,56800,99,100,100,0,0,0,0,42
+laptop,3256000,45,45,16,Ho Chi Minh,8800000,23800,96,100,100,0,0,1,0,15
+laptop,1799000,None,64,18,Dong Nai,None,65500,96,50,100,1,0,0,1,16
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,2500000,None,25,10,Hà Nội,None,104900,92,50,85,0,0,0,2,9
+laptop,3000000,40,5,4,Hà Nội,4998000,74400,79,84,95,0,0,0,0,3
+laptop,1799000,None,125,34,Dong Nai,None,65500,99,100,100,1,0,0,0,33
+laptop,299712,None,None,None,Ho Chi Minh,None,18300,99,100,100,0,0,0,0,0
+laptop,668113,33,None,None,Nước ngoài,999900,17000,100,None,None,0,0,0,0,0
+laptop,15200000,31,69,22,Ho Chi Minh,22000000,23800,100,100,100,0,0,0,0,22
+laptop,2789000,29,22,8,Hung Yen,5200000,63300,91,65,100,0,0,0,1,6
+laptop,11000000,13,nan,nan,Ha Noi,12650000,64700,100,nan,nan,0,0,0,0,1
+laptop,3900000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,2150000,None,23,7,Hà Nội,None,100,97,100,100,0,0,0,0,7
+laptop,8800000,None,24,7,Hà Nội,None,38000,97,100,100,0,0,0,0,7
+laptop,1799000,None,177,43,Dong Nai,None,65500,97,None,None,1,0,1,0,41
+laptop,1990000,None,7,1,Hà Nội,None,100,95,None,None,0,0,0,0,1
+laptop,26000000,10,8,None,Ho Chi Minh,28790000,100,94,86,100,0,0,0,0,0
+laptop,5200000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,5300000,None,None,None,Hanoi,None,Miễn phí,None,100,100,0,0,0,0,0
+laptop,4500000,None,14,5,Hung Yen,None,51100,100,98,100,0,0,0,0,5
+laptop,3900000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,8269999,44,None,None,Hai Phong,15399999,100,100,80,0,0,0,0,0,
+laptop,4200000,28,5,3,Ho Chi Minh,5800000,16500,96,80,94,0,0,0,0,4
+laptop,7156999,53,20,4,Hai Phong,14099999,100,100,80,0,0,0,0,4,
+laptop,3500000,12,30,12,Hung Yen,4600000,80200,91,65,100,1,1,4,0,6
+laptop,2496000,7,5,2,Nghệ An,2998000,63300,94,92,92,0,0,0,0,3
+laptop,3270000,24,9,1,Ha Noi,4289000,100,98,100,100,0,0,0,0,1
+laptop,1099000,None,None,None,Hanoi,None,63400,93,92,85,0,0,0,0,0
+laptop,9956862,11,32,6,Hà Nội,12190000,None,95,100,100,0,0,0,0,6
+laptop,8300000,None,46,5,Hà Nội,None,100,95,None,None,0,0,0,0,5
+laptop,800000,None,None,None,Tien Giang,None,40300,87,28,100,0,0,0,0,0
+laptop,9706000,None,18,3,Hà Nội,None,64700,92,None,None,0,0,0,0,3
+laptop,7290599,49,15,2,Hai Phong,14299999,100,100,80,0,0,0,0,3,
+laptop,2870000,12,7,2,Hà Nội,3270000,100,98,100,100,0,0,0,1,1
+laptop,3990000,20,5,2,Hà Nội,5390000,57700,100,None,None,0,0,0,0,2
+laptop,500000,None,None,None,Vinh Phuc,None,2695100,None,None,None,0,0,0,0,0
+laptop,990000,42,None,2,Thanh Hoa,1699989,70000,86,100,None,0,1,0,0,1
+laptop,2450000,None,17,10,Binh Duong,None,40300,96,None,100,0,0,1,0,9
+laptop,6570000,None,131,23,Hung Yen,None,56800,97,100,100,0,0,0,2,21
+laptop,12000000,None,None,None,Thai Nguyen,None,43900,None,None,None,0,0,0,0,0
+laptop,8500000,None,None,None,Hanoi,None,Miễn phí,None,100,100,0,0,0,0,0
+laptop,1799000,None,52,13,Dong Nai,None,65500,96,50,100,0,0,0,0,13
+laptop,8890000,30,6,2,Ho Chi Minh,12790000,23800,94,100,,0,0,0,0,2
+laptop,8566770,None,None,None,Hung Yen,None,37700,100,98,100,0,0,0,0,0
+laptop,28990000,None,None,None,Ho Chi Minh,None,10200,97,98,85,0,0,0,0,0
+laptop,17337000,21,nan,nan,Ho Chi Minh,21990000,16300,94,100,nan,0,0,0,0,0
+laptop,3700000,None,None,None,Ho Chi Minh,None,20100,90,86,None,0,0,0,0,0
+laptop,4900000,37,None,1,Ho Chi Minh,7800000,100,96,100,100,0,0,0,0,1
+laptop,899999,10,11,4,Hung Yen,999999,100600,86,100,88,1,0,0,0,4
+laptop,6350000,31,5,None,Ho Chi Minh,9250000,20100,88,100,None,0,0,0,0,0
+laptop,2800000,None,None,1,Ho Chi Minh,None,27300,100,None,None,0,0,0,0,1
+laptop,7100000,None,42,4,Hung Yen,None,37700,100,98,100,0,0,0,0,4
+laptop,7750000,22,8,None,Hanoi,9990000,74400,98,100,92,0,0,0,0,0
+laptop,7600000,None,40,9,Hung Yen,None,70000,91,65,100,0,0,0,0,9
+laptop,8999000,None,24,6,Hung Yen,None,70000,91,65,100,0,0,1,0,5
+laptop,8500000,None,23,4,Hung Yen,None,70000,91,65,100,0,0,1,0,3
+laptop,11780000,33,nan,nan,Hà Nội,17490000,84600,98,100,92,0,0,0,0,0
+laptop,3000000,14,None,None,Ho Chi Minh,None,None,None,None,0,0,0,0,0,
+laptop,1650000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,7352999,52,15,3,Hai Phong,14399999,100,100,80,0,0,0,0,3,
+laptop,3500000,12,10,4,Hung Yen,3990000,56800,91,65,100,0,0,0,0,4
+laptop,6300000,None,15,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,680000,None,None,None,Ho Chi Minh,None,27300,100,83,85,0,0,0,0,0
+laptop,2970000,None,5,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,1790000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,29990000,25,nan,nan,Ho Chi Minh,39990000,100,99,97,95,0,0,0,0,0
+laptop,1900000,5,nan,nan,Da Nang,2000000,45100,100,nan,nan,0,0,0,0,0
+laptop,2128000,None,18,3,Hà Nội,None,64700,79,84,95,1,0,0,0,2
+laptop,10190000,17,5,None,Ho Chi Minh,12290000,None,96,None,83,0,0,0,0,0
+laptop,5990000,48,None,None,Hanoi,11490000,100,85,None,None,0,0,0,0,0
+laptop,2350000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,4500000,None,5,4,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,4427000,None,None,None,Hanoi,None,64700,79,84,95,0,0,0,0,0
+laptop,3070000,6,5,1,Ha Noi,3270000,100,98,100,100,0,0,0,0,1
+laptop,4893899,11,23,19,Hà Nội,None,100,98,100,100,0,0,0,0,20
+laptop,2870000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,2650000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,6520000,None,43,14,Hung Yen,None,37700,100,98,100,0,0,0,2,12
+laptop,6569000,None,77,11,Hung Yen,None,37700,97,100,100,0,0,0,1,10
+laptop,5200000,None,102,14,Hung Yen,6760000,56800,97,100,100,0,0,0,1,13
+laptop,14900000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,9999000,26,9,3,Ho Chi Minh,13490000,27300,93,100,None,0,0,0,0,3
+laptop,9499000,None,None,None,Dong Nai,None,Miễn phí,95,100,100,0,0,0,0,0
+laptop,7290000,None,113,29,Hung Yen,None,56800,97,100,100,0,0,0,1,29
+laptop,4404510,32,12,4,Ho Chi Minh,8200000,90,nan,nan,0,0,0,0,5,
+laptop,22790000,19,None,None,Ho Chi Minh,27990000,9700,97,98,85,0,0,0,0,0
+laptop,10590000,None,None,None,Thanh Hoa,None,56800,96,100,75,0,0,0,0,0
+laptop,6900000,None,13,5,Hung Yen,None,70000,91,65,100,1,0,1,1,2
+laptop,8500000,None,None,1,Thanh Hoa,None,Miễn phí,92,None,33,0,0,0,0,1
+laptop,2150000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,4790000,40,nan,2,Ha Noi,8000000,84600,94,100,76,0,0,0,0,2
+laptop,5600000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,19690000,10,None,None,Ho Chi Minh,21990000,None,96,None,83,0,0,0,0,0
+laptop,4299000,None,None,None,Dong Nai,None,65500,99,100,100,0,0,0,0,0
+laptop,3550000,24,17,7,Thanh Hoa,4690000,80200,96,100,75,0,0,0,0,7
+laptop,8500000,None,None,2,Hung Yen,None,70000,91,65,100,0,0,0,0,2
+laptop,31999000,6,nan,nan,Ho Chi Minh,34000000,52300,98,100,nan,0,0,0,0,0
+laptop,19990000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,7900000,21,nan,nan,Hà Nội,10000000,84600,94,100,76,0,0,0,0,0
+laptop,14590000,23,None,None,Ho Chi Minh,18990000,10200,97,98,85,0,0,0,0,0
+laptop,19790000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,6500000,None,19,8,Hung Yen,None,70000,91,65,100,0,0,0,0,8
+laptop,27990000,26,None,None,Ho Chi Minh,37999000,21200,99,97,98,0,0,0,0,0
+laptop,6299000,3,nan,0,Dong Nai,6500000,100,95,100,100,0,0,0,0,1
+laptop,5500000,4,None,1,Dong Nai,5700000,100,95,100,100,0,0,0,0,1
+laptop,11999999,8,None,None,Ho Chi Minh,12999999,100,96,100,None,0,0,0,0,0
+laptop,4200000,None,9,3,Hà Nội,None,38000,98,None,100,1,0,0,0,3
+laptop,2900000,None,None,None,Hanoi,None,32700,None,None,None,0,0,0,0,0
+laptop,8000000,32,74,7,Ha Noi,11800000,84600,98,100,100,0,0,0,0,7
+laptop,6500000,None,11,5,Hung Yen,None,70000,91,65,100,0,0,0,1,4
+laptop,1642000,None,25,4,Hà Nội,None,64700,79,84,95,1,0,0,0,3
+laptop,3600000,40,11,3,Ha Noi,6750000,84600,98,100,100,0,0,0,0,3
+laptop,5800000,34,12,2,Ha Noi,8800000,84600,98,100,100,0,0,0,0,3
+laptop,7050000,30,11,3,Ha Noi,11550000,84600,98,100,100,0,0,0,0,3
+laptop,3570000,12,7,4,Hà Nội,4070000,100,98,100,100,0,1,0,0,3
+laptop,4600000,None,16,15,Hà Nội,None,100,None,None,0,0,0,0,15,
+laptop,999999,17,16,7,Hung Yen,1499999,80200,82,100,nan,1,1,0,0,5
+laptop,6000000,None,80,24,Nam Dinh,None,56800,99,100,100,0,0,0,0,24
+laptop,1399999,None,25,12,Hung Yen,None,80200,86,None,None,3,0,0,1,8
+laptop,3650000,None,None,None,Hung Yen,None,43900,100,98,100,0,0,0,0,0
+laptop,1000000,None,None,None,Tien Giang,None,40300,82,86,88,0,0,0,0,0
+laptop,4799000,None,None,1,Ho Chi Minh,None,100,86,75,None,0,0,1,0,0
+laptop,2500000,None,None,None,Dong Nai,None,65500,None,None,100,0,0,0,0,0
+laptop,23712000,49,8,None,Hanoi,46452480,32700,97,100,100,0,0,0,0,0
+laptop,6700000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,5300000,17,None,1,Ho Chi Minh,7100000,100,90,None,None,0,0,0,0,1
+laptop,12690000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,3790000,None,19,6,Hung Yen,None,56800,100,98,100,0,0,0,0,6
+laptop,7549557,42,49,27,Ho Chi Minh,15954300,98,nan,nan,0,0,0,0,27,
+laptop,8500000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,4790000,19,5,1,Ho Chi Minh,5900000,90,nan,nan,0,0,0,0,1,
+laptop,6950000,None,None,None,Ho Chi Minh,None,Miễn phí,96,100,93,0,0,0,0,0
+laptop,5990000,9,nan,2,Thanh Hoa,6590000,56800,96,100,75,1,0,0,0,1
+laptop,20270000,None,23,None,Ho Chi Minh,None,19600,98,100,100,0,0,0,0,0
+laptop,5338799,11,9,4,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,4499999,None,None,None,Hanoi,None,Miễn phí,None,100,100,0,0,0,0,0
+laptop,9500000,None,8,None,Hà Nội,None,100,98,100,100,0,0,0,0,0
+laptop,14690000,21,None,None,Ho Chi Minh,18490000,10200,97,98,85,0,0,0,0,0
+laptop,3990002,34,None,None,Hanoi,6000000,104900,94,100,76,0,0,0,0,0
+laptop,2500000,22,8,4,Ha Noi,3200000,62600,91,75,100,0,0,0,1,3
+laptop,10590000,15,None,None,Hanoi,12460000,115100,92,None,None,0,0,0,0,0
+laptop,7599999,47,None,1,Hai Phong,14799999,100,95,99,100,0,0,0,0,1
+laptop,5500000,None,None,1,Ho Chi Minh,None,100,97,100,100,0,0,0,0,1
+laptop,2990000,None,19,9,Hung Yen,None,90400,91,65,100,0,0,0,1,8
+laptop,10490000,None,27,1,Hà Nội,None,26100,95,100,100,0,0,0,0,1
+laptop,8990000,44,None,3,Ha Noi,16000000,84600,94,100,76,0,0,0,2,1
+laptop,2970000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1990000,50,25,8,Ho Chi Minh,3980000,9100,91,100,80,0,0,0,1,7
+laptop,48683200,None,10,None,Hà Nội,None,74400,92,None,None,0,0,0,0,0
+laptop,13590000,30,11,3,Ho Chi Minh,19490000,9700,97,98,85,0,0,0,0,3
+laptop,151000,74,None,None,Nước ngoài,580000,17000,96,94,100,0,0,0,0,0
+laptop,1500000,None,None,None,Tien Giang,None,48200,87,28,100,0,0,0,0,0
+laptop,14990000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,8008199,20,5,1,Ho Chi Minh,9999999,100,95,100,83,0,0,0,0,2
+laptop,1910000,5,5,1,Ho Chi Minh,3790000,100,92,66,None,0,0,0,0,1
+laptop,1970000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1354350,10,5,1,Tien Giang,None,None,None,None,None,0,0,0,0,1
+laptop,7750000,28,119,11,Ha Noi,10750000,84600,98,100,100,0,0,0,0,11
+laptop,5600000,None,13,13,Hà Nội,None,100,None,None,0,0,0,0,13,
+laptop,1499999,None,101,29,Hung Yen,None,90600,84,100,None,4,2,1,1,21
+laptop,27950000,7,nan,nan,Ho Chi Minh,35990000,19600,97,67,100,0,0,0,0,0
+laptop,2000000,50,8,3,Ho Chi Minh,4000000,63700,91,100,80,0,0,0,0,3
+laptop,6500000,27,None,1,Ho Chi Minh,11900000,100,96,100,100,0,0,0,0,2
+laptop,2848000,None,None,1,Nghệ An,None,56800,94,92,92,0,0,0,0,1
+laptop,1500000,None,11,6,Tien Giang,None,40300,87,28,100,0,0,2,0,3
+laptop,31590000,None,25,None,Ho Chi Minh,31720000,20100,98,100,100,0,0,0,0,0
+laptop,170000,None,None,0,Hà Nội,None,38000,96,100,100,0,0,0,0,1
+laptop,1900000,5,11,5,Ho Chi Minh,2000000,13800,90,100,100,0,0,0,0,5
+laptop,2500000,None,8,6,Hà Nội,None,104900,92,50,85,1,0,0,0,5
+laptop,2580420,43,None,1,Ho Chi Minh,5500000,23800,96,100,100,0,0,0,0,1
+laptop,3800000,21,None,1,Ho Chi Minh,5800000,27300,96,100,100,0,0,0,0,1
+laptop,15490000,3,nan,nan,Ho Chi Minh,15990000,nan,96,nan,83,0,0,0,0,0
+laptop,6054999,24,26,3,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,24610000,None,6,None,Ho Chi Minh,None,74700,92,20,90,0,0,0,0,0
+laptop,1100000,8,nan,nan,Dong Nai,1200000,100,100,100,0,0,0,0,0,
+laptop,3690000,12,None,None,Hanoi,4200000,55400,95,100,100,0,0,0,0,0
+laptop,12600000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,20390000,None,None,None,Hanoi,None,38000,None,None,None,0,0,0,0,0
+laptop,16990000,17,nan,1,Ho Chi Minh,20490000,nan,96,nan,83,0,0,0,0,1
+laptop,4500000,None,None,None,Ho Chi Minh,None,Miễn phí,100,100,100,0,0,0,0,0
+laptop,14790000,10,nan,nan,Ho Chi Minh,16490000,nan,96,nan,83,0,0,0,0,0
+laptop,4271040,11,None,1,Ha Noi,5200000,100,100,100,0,0,0,0,1,
+laptop,6300000,40,nan,1,Ho Chi Minh,10500000,100,96,100,100,0,0,0,0,1
+laptop,3381240,48,6,4,Ho Chi Minh,6500000,27300,96,100,100,0,0,0,0,4
+laptop,16500000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,2990000,None,5,0,Hung Yen,None,56800,91,65,100,0,0,0,0,1
+laptop,27990000,26,nan,nan,Ho Chi Minh,37999000,100,99,97,95,0,0,0,0,0
+laptop,1000000,None,11,2,Tien Giang,None,40300,82,86,88,1,0,1,0,1
+laptop,9990000,9,nan,nan,Ho Chi Minh,10990000,nan,96,nan,83,0,0,0,0,0
+laptop,11290000,6,None,None,Ho Chi Minh,11990000,None,96,None,83,0,0,0,0,0
+laptop,1031000,None,None,None,Tien Giang,None,40300,87,28,100,0,0,0,0,0
+laptop,2880000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,7850000,43,8,4,Ho Chi Minh,13800000,27300,96,100,,0,0,0,0,4
+laptop,6399999,17,28,11,Hà Nội,None,100,98,100,100,0,0,0,0,11
+laptop,177070,11,18,None,Hanoi,199000,38000,96,100,100,0,0,0,0,0
+laptop,15089000,8,None,None,Ho Chi Minh,16489000,12800,97,98,85,0,0,0,0,0
+laptop,6234719,58,7,4,Ho Chi Minh,17999999,97,81,100,0,0,0,0,4,
+laptop,5500000,None,95,23,Nam Dinh,None,56800,99,100,100,0,0,0,0,23
+laptop,2474010,1,80,41,An Giang,2990000,44100,96,None,None,0,1,1,0,39
+laptop,5160000,34,21,12,Ho Chi Minh,7800000,100,96,100,100,0,0,0,1,11
+laptop,4800000,None,196,65,Nam Dinh,None,56800,99,100,100,0,0,0,0,65
+laptop,4800000,None,75,23,Nam Dinh,None,56800,99,100,100,0,0,0,0,24
+laptop,2512000,None,9,1,Hà Nội,None,64700,79,84,95,0,1,0,0,0
+laptop,5200000,None,None,None,Hanoi,None,64700,None,None,100,0,0,0,0,0
+laptop,5999999,None,8,4,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,2428000,None,None,1,Hanoi,None,64700,79,84,95,1,0,0,0,0
+laptop,3390000,11,None,1,Ha Noi,3800000,55400,95,100,100,0,0,0,0,1
+laptop,4200000,13,nan,nan,Hà Nội,4800000,52400,91,75,100,0,0,0,0,0
+laptop,3380000,32,None,None,Ho Chi Minh,5000000,23800,96,100,100,0,0,0,0,0
+laptop,19569000,22,None,None,Ho Chi Minh,25000000,38000,99,None,None,0,0,0,0,0
+laptop,5300000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,21600000,8,nan,1,Ho Chi Minh,23590000,100,94,86,100,0,0,0,0,1
+laptop,5863000,35,18,4,Hà Nội,9000000,74400,95,100,88,0,0,0,0,4
+laptop,8275139,36,17,6,Ho Chi Minh,13999999,97,81,100,0,0,0,0,6,
+laptop,8590000,22,5,4,Ho Chi Minh,11010000,27300,96,100,None,0,0,0,0,4
+laptop,14699000,18,17,8,Ho Chi Minh,18000000,30900,100,100,100,0,0,0,0,8
+laptop,2678000,None,None,1,Hung Yen,None,63300,91,65,100,0,0,0,0,1
+laptop,5350000,47,None,None,Hanoi,10000000,84600,94,100,76,0,0,0,0,0
+laptop,6500000,28,11,6,Ha Noi,8490000,94800,94,100,76,0,0,0,0,6
+laptop,3990000,43,None,None,Hanoi,9000000,84600,94,100,76,0,0,0,0,0
+laptop,2750000,14,None,1,Ha Noi,3200000,52400,91,75,100,0,0,0,0,1
+laptop,3400000,None,12,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,9800000,None,None,None,Hanoi,None,34100,90,100,75,0,0,0,0,0
+laptop,3600000,14,6,2,Ha Noi,4200000,38000,98,None,100,0,0,0,0,2
+laptop,2200000,None,None,None,Hung Yen,None,80200,91,65,100,0,0,0,0,0
+laptop,5400000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,4249999,23,7,2,Hà Nội,None,100,98,100,100,0,0,1,0,1
+laptop,539000,18,None,None,Nước ngoài,730000,100,100,None,100,0,0,0,0,
+laptop,400000,None,None,1,Tien Giang,None,40300,87,28,100,0,0,0,1,0
+laptop,32940000,6,9,None,Ho Chi Minh,39900000,19600,97,67,100,0,0,0,0,0
+laptop,5792597,36,5,1,Ho Chi Minh,9999999,97,81,100,0,0,0,0,1,
+laptop,980000,None,5,1,Dak Lak,None,100,90,None,100,0,0,0,0,1
+laptop,1957560,53,None,None,Ho Chi Minh,4200000,27300,96,100,100,0,0,0,0,0
+laptop,8999999,10,10,4,Ho Chi Minh,10890099,100,95,100,85,0,0,0,0,4
+laptop,8599999,39,None,None,Ho Chi Minh,14999999,100,95,100,85,0,0,0,0,1
+laptop,2750000,31,nan,nan,Ho Chi Minh,4000000,16500,96,80,94,0,0,0,0,0
+laptop,3149000,54,12,4,Ho Chi Minh,6800000,27300,96,100,100,0,0,0,0,4
+laptop,5670000,None,52,17,Hung Yen,None,56800,97,100,100,0,0,1,0,16
+laptop,1200000,None,5,3,Tien Giang,None,40300,87,28,100,0,0,0,1,2
+laptop,14799000,30,7,4,Ho Chi Minh,21000000,23800,100,100,100,0,0,0,0,4
+laptop,1500000,None,6,3,Tien Giang,None,40300,82,86,88,0,1,0,0,2
+laptop,1500000,None,None,1,Tien Giang,None,48200,87,28,100,0,0,0,0,0
+laptop,600000,None,None,None,Hanoi,None,64700,94,100,87,0,0,0,0,0
+laptop,1000000,None,None,None,Tien Giang,None,40300,82,86,88,0,0,0,0,0
+laptop,2300000,15,7,4,Ha Noi,2700000,55400,95,100,100,0,0,0,1,3
+laptop,2650000,None,13,3,Ho Chi Minh,None,19600,100,None,100,0,0,0,1,2
+laptop,24500000,None,None,None,Ho Chi Minh,None,20100,96,100,None,0,0,0,0,0
+laptop,3100000,None,20,10,Ho Chi Minh,None,21200,100,None,None,0,0,0,2,8
+laptop,6250000,32,16,3,Ha Noi,10800000,84600,98,100,100,0,0,0,0,3
+laptop,14590000,42,nan,1,Ho Chi Minh,25000000,30900,99,nan,nan,0,0,0,0,1
+laptop,15090000,8,nan,nan,Ho Chi Minh,16489000,9700,97,98,85,0,0,0,0,0
+laptop,3500000,None,None,None,Hanoi,None,Miễn phí,None,100,100,0,0,0,0,0
+laptop,3990000,20,None,1,Ha Noi,4990000,57700,88,100,71,0,0,0,1,1
+laptop,2668000,11,nan,nan,Nghệ An,2998000,63300,94,92,92,0,0,0,0,0
+laptop,3600000,14,None,None,Hanoi,4200000,52400,91,75,100,0,0,0,0,0
+laptop,5750000,None,6,None,Thai Binh,None,100,95,100,None,0,0,0,0,0
+laptop,1900000,None,None,2,Ho Chi Minh,None,27300,96,100,100,0,0,0,0,2
+laptop,19590000,9,nan,nan,Ho Chi Minh,21490000,nan,96,nan,83,0,0,0,0,0
+laptop,8999999,None,11,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,4500000,13,nan,nan,Hà Nội,5200000,52400,91,75,100,0,0,0,0,0
+laptop,2500000,None,None,1,Hung Yen,None,80200,91,65,100,0,0,0,0,1
+laptop,25990000,None,6,1,Ho Chi Minh,None,23800,100,None,None,0,0,0,0,1
+laptop,4199000,None,None,None,Quang Tri,None,100,97,None,None,0,0,0,0,0
+laptop,1700000,None,None,None,Hung Yen,None,80200,91,65,100,0,0,0,0,0
+laptop,25300000,17,9,None,Hanoi,30360000,64700,99,83,None,0,0,0,0,0
+laptop,7500000,16,None,2,Ho Chi Minh,8900000,100,97,100,100,0,0,0,0,2
+laptop,5800000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,2995000,50,None,None,Hanoi,None,None,None,None,0,0,0,0,0,
+laptop,39000,17,313,67,Ho Chi Minh,47000,17000,96,98,97,11,1,3,5,47
+laptop,29000,42,184,78,Ho Chi Minh,50000,16500,None,100,71,7,2,1,1,68
+laptop,1727600,None,None,None,Hanoi,None,Miễn phí,None,None,None,0,0,0,0,0
+laptop,3200000,50,None,None,Hanoi,6400000,100,None,None,None,0,0,0,0,0
+laptop,902899,25,11,2,Hung Yen,1499999,70000,86,100,87,1,0,0,0,2
+laptop,1000000,None,81,28,Hà Nội,None,198200,94,20,83,2,1,1,3,21
+laptop,7224999,52,51,5,Hai Phong,13899999,100,100,100,0,0,0,0,5,
+laptop,6519809,8,294,118,Ho Chi Minh,8999999,100,96,100,100,1,0,2,0,115
+laptop,2622600,42,89,36,Ho Chi Minh,4100000,16500,96,80,94,1,1,1,5,28
+laptop,619000,65,993,317,Nước ngoài,1750000,17000,96,98,100,2,4,5,12,294
+laptop,17990000,38,3000,671,Ho Chi Minh,28990000,10200,94,98,100,28,5,10,17,611
+laptop,125332,23,2200,789,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,771
+laptop,1300000,28,83,41,Ha Noi,None,744000,92,50,85,0,0,0,6,35
+laptop,10490000,19,353,108,Ho Chi Minh,12990000,21200,98,77,50,3,0,0,1,104
+laptop,2668000,8,33,18,Nghệ An,2898000,56800,94,92,91,0,2,0,2,15
+laptop,27590000,16,147,3,Ho Chi Minh,32990000,10200,94,98,100,0,0,0,0,4
+laptop,3248000,10,64,28,Nghệ An,3598000,56800,94,92,91,0,0,0,0,28
+laptop,3258000,19,73,32,Nghệ An,3998000,56800,94,92,91,0,0,1,0,31
+laptop,4173000,11,154,49,Hung Yen,6459000,56800,97,100,100,0,0,1,3,46
+laptop,2455000,None,14,2,Hà Nội,None,38000,79,84,96,0,0,1,0,1
+laptop,1600000,43,24,11,Ho Chi Minh,2800000,100,91,100,100,0,1,0,1,9
+laptop,6500000,27,None,1,Ho Chi Minh,11900000,100,96,100,100,0,0,0,0,2
+laptop,4390000,20,126,29,Hà Nội,5900000,98,100,100,0,0,1,0,28,
+laptop,1239000,38,22,10,Ho Chi Minh,2200000,100,91,100,100,0,0,0,0,10
+laptop,2900000,50,13,3,Ho Chi Minh,5800000,27300,96,100,100,0,0,0,0,5
+laptop,5618818,57,33,19,Ho Chi Minh,13999998,97,81,100,1,0,0,0,18,
+laptop,6685956,27,69,28,Ho Chi Minh,9999999,100,97,None,None,0,0,0,0,28
+laptop,4799999,40,117,33,Hai Phong,7939999,100,95,99,100,1,0,0,0,32
+laptop,4804919,44,97,23,Hai Phong,8599999,51100,88,100,100,3,0,1,0,20
+laptop,864999,28,15,2,Hung Yen,1499999,100600,86,100,87,1,0,0,0,1
+laptop,7689000,None,40,7,Hung Yen,None,37700,100,98,100,0,0,0,0,7
+laptop,6614299,27,91,49,Ho Chi Minh,8999999,100,96,100,100,1,0,0,2,46
+laptop,1798761,10,20,6,Ha Noi,4290000,84600,94,100,82,0,0,0,0,6
+laptop,1089839,16,None,3,Hung Yen,1399999,80200,86,100,87,0,0,0,0,3
+laptop,4560080,21,28,15,Hà Nội,6500000,84600,94,100,82,0,2,0,1,12
+laptop,2834699,19,53,4,Hà Nội,6500000,100,98,100,100,0,0,0,0,4
+laptop,6047091,45,11,5,Ha Noi,11000000,38000,94,100,82,0,0,0,0,5
+laptop,631000,18,None,None,Nước ngoài,845000,100,100,None,100,0,0,0,0,
+laptop,2990000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,3400000,None,14,None,Quang Tri,None,37700,97,None,None,0,0,0,0,0
+laptop,7254959,45,16,3,Hai Phong,13199999,100,100,100,0,0,0,0,3,
+laptop,7131799,52,21,4,Hai Phong,16099999,100,100,100,0,0,0,0,5,
+laptop,990000,1,36,15,Hai Duong,1500000,90700,94,100,75,1,0,1,0,13
+laptop,350000,None,None,None,Tay Ninh,None,48200,97,100,80,0,0,0,0,0
+laptop,4351599,48,25,5,Hai Phong,8299999,100,100,100,0,0,0,0,5,
+laptop,4439400,56,None,None,Ho Chi Minh,10500000,16500,96,80,94,0,0,0,0,0
+laptop,1799000,None,75,21,Dong Nai,None,65500,96,50,50,1,0,0,1,19
+laptop,2550000,20,33,9,Ha Noi,3200000,52400,91,75,100,0,0,0,0,9
+laptop,1799000,None,118,37,Dong Nai,None,65500,96,50,50,0,0,0,1,36
+laptop,1200000,None,25,10,Tien Giang,None,32200,87,28,100,0,0,0,1,9
+laptop,978780,11,9,1,Tien Giang,1100000,40300,82,86,87,0,0,0,0,1
+laptop,3390000,15,None,3,Hanoi,4000000,52400,91,75,100,0,0,0,0,3
+laptop,9490000,42,8,3,Hà Nội,16426000,51500,92,None,None,0,0,0,0,3
+laptop,1700000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,5999999,25,13,9,Ho Chi Minh,7999999,100,97,None,None,0,1,0,0,8
+laptop,2550000,49,169,50,Thai Binh,5000000,80200,95,100,None,2,0,0,2,46
+laptop,14699000,30,38,12,Ho Chi Minh,21000000,23800,100,100,100,0,0,0,0,12
+laptop,6851459,24,127,27,Ho Chi Minh,9999999,100,97,None,None,0,0,0,0,27
+laptop,1600000,None,261,133,Nghệ An,None,56800,95,100,None,6,1,2,9,115
+laptop,6414925,52,27,20,Ho Chi Minh,12999999,97,81,100,1,0,0,0,18,
+laptop,15200000,31,69,22,Ho Chi Minh,22000000,23800,100,100,100,0,0,0,0,22
+laptop,8275139,36,17,6,Ho Chi Minh,13999999,97,81,100,0,0,0,0,6,
+laptop,400000,None,9,2,Tien Giang,None,40300,87,28,100,0,0,0,0,2
+laptop,3500000,None,15,3,Ho Chi Minh,None,20100,88,100,100,0,0,0,0,3
+laptop,1700000,None,17,8,Hung Yen,None,56800,91,65,100,0,0,0,1,7
+laptop,2268000,None,None,1,Nghệ An,None,56800,94,92,91,0,0,0,0,1
+laptop,6228599,28,302,126,Ho Chi Minh,12900000,100,95,100,85,5,0,0,0,122
+laptop,15089000,8,None,None,Ho Chi Minh,16489000,12800,97,98,89,0,0,0,0,0
+laptop,7250089,19,129,35,Ho Chi Minh,8999999,100,95,100,85,1,0,0,0,34
+laptop,3500000,49,None,1,Ho Chi Minh,6800000,23800,96,100,100,0,0,0,0,1
+laptop,6234719,58,7,4,Ho Chi Minh,17999999,97,81,100,0,0,0,0,4,
+laptop,5622499,14,8,2,Hà Nội,None,100,98,100,100,0,0,0,0,2
+laptop,4600000,None,None,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,3800000,None,17,5,Hung Yen,None,70000,91,65,100,1,0,1,0,3
+laptop,4900000,37,None,1,Ho Chi Minh,7800000,100,96,100,100,0,0,0,0,1
+laptop,4650000,None,8,1,Ha Noi,None,45100,99,100,100,0,0,0,0,1
+laptop,3800000,46,None,1,Ho Chi Minh,7000000,16500,96,80,94,0,0,0,1,0
+laptop,7570000,None,55,13,Hà Nội,None,100,98,100,100,0,0,0,0,13
+laptop,2570000,10,33,10,Ha Noi,3270000,100,98,100,100,0,0,0,1,10
+laptop,14900000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,3730000,37,31,11,Ho Chi Minh,6800000,27300,96,100,100,1,0,0,0,10
+laptop,1799000,None,147,39,Dong Nai,None,65500,99,100,50,0,0,0,1,39
+laptop,455555,18,None,None,Nước ngoài,555555,100,100,None,100,0,0,0,0,0
+laptop,5900000,31,nan,nan,Thanh Hoa,8500000,56800,96,100,66,0,0,0,0,0
+laptop,2789000,20,157,66,Quang Tri,4199000,70000,97,None,None,0,0,0,4,62
+laptop,2430000,14,nan,2,Ha Noi,2840000,100,98,100,100,0,0,0,0,2
+laptop,2500000,None,102,46,Hà Nội,None,104900,92,50,85,0,0,2,1,43
+laptop,4200000,28,5,3,Ho Chi Minh,5800000,16500,96,80,94,0,0,0,0,4
+laptop,3240000,None,5,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1300000,13,58,24,Ho Chi Minh,1500000,13800,90,100,100,1,0,1,4,18
+laptop,1799000,None,50,13,Dong Nai,None,65500,96,50,50,0,0,0,1,12
+laptop,1799000,None,52,13,Dong Nai,None,100,96,50,50,0,0,0,0,14
+laptop,2300000,8,None,0,Ha Noi,3000000,104900,92,50,85,0,0,0,0,1
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,1500000,None,11,6,Tien Giang,None,None,None,None,None,0,0,2,0,3
+laptop,1799000,None,64,18,Dong Nai,None,65500,96,50,50,1,0,0,1,16
+laptop,3256000,45,45,16,Ho Chi Minh,8800000,23800,96,100,100,0,0,1,0,15
+laptop,13590000,30,11,3,Ho Chi Minh,19490000,9700,97,98,89,0,0,0,0,3
+laptop,2580420,43,None,1,Ho Chi Minh,5500000,23800,96,100,100,0,0,0,0,1
+laptop,3999999,None,7,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,4500000,None,5,4,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,8890000,30,6,2,Ho Chi Minh,12790000,23800,94,100,None,0,0,0,0,2
+laptop,700000,None,None,1,Tien Giang,None,32200,82,86,87,1,0,0,0,0
+laptop,2350000,22,48,24,Hà Nội,3000000,55400,95,100,100,0,2,0,2,21
+laptop,9956862,11,32,6,Ha Noi,12190000,32500,95,100,95,0,0,0,0,6
+laptop,4404510,32,12,4,Ho Chi Minh,8200000,90,nan,nan,0,0,0,0,5,
+laptop,4500000,None,14,5,Hung Yen,None,51100,100,98,100,0,0,0,0,5
+laptop,2800000,None,None,1,Ho Chi Minh,None,27300,100,None,None,0,0,0,0,1
+laptop,1790000,None,11,1,Hà Nội,None,51500,79,84,96,0,0,0,0,1
+laptop,26000000,10,8,None,Ho Chi Minh,28790000,100,94,86,100,0,0,0,0,0
+laptop,8008199,20,5,1,Ho Chi Minh,9999999,100,95,100,85,0,0,0,0,2
+laptop,4500000,None,None,None,Ho Chi Minh,None,Miễn phí,100,100,100,0,0,0,0,0
+laptop,7352999,52,15,3,Hai Phong,14399999,100,100,100,0,0,0,0,3,
+laptop,7156999,53,20,4,Hai Phong,14099999,100,100,100,0,0,0,0,4,
+laptop,7850000,43,8,4,Ho Chi Minh,13800000,27300,96,100,,0,0,0,0,4
+laptop,6299000,3,None,0,Dong Nai,6500000,100,95,100,100,0,0,0,0,1
+laptop,6300000,None,15,1,Hung Yen,None,70000,91,65,100,0,0,0,0,1
+laptop,3270000,24,9,1,Ha Noi,4289000,100,98,100,100,0,0,0,0,1
+laptop,631000,18,None,None,Nước ngoài,768000,100,100,None,100,0,0,0,0,
+laptop,1799000,None,146,41,Dong Nai,None,65500,99,100,50,0,0,0,1,40
+laptop,400000,None,None,1,Tien Giang,None,40300,87,28,100,0,0,0,0,1
+laptop,3470000,None,9,5,Hà Nội,None,100,98,100,100,0,0,1,0,4
+laptop,4000000,50,nan,1,Ho Chi Minh,8598000,10200,91,100,80,0,0,0,0,1
+laptop,2750000,31,None,None,Ho Chi Minh,4000000,16500,96,80,94,0,0,0,0,0
+laptop,3470000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1400000,None,24,10,Tien Giang,None,40300,87,28,100,2,0,0,0,9
+laptop,899999,10,11,4,Hung Yen,999999,100600,86,100,87,1,0,0,0,4
+laptop,1499999,6,None,None,Hung Yen,1999999,100600,86,100,87,0,0,0,0,0
+laptop,2400000,None,31,10,Hà Nội,None,74400,92,50,85,0,0,1,2,7
+laptop,1200000,8,147,62,Ho Chi Minh,1500000,13800,90,100,100,5,0,1,3,54
+laptop,1900000,None,29,5,Hà Nội,None,38000,79,84,96,1,0,0,0,4
+laptop,1067760,18,18,6,Ho Chi Minh,1300000,13800,90,100,100,0,0,0,0,6
+laptop,2848000,None,None,1,Nghệ An,None,56800,94,92,91,0,0,0,0,1
+laptop,3788000,12,11,5,Nghệ An,None,63300,94,92,91,0,0,1,1,3
+laptop,1950000,None,None,None,Ho Chi Minh,None,38000,None,None,100,0,0,0,0,0
+laptop,9999000,26,9,3,Ho Chi Minh,13490000,27300,93,100,None,0,0,0,0,3
+laptop,7191218,40,103,39,Ho Chi Minh,None,100,98,None,None,1,0,1,0,37
+laptop,2789000,29,22,8,Hung Yen,5200000,63300,91,65,100,0,0,0,1,6
+laptop,6350000,31,5,None,Ho Chi Minh,9250000,20100,88,100,100,0,0,0,0,0
+laptop,1200000,48,None,None,Ho Chi Minh,2300000,100,91,100,100,0,0,0,0,0
+laptop,6950000,None,None,None,Ho Chi Minh,None,Miễn phí,96,100,100,0,0,0,0,0
+laptop,3900000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,2198000,None,None,None,Nghệ An,None,63300,94,92,91,0,0,0,0,0
+laptop,3990002,34,None,None,Hanoi,6000000,104900,94,100,82,0,0,0,0,0
+laptop,2700000,36,None,2,Ho Chi Minh,4200000,20100,88,100,100,0,0,0,0,1
+laptop,5200000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,2150000,None,23,7,Hà Nội,None,100,97,100,100,0,0,0,0,7
+laptop,7600000,None,40,9,Hung Yen,None,70000,91,65,100,0,0,0,0,9
+laptop,7100000,None,42,4,Hung Yen,None,37700,100,98,100,0,0,0,0,4
+laptop,6500000,28,11,6,Ha Noi,8490000,94800,94,100,82,0,0,0,0,6
+laptop,8400000,None,16,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,6500000,None,11,5,Hung Yen,None,70000,91,65,100,0,0,0,1,4
+laptop,4790000,40,nan,2,Ha Noi,8000000,84600,94,100,82,0,0,0,0,2
+laptop,2496000,7,5,2,Nghệ An,2998000,63300,94,92,91,0,0,0,0,3
+laptop,8990000,44,None,3,Ha Noi,16000000,84600,94,100,82,0,0,0,2,1
+laptop,5338799,11,9,4,Hà Nội,None,100,98,100,100,0,0,0,0,4
+laptop,8590000,22,5,4,Ho Chi Minh,11010000,27300,96,100,None,0,0,0,0,4
+laptop,3500000,12,30,12,Hung Yen,4600000,80200,91,65,100,1,1,4,0,6
+laptop,3890000,15,None,1,Ha Noi,4600000,52400,91,75,100,0,0,0,0,1
+laptop,2870000,12,7,2,Hà Nội,3270000,100,98,100,100,0,0,0,1,1
+laptop,3000000,40,5,4,Hà Nội,4998000,74400,79,84,96,0,0,0,0,3
+laptop,1000000,None,14,5,Tien Giang,None,40300,87,28,100,0,0,0,0,6
+laptop,1799000,None,177,43,Dong Nai,None,65500,97,None,None,1,0,1,0,41
+laptop,990000,42,None,None,Thanh Hoa,1699969,80200,86,100,None,0,0,0,0,0
+laptop,800000,None,None,None,Tien Giang,None,40300,87,28,100,0,0,0,0,0
+laptop,1031000,None,None,None,Tien Giang,None,40300,87,28,100,0,0,0,0,0
+laptop,1200000,8,138,56,Ho Chi Minh,1850000,13800,90,100,100,4,2,1,2,47
+laptop,3070000,6,5,1,Ha Noi,3270000,100,98,100,100,0,0,0,0,1
+laptop,1300000,None,14,8,Hà Nội,None,104900,92,50,85,0,0,0,0,8
+laptop,999999,17,38,10,Hung Yen,1199999,100600,82,100,nan,1,1,1,0,7
+laptop,1799000,None,52,13,Dong Nai,None,65500,96,50,50,0,0,0,0,13
+laptop,6900000,None,123,52,Hà Nội,None,494000,96,None,None,0,0,0,0,52
+laptop,1490000,32,10,3,Ha Noi,2200000,55400,95,100,100,0,0,0,1,2
+laptop,5499000,25,130,57,Ha Noi,7299000,74400,96,100,100,0,0,0,2,55
+laptop,11290000,6,None,None,Ho Chi Minh,11990000,None,96,None,81,0,0,0,0,0
+laptop,7050000,30,11,3,Hanoi,None,None,None,None,None,0,0,0,0,3
+laptop,1500000,None,None,1,Tien Giang,None,48200,87,28,100,0,0,0,0,0
+laptop,1990000,None,7,1,Hà Nội,None,100,95,None,None,0,0,0,0,1
+laptop,2500000,44,7,2,Phu Tho,4800000,51100,87,None,None,0,0,0,0,2
+laptop,2500000,None,None,None,Ho Chi Minh,None,23800,79,100,None,0,0,0,0,0
+laptop,9706000,None,18,3,Hà Nội,None,64700,92,None,None,0,0,0,0,3
+laptop,3600000,40,11,3,Ha Noi,6750000,84600,98,100,100,0,0,0,0,3
+laptop,8890000,29,None,None,Ho Chi Minh,12490000,20100,97,99,86,0,0,0,0,0
+laptop,6500000,None,19,8,Hung Yen,None,70000,91,65,100,0,0,0,0,8
+laptop,5800000,34,12,2,Ha Noi,8800000,84600,98,100,100,0,0,0,0,3
+laptop,5792597,36,5,1,Ho Chi Minh,9999999,97,81,100,0,0,0,0,1,
+laptop,2350000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,25080000,13,nan,nan,Hà Nội,28840000,74400,100,nan,nan,0,0,0,0,0
+laptop,2650000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,2990000,25,13,8,Hà Nội,3990000,51500,100,100,None,0,1,0,0,7
+laptop,3500000,12,10,4,Hung Yen,None,None,None,None,None,0,0,0,0,4
+laptop,8599999,39,None,None,Ho Chi Minh,14999999,100,95,100,85,0,0,0,0,1
+laptop,9990000,9,nan,nan,Ho Chi Minh,10990000,nan,96,nan,81,0,0,0,0,0
+laptop,21600000,8,nan,1,Ho Chi Minh,23590000,100,94,86,100,0,0,0,0,1
+laptop,2500000,None,None,1,Hung Yen,None,80200,91,65,100,0,0,0,0,1
+laptop,2200000,None,None,None,Hung Yen,None,80200,91,65,100,0,0,0,0,1
+laptop,5800000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,7290599,49,15,2,Hai Phong,14299999,100,100,100,0,0,0,0,3,
+laptop,1799000,None,170,49,Dong Nai,None,65500,97,None,None,2,0,0,0,47
+laptop,1100000,8,nan,nan,Dong Nai,1200000,100,100,100,0,0,0,0,0,
+laptop,2880000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,2667000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,2970000,None,5,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,1500000,None,None,None,Ho Chi Minh,None,Miễn phí,93,100,100,0,0,0,0,0
+laptop,3349000,None,30,6,Quang Tri,None,100,97,None,None,0,0,0,0,6
+laptop,680000,None,None,None,Ho Chi Minh,None,27300,100,83,100,0,0,0,0,0
+laptop,3800000,None,90,25,Nam Dinh,None,56800,99,100,100,0,0,0,0,25
+laptop,2240000,19,5,2,Ha Noi,2770000,100,98,100,100,0,0,0,0,2
+laptop,1200000,14,145,53,Ho Chi Minh,1400000,13800,90,100,100,3,2,1,2,45
+laptop,2450000,None,17,10,Binh Duong,None,40300,96,None,None,0,0,1,0,9
+laptop,2500000,None,8,6,Hà Nội,None,104900,92,50,85,1,0,0,0,5
+laptop,5700000,35,nan,1,Ho Chi Minh,8800000,100,96,100,100,0,0,0,0,1
+laptop,9590000,24,None,None,Ho Chi Minh,12590000,30900,88,None,None,0,0,0,0,0
+laptop,3390000,11,None,1,Ha Noi,3800000,55400,95,100,100,0,0,0,0,1
+laptop,29990000,25,nan,nan,Hà Nội,39990000,21200,99,97,99,0,0,0,0,0
+laptop,9490000,36,None,None,Ho Chi Minh,14790000,10200,97,98,89,0,0,0,0,0
+laptop,1290000,None,None,None,Binh Duong,None,118500,None,None,None,0,0,0,0,0
+laptop,19690000,10,nan,nan,Ho Chi Minh,21990000,nan,96,nan,81,0,0,0,0,0
+laptop,15090000,8,nan,nan,Ho Chi Minh,16489000,9700,97,98,89,0,0,0,0,0
+laptop,15500000,26,5,None,Ho Chi Minh,20990000,12800,94,100,None,0,0,0,0,0
+laptop,6300000,40,nan,1,Ho Chi Minh,10500000,100,96,100,100,0,0,0,0,1
+laptop,3950000,None,None,None,Hanoi,None,100,97,100,100,0,0,0,0,0
+laptop,17337000,21,nan,nan,Ho Chi Minh,21990000,16300,94,100,nan,0,0,0,0,0
+laptop,3500000,None,None,None,Hanoi,None,64700,100,None,None,0,0,0,0,0
+laptop,16500000,13,nan,nan,Hanoi,18980000,64700,100,nan,nan,0,0,0,0,0
+laptop,7750000,22,8,None,Hanoi,9990000,74400,98,100,92,0,0,0,0,0
+laptop,3700000,None,None,None,Ho Chi Minh,None,20100,90,86,None,0,0,0,0,0
+laptop,26694000,11,nan,nan,Hà Nội,30000000,100,98,100,100,0,0,0,0,0
+laptop,10590000,24,9,1,Ho Chi Minh,13890000,23800,94,100,None,0,0,1,0,0
+laptop,3381240,42,None,1,Ho Chi Minh,5800000,23800,96,100,100,0,0,0,0,1
+laptop,13890000,13,nan,nan,Ho Chi Minh,15990000,nan,96,nan,81,0,0,0,0,0
+laptop,9950000,26,None,1,Ho Chi Minh,13480000,27300,96,100,None,0,0,0,0,1
+laptop,11780000,33,nan,nan,Hà Nội,17490000,84600,98,100,92,0,0,0,0,0
+laptop,8800000,7,nan,1,Ha Noi,9500000,64700,100,nan,nan,0,0,0,0,1
+laptop,15400000,13,nan,1,Ha Noi,17710000,64700,100,nan,nan,0,0,0,0,1
+laptop,7900000,21,None,None,Hanoi,10000000,84600,94,100,82,0,0,0,0,0
+laptop,8897999,26,14,1,Ho Chi Minh,12599999,100,95,100,85,0,0,0,0,1
+laptop,1900000,5,nan,nan,Da Nang,2000000,45100,100,nan,nan,0,0,0,0,0
+laptop,2530000,None,None,None,Ho Chi Minh,None,20100,None,None,None,0,0,0,0,0
+laptop,3800000,21,None,1,Ho Chi Minh,5800000,27300,96,100,100,0,0,0,0,1
+laptop,3380000,32,None,None,Ho Chi Minh,5000000,23800,96,100,100,0,0,0,0,0
+laptop,1354350,10,5,1,Tien Giang,1500000,48200,82,86,87,0,0,0,0,1
+laptop,668113,33,None,None,Nước ngoài,999900,17000,100,None,None,0,0,0,0,0
+laptop,1842000,None,None,None,Hanoi,None,64700,79,84,96,0,0,0,0,0
+laptop,1957560,53,None,None,Ho Chi Minh,4200000,27300,96,100,100,0,0,0,0,0
+laptop,1799000,None,146,35,Dong Nai,None,65500,97,None,None,0,0,0,0,35
+laptop,1970000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1790000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,4600000,None,16,15,Hà Nội,None,100,None,None,0,0,0,0,15,
+laptop,2500000,None,25,10,Hà Nội,None,104900,92,50,85,0,0,0,2,9
+laptop,2300000,15,7,4,Ha Noi,2700000,55400,95,100,100,0,0,0,1,3
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,1500000,None,None,None,Tien Giang,None,48200,87,28,100,0,0,0,0,0
+laptop,9990000,19,5,None,Ho Chi Minh,12290000,None,96,None,81,0,0,0,0,0
+laptop,1999000,None,None,None,Ho Chi Minh,None,18300,92,100,77,0,0,0,0,0
+laptop,3690000,12,None,None,Hanoi,4200000,55400,95,100,100,0,0,0,0,0
+laptop,6570000,None,131,23,Hung Yen,None,56800,97,100,100,0,0,0,2,21
+laptop,8000000,32,74,7,Ha Noi,11800000,84600,98,100,100,0,0,0,0,7
+laptop,950000,None,None,None,Ho Chi Minh,None,Miễn phí,93,100,100,0,0,0,0,0
+laptop,3381240,48,6,4,Ho Chi Minh,6500000,27300,96,100,100,0,0,0,0,4
+laptop,14990000,9,nan,nan,Ho Chi Minh,16490000,9700,97,98,89,0,0,0,0,0
+laptop,2660000,25,153,43,Hung Yen,3560000,90400,91,65,100,1,4,2,10,26
+laptop,27990000,26,None,None,Ho Chi Minh,37999000,21200,99,97,99,0,0,0,0,0
+laptop,60420400,None,None,None,Hanoi,None,74400,92,None,None,0,0,0,0,0
+laptop,2500000,22,8,4,Ha Noi,3200000,62600,91,75,100,0,0,0,1,3
+laptop,2800000,20,nan,nan,Ho Chi Minh,3500000,27300,96,100,80,0,0,0,0,0
+laptop,1500000,25,nan,2,Ho Chi Minh,2000000,100,91,100,100,0,0,0,0,2
+laptop,11000000,13,nan,nan,Hanoi,12650000,64700,100,nan,nan,0,0,0,0,1
+laptop,2990000,None,19,9,Hung Yen,None,90400,91,65,100,0,0,0,1,8
+laptop,8800000,None,24,7,Hà Nội,None,38000,97,100,100,0,0,0,0,7
+laptop,18370000,13,nan,nan,Hanoi,21130000,64700,100,nan,nan,0,0,0,0,0
+laptop,18370000,13,nan,nan,Hanoi,21130000,64700,100,nan,nan,0,0,0,0,0
+laptop,6620111,53,nan,1,Ho Chi Minh,15999999,97,81,100,0,0,0,0,1,
+laptop,13200000,13,nan,nan,Ha Noi,15180000,64700,100,nan,nan,0,0,0,0,0
+laptop,24750000,13,nan,nan,Hanoi,28460000,74400,100,nan,nan,0,0,0,0,0
+laptop,1650000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,39999000,None,7,None,Ho Chi Minh,None,Mien phi,97,100,100,0,0,0,0,0
+laptop,11999999,8,None,None,Ho Chi Minh,12999999,100,96,100,100,0,0,0,0,0
+laptop,4388000,None,None,None,Nghệ An,None,63300,94,92,91,0,0,0,0,0
+laptop,4199000,None,None,None,Quang Tri,None,100,97,None,None,0,0,0,0,0
+laptop,2870000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1799000,None,67,17,Dong Nai,None,65500,96,50,50,1,0,0,0,17
+laptop,1800000,None,30,12,Hung Yen,None,63300,91,65,100,0,0,0,1,11
+laptop,990000,42,None,2,Thanh Hoa,1699989,70000,86,100,None,0,1,0,0,1
+laptop,1099000,None,None,None,Hanoi,None,63400,93,92,78,0,0,0,0,0
+laptop,1200000,14,nan,2,Ho Chi Minh,1400000,13800,90,100,100,0,0,0,0,2
+laptop,2000000,50,11,1,Ho Chi Minh,4000000,20100,67,None,None,0,0,0,0,1
+laptop,1900000,5,33,14,Ho Chi Minh,2000000,13800,90,100,100,0,0,1,1,12
+laptop,4526000,43,210,69,Hà Nội,8000000,74400,95,100,90,0,1,1,2,65
+laptop,7750000,28,119,11,Ha Noi,None,None,None,None,None,0,0,0,0,11
+laptop,2100000,None,None,None,Hanoi,None,Miễn phí,None,None,None,0,0,0,0,0
+laptop,14599000,25,nan,nan,Ho Chi Minh,19490000,27300,93,100,nan,0,0,0,0,0
+laptop,1950000,None,None,None,Ho Chi Minh,None,19600,None,None,100,0,0,0,0,0
+laptop,1900000,5,11,5,Ho Chi Minh,2000000,13800,90,100,100,0,0,0,0,5
+laptop,2128000,None,18,3,Hà Nội,None,64700,79,84,96,1,0,0,0,2
+laptop,2500000,None,None,None,Dong Nai,None,40300,None,None,100,0,0,0,0,0
+laptop,3650000,None,None,None,Hung Yen,None,43900,100,98,100,0,0,0,0,0
+laptop,24610000,None,6,None,Ho Chi Minh,None,74700,92,20,83,0,0,0,0,0
+laptop,900000,None,None,None,Ho Chi Minh,None,Miễn phí,93,100,100,0,0,0,0,0
+laptop,3800000,37,None,None,Ho Chi Minh,7500000,100,96,100,100,0,0,0,0,0
+laptop,13500000,12,None,None,Ho Chi Minh,15400000,30900,96,100,None,0,0,0,0,0
+laptop,6900000,None,13,5,Hung Yen,None,70000,91,65,100,1,0,1,1,2
+laptop,3900000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,2610000,48,None,None,Ho Chi Minh,5000000,23800,96,100,100,0,0,0,0,0
+laptop,2450000,18,6,4,Ha Noi,3000000,55400,95,100,100,0,0,0,1,2
+laptop,14790000,10,nan,nan,Ho Chi Minh,16490000,nan,96,nan,81,0,0,0,0,0
+laptop,5990000,9,nan,2,Thanh Hoa,6590000,56800,96,100,66,1,0,0,0,1
+laptop,3149000,54,12,4,Ho Chi Minh,6800000,27300,96,100,100,0,0,0,0,4
+laptop,5350000,47,None,None,Hà Nội,10000000,84600,94,100,82,0,0,0,0,0
+laptop,8999000,None,24,6,Hung Yen,None,70000,91,65,100,0,0,1,0,5
+laptop,2990000,None,5,0,Hung Yen,None,56800,91,65,100,0,0,0,0,1
+laptop,1950000,25,nan,nan,Hà Nội,2600000,55400,95,100,100,0,0,0,0,0
+laptop,24750000,13,nan,nan,Hanoi,28460000,64700,100,nan,nan,0,0,0,0,0
+laptop,1700000,None,None,None,Hung Yen,None,80200,91,65,100,0,0,0,0,0
+laptop,11490000,12,None,None,Ho Chi Minh,12990000,None,96,None,81,0,0,0,0,0
+laptop,20950000,7,nan,nan,Ho Chi Minh,22590000,100,94,86,100,0,0,0,0,0
+laptop,2900000,None,None,None,Hanoi,None,32700,None,None,None,0,0,0,0,0
+laptop,5500000,None,None,1,Ho Chi Minh,None,100,97,100,100,0,0,0,0,1
+laptop,400000,1,nan,nan,Nuoc ngai,935000,100,nan,33,nan,0,0,0,0,0
+laptop,2970000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,2290000,50,nan,2,Ho Chi Minh,4580000,9100,91,100,80,0,0,0,0,2
+laptop,1799000,None,59,15,Dong Nai,None,100,96,50,50,0,0,0,0,15
+laptop,1990000,50,25,8,Ho Chi Minh,3980000,9100,91,100,80,0,0,0,1,7
+laptop,1000000,None,None,None,Tien Giang,None,40300,82,86,87,0,0,0,0,0
+laptop,2500000,None,None,None,Dong Nai,None,65500,None,None,100,0,0,0,0,0
+laptop,2750000,None,None,None,Dong Nai,None,40300,None,None,100,0,0,0,0,0
+laptop,3570000,12,7,4,Hà Nội,4070000,100,98,100,100,0,1,0,0,3
+laptop,6500000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,6569000,None,77,11,Hung Yen,None,37700,97,100,100,0,0,0,1,10
+laptop,27950000,7,nan,nan,Ho Chi Minh,35990000,19600,97,67,100,0,0,0,0,0
+laptop,4893899,11,24,19,Hà Nội,None,100,98,100,100,0,0,0,0,20
+laptop,4800000,None,196,65,Nam Dinh,None,56800,99,100,100,0,0,0,0,65
+laptop,32940000,6,9,None,Ho Chi Minh,39900000,19600,97,67,100,0,0,0,0,0
+laptop,8566770,None,None,None,Hung Yen,None,37700,100,98,100,0,0,0,0,0
+laptop,11999000,29,None,None,Ho Chi Minh,16990000,27300,93,100,None,0,0,0,0,0
+laptop,15490000,3,nan,nan,Ho Chi Minh,15990000,nan,96,nan,81,0,0,0,0,0
+laptop,7549557,42,49,27,Ho Chi Minh,15954300,98,nan,nan,0,0,0,0,27,
+laptop,19569000,22,None,None,Ho Chi Minh,25000000,38000,99,None,None,0,0,0,0,0
+laptop,12600000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,20390000,None,None,None,Hanoi,None,38000,None,None,None,0,0,0,0,0
+laptop,5750000,None,6,None,Thai Binh,None,100,95,100,None,0,0,0,0,0
+laptop,16990000,17,nan,1,Ho Chi Minh,20490000,nan,96,nan,81,0,0,0,0,1
+laptop,8500000,None,None,1,Thanh Hoa,None,Miễn phí,92,None,33,0,0,0,0,1
+laptop,11290000,2,nan,nan,Ho Chi Minh,11490000,nan,96,nan,81,0,0,0,0,0
+laptop,21799000,13,8,None,Ho Chi Minh,25000000,23800,93,100,None,0,0,0,0,0
+laptop,18370000,17,5,1,Ha Noi,22044000,64700,99,83,40,0,0,0,0,1
+laptop,10307500,None,None,1,Ho Chi Minh,None,74700,92,20,83,0,0,0,0,1
+laptop,7990000,None,None,None,Hanoi,None,100,95,None,40,0,0,0,0,0
+laptop,9630000,None,19,None,Ho Chi Minh,None,52300,92,20,83,0,0,0,0,0
+laptop,8990000,18,None,None,Ho Chi Minh,10990000,None,96,None,81,0,0,0,0,0
+laptop,25990000,None,6,1,Ho Chi Minh,None,23800,100,None,None,0,0,0,0,1
+laptop,16500000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,20143200,25,5,None,Ho Chi Minh,44899000,100,97,100,100,0,0,0,0,0
+laptop,15890000,None,8,1,Ho Chi Minh,None,23800,100,None,None,0,0,0,0,1
+laptop,18990000,None,None,None,Ho Chi Minh,None,23800,100,None,None,0,0,0,0,0
+laptop,27990000,26,nan,nan,Ho Chi Minh,37999000,100,99,97,94,0,0,0,0,0
+laptop,22790000,19,None,None,Ho Chi Minh,27990000,9700,97,98,89,0,0,0,0,0
+laptop,7599999,47,None,1,Hai Phong,14799999,100,95,99,100,0,0,0,0,1
+laptop,19390000,None,6,2,Ho Chi Minh,None,100,99,100,100,0,0,0,0,2
+laptop,8999999,10,10,4,Ho Chi Minh,10890099,100,95,100,85,0,0,0,0,4
+laptop,5300000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,3990000,20,5,2,Hà Nội,5390000,57700,100,None,None,0,0,0,0,2
+laptop,1000000,None,11,2,Tien Giang,None,40300,82,86,87,1,0,1,0,1
+laptop,1000000,None,None,None,Tien Giang,None,40300,82,86,87,0,0,0,0,0
+laptop,6000000,None,136,42,Nam Dinh,None,56800,99,100,100,0,0,0,0,42
+laptop,2250000,46,9,4,Ho Chi Minh,4200000,20100,96,100,100,0,0,0,0,5
+laptop,1700000,None,None,None,Ho Chi Minh,None,18300,92,100,77,0,0,0,0,0
+laptop,2668000,11,nan,nan,Nghệ An,2998000,63300,94,92,91,0,0,0,0,0
+laptop,6520000,None,43,14,Hung Yen,None,37700,100,98,100,0,0,0,2,12
+laptop,990000,None,38,12,Ho Chi Minh,None,27300,90,None,100,1,1,0,2,8
+laptop,4800000,None,75,23,Nam Dinh,None,56800,99,100,100,0,0,0,0,24
+laptop,151000,74,None,None,Nước ngoài,580000,17000,96,94,100,0,0,0,0,0
+laptop,5990000,48,None,None,Hanoi,11490000,100,85,None,None,0,0,0,0,0
+laptop,6399999,17,28,11,Hà Nội,None,100,98,100,100,0,0,0,0,11
+laptop,361200,23,None,None,Nước ngoài,469560,100,97,100,100,0,0,0,0,0
+laptop,2650000,None,13,3,Ho Chi Minh,None,19600,100,None,100,0,0,0,1,2
+laptop,12000000,None,None,None,Thai Nguyen,None,43900,None,None,None,0,0,0,0,0
+laptop,4800000,38,None,None,Ho Chi Minh,7800000,100,96,100,100,0,0,0,0,0
+laptop,3900000,None,12,3,Hà Nội,None,51500,79,84,96,0,0,0,1,2
+laptop,55188000,None,49,None,Ho Chi Minh,None,Mien phi,82,None,100,0,0,0,0,0
+laptop,3995000,None,6,5,Ho Chi Minh,None,20700,99,100,100,0,0,0,0,5
+laptop,1999000,None,None,None,Ho Chi Minh,None,18300,92,100,77,0,0,0,0,0
+laptop,2000000,None,5,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,4427000,None,None,None,Hanoi,None,64700,79,84,96,0,0,0,0,0
+laptop,3100000,None,20,10,Ho Chi Minh,None,21200,100,None,None,0,0,0,2,8
+laptop,79120,65,9,5,Nước ngoài,228000,17000,95,93,99,0,0,0,0,6
+laptop,46490000,None,38,None,Ho Chi Minh,None,None,96,None,81,0,0,0,0,0
+laptop,1642000,None,25,4,Hà Nội,None,64700,79,84,96,1,0,0,0,3
+laptop,1326000,None,None,None,Ho Chi Minh,None,23800,98,83,100,0,0,0,0,0
+laptop,5300000,None,None,None,Hanoi,None,None,None,None,0,0,0,0,0,
+laptop,14699000,18,17,8,Ho Chi Minh,18000000,30900,100,100,100,0,0,0,0,8
+laptop,4093080,31,None,2,Ho Chi Minh,5900000,27300,96,100,100,0,0,0,0,3
+laptop,8500000,None,23,4,Hung Yen,None,70000,91,65,100,0,0,1,0,3
+laptop,10590000,15,None,None,Hanoi,12460000,115100,92,None,None,0,0,0,0,0
+laptop,4790000,19,5,1,Ho Chi Minh,5900000,90,nan,nan,0,0,0,0,1,
+laptop,3400000,None,12,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,6250000,4,nan,nan,Ho Chi Minh,8500000,100,97,100,100,0,0,0,0,0
+laptop,18190000,9,nan,nan,Ho Chi Minh,19990000,nan,96,nan,81,0,0,0,0,0
+laptop,39000,17,313,67,Ho Chi Minh,None,None,None,None,None,11,1,3,5,47
+laptop,1727600,None,None,None,Hanoi,None,None,None,None,0,0,0,0,0,
+laptop,3200000,50,None,None,Hanoi,6400000,100,None,None,None,0,0,0,0,0
+laptop,3899,None,14,0,Quang Tri,None,37700,97,None,None,0,0,0,0,1
+laptop,17990000,38,3000,672,Ho Chi Minh,28990000,10200,94,98,100,28,5,10,17,612
+laptop,6685956,27,69,28,Ho Chi Minh,9999999,100,97,None,None,0,0,0,0,28
+laptop,1000000,None,81,28,Hà Nội,None,198200,94,20,83,2,1,1,3,21
+laptop,79120,65,9,5,Nuoc Ngoai,228000,17000,95,93,99,0,0,0,0,6
+laptop,350000,None,None,None,Tay Ninh,None,48200,97,100,80,0,0,0,0,0
+laptop,902899,25,11,2,Hung Yen,1499999,70000,86,100,87,1,0,0,0,2
+laptop,125332,23,2200,790,Ho Chi Minh,199000,16500,99,100,100,3,1,2,12,772
+laptop,1300000,28,83,41,Hà Nội,None,744000,92,50,85,0,0,0,6,35
+laptop,1300000,13,58,24,Ho Chi Minh,1500000,13800,90,100,100,1,0,1,4,18
+laptop,1200000,8,138,56,Ho Chi Minh,1850000,13800,90,100,100,4,2,1,2,47
+laptop,3730000,37,31,11,Ho Chi Minh,6800000,27300,96,100,100,1,0,0,0,10
+laptop,27590000,16,147,3,Ho Chi Minh,32990000,None,94,98,100,0,0,0,0,4
+laptop,1799000,None,118,37,Dong Nai,None,65500,96,50,50,0,0,0,1,36
+laptop,3248000,10,64,28,Nghệ An,3598000,56800,94,92,91,0,0,0,0,28
+laptop,1200000,8,147,62,Ho Chi Minh,1500000,13800,90,100,100,5,0,1,3,54
+laptop,3258000,19,73,32,Nghệ An,3998000,56800,94,92,91,0,0,1,0,31
+laptop,978780,11,9,1,Tien Giang,1100000,40300,82,86,87,0,0,0,0,1
+laptop,2455000,None,14,2,Hà Nội,None,38000,79,84,96,0,0,1,0,1
+laptop,3390000,15,None,3,Hanoi,4000000,52400,91,75,100,0,0,0,0,3
+laptop,1200000,48,24,11,Ho Chi Minh,2500000,100,91,100,100,0,1,0,1,9
+laptop,2300000,8,nan,0,Ha Noi,3000000,104900,92,50,85,0,0,0,0,1
+laptop,1067760,18,18,6,Ho Chi Minh,1300000,13800,90,100,100,0,0,0,0,6
+laptop,1600000,None,261,133,Nghệ An,None,56800,95,100,None,6,1,2,9,115
+laptop,299712,None,None,None,Ho Chi Minh,None,18300,99,100,100,0,0,0,0,0
+laptop,990000,1,36,15,Hai Duong,1500000,90700,94,100,75,1,0,1,0,13
+laptop,1239000,38,22,10,Ho Chi Minh,2200000,100,91,100,100,0,0,0,0,10
+laptop,78886,None,None,1,Ho Chi Minh,None,18300,99,100,100,0,0,0,0,1
+laptop,400000,1,nan,nan,Nuoc ngai,935000,100,nan,33,nan,0,0,0,0,0
+laptop,4799999,40,117,33,Hai Phong,7939999,100,95,99,100,1,0,0,0,32
+laptop,400000,None,9,2,Tien Giang,None,40300,87,37,100,0,0,0,0,2
+laptop,4804919,44,97,23,Hai Phong,8599999,51100,88,100,100,3,0,1,0,20
+laptop,6614299,27,91,49,Ho Chi Minh,8999999,100,96,100,100,1,0,0,2,46
+laptop,6519809,8,294,118,Ho Chi Minh,8999999,100,96,100,100,1,0,2,0,115
+laptop,400000,None,None,1,Tien Giang,None,40300,87,37,100,0,0,0,0,1
+laptop,1089839,16,None,3,Hung Yen,1399999,80200,86,100,87,0,0,0,0,3
+laptop,1200000,48,None,None,Ho Chi Minh,2300000,100,91,100,100,0,0,0,0,0
+laptop,631000,18,None,None,Nước ngoài,845000,100,100,None,100,0,0,0,0,
+laptop,631000,18,None,None,Nước ngoài,768000,100,100,None,100,0,0,0,0,
+laptop,400000,None,5,1,Tien Giang,None,40300,87,37,100,1,0,0,0,0
+laptop,455555,18,None,None,Nước ngoài,555555,100,100,None,100,0,0,0,0,0
+laptop,548800,26,None,None,Nước ngoài,740880,261,None,100,None,0,0,0,0,0
+laptop,4390000,20,126,29,Hà Nội,5900000,98,100,100,0,0,1,0,28,
+laptop,2550000,20,33,9,Ha Noi,3200000,52400,91,75,100,0,0,0,0,9
+laptop,1790000,None,11,1,Hà Nội,None,51500,79,84,96,0,0,0,0,1
+laptop,700000,None,None,1,Tien Giang,None,32200,82,86,87,1,0,0,0,0
+laptop,110000,None,33,11,Thua Thien Hue,None,56800,92,82,37,4,0,0,0,7
+laptop,1200000,None,25,10,Tien Giang,None,32200,87,37,100,0,0,0,1,9
+laptop,2500000,None,102,46,Ha Noi,None,104900,92,50,85,0,0,2,1,43
+laptop,10490000,19,353,108,Ho Chi Minh,12990000,21200,98,77,50,3,0,0,1,104
+laptop,1799000,None,146,41,Dong Nai,None,65500,99,100,50,0,0,0,1,40
+laptop,4173000,11,154,49,Hung Yen,6459000,56800,97,100,100,0,0,1,3,46
+laptop,1990000,50,25,8,Ho Chi Minh,3980000,9100,91,100,80,0,0,0,1,7
+laptop,4000000,50,nan,1,Ho Chi Minh,8598000,10200,91,100,80,0,0,0,0,1
+laptop,1799000,None,147,39,Dong Nai,None,65500,99,100,50,0,0,0,1,39
+laptop,1900000,None,29,5,Hà Nội,None,38000,79,84,96,1,0,0,0,4
+laptop,1799000,None,52,13,Dong Nai,None,100,96,50,50,0,0,0,0,14
+laptop,1842000,None,None,None,Hanoi,None,64700,79,84,96,0,0,0,0,0
+laptop,3000000,40,5,4,Hà Nội,4998000,74400,79,84,96,0,0,0,0,3
+laptop,2190000,None,None,None,Ho Chi Minh,None,18300,92,100,77,0,0,0,0,0
+laptop,1799000,None,75,21,Dong Nai,None,65500,96,50,50,1,0,0,1,19
+laptop,1500000,None,11,6,Tien Giang,None,40300,87,37,100,0,0,2,0,3
+laptop,2900000,50,13,4,Ho Chi Minh,5800000,27300,96,100,100,0,0,0,0,5
+laptop,1950000,None,None,None,Ho Chi Minh,None,38000,None,None,100,0,0,0,0,0
+laptop,864999,28,15,2,Hung Yen,1499999,100600,86,100,87,1,0,0,0,1
+laptop,222000,73,None,None,Nước ngoài,863000,17000,95,93,99,0,0,0,0,0
+laptop,1798761,10,20,6,Ha Noi,4290000,84600,94,100,82,0,0,0,0,6
+laptop,800000,None,None,None,Tien Giang,None,40300,87,37,100,0,0,0,0,0
+laptop,4560080,21,28,15,Hà Nội,6500000,84600,94,100,82,0,2,0,1,12
+laptop,1499999,6,None,None,Hung Yen,1999999,100600,86,100,87,0,0,0,0,0
+laptop,2834699,19,53,4,Hà Nội,6500000,100,98,100,100,0,0,0,0,4
+laptop,1500000,None,None,1,Tien Giang,None,48200,87,37,100,0,0,0,0,0
+laptop,6228599,28,302,126,Ho Chi Minh,12900000,100,95,100,85,5,0,0,0,122
+laptop,4351599,48,25,5,Hai Phong,8299999,100,100,100,0,0,0,0,5,
+laptop,2500000,44,7,2,Phu Tho,4800000,51100,87,None,None,0,0,0,0,2
+laptop,2622600,42,89,36,Ho Chi Minh,4100000,16500,96,80,94,1,1,1,5,28
+laptop,7250089,19,129,35,Ho Chi Minh,8999999,100,95,100,85,1,0,0,0,34
+laptop,3240000,None,5,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,5999999,25,13,9,Ho Chi Minh,7999999,100,97,None,None,0,1,0,0,8
+laptop,4900000,37,None,1,Ho Chi Minh,7800000,100,96,100,100,0,0,0,0,1
+laptop,1300000,None,14,8,Hà Nội,None,104900,92,50,85,0,0,0,0,8
+laptop,3500000,49,None,1,Ho Chi Minh,6800000,23800,96,100,100,0,0,0,0,1
+laptop,7570000,None,55,13,Hà Nội,None,100,98,100,100,0,0,0,0,13
+laptop,6851459,24,127,27,Ho Chi Minh,9999999,100,97,None,None,0,0,0,0,27
+laptop,2570000,10,33,10,Ha Noi,3270000,100,98,100,100,0,0,0,1,10
+laptop,1990000,None,7,1,Hà Nội,None,100,95,None,None,0,0,0,0,1
+laptop,200000,50,nan,nan,Thua Thien Hue,400000,100600,94,95,78,0,0,0,0,0
+laptop,1900000,5,33,14,Ho Chi Minh,2000000,13800,90,100,100,0,0,1,1,12
+laptop,2668000,8,33,18,Nghệ An,2898000,56800,94,92,91,0,2,0,2,15
+laptop,1200000,14,145,53,Ho Chi Minh,1400000,13800,90,100,100,3,2,1,2,45
+laptop,1799000,None,50,13,Dong Nai,None,65500,96,50,50,0,0,0,1,12
+laptop,999999,17,38,10,Hung Yen,1199999,100600,82,100,nan,1,1,1,0,7
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,2290000,50,nan,2,Ho Chi Minh,4580000,9100,91,100,80,0,0,0,0,2
+laptop,1354350,10,5,1,Tien Giang,1500000,48200,82,86,87,0,0,0,0,1
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,80000,None,None,1,Ho Chi Minh,None,18300,97,100,100,0,0,0,0,1
+laptop,5618818,57,33,19,Ho Chi Minh,None,None,None,None,None,1,0,0,0,18
+laptop,668113,33,None,None,Nước ngoài,999900,17000,100,None,None,0,0,0,0,0
+laptop,7689000,None,40,7,Hung Yen,None,37700,100,98,100,0,0,0,0,7
+laptop,3500000,None,15,3,Ho Chi Minh,None,20100,88,100,100,0,0,0,0,3
+laptop,11550000,None,None,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,3999999,None,7,3,Hà Nội,None,100,98,100,100,0,0,0,0,3
+laptop,1957560,53,None,None,Ho Chi Minh,4200000,27300,96,100,100,0,0,0,0,0
+laptop,11100000,None,None,None,Thai Nguyen,None,Miễn phí,None,None,None,0,0,0,0,0
+laptop,2990000,None,None,None,Hung Yen,None,70000,91,65,100,0,0,0,0,0
+laptop,11950000,None,None,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,2800000,None,None,1,Ho Chi Minh,None,27300,100,None,None,0,0,0,0,1
+laptop,3800000,None,17,5,Hung Yen,None,70000,91,65,100,1,0,1,0,3
+laptop,3800000,46,None,1,Ho Chi Minh,7000000,16500,96,80,94,0,0,0,1,0
+laptop,14850000,None,5,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,7254959,45,16,3,Hai Phong,13199999,100,100,100,0,0,0,0,3,
+laptop,1800000,28,None,1,Ho Chi Minh,2500000,27300,96,100,100,0,0,0,0,1
+laptop,7131799,52,21,4,Hai Phong,16099999,100,100,100,0,0,0,0,5,
+laptop,2600000,None,None,None,Ho Chi Minh,None,20100,88,100,None,0,0,0,0,0
+laptop,7224999,52,51,5,Hai Phong,13899999,100,100,100,0,0,0,0,5,
+laptop,1650000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,147177,10,None,None,Nước ngoài,163530,17000,None,None,None,0,0,0,0,0
+laptop,5499000,25,130,57,Hà Nội,7299000,74400,96,100,100,0,0,0,2,55
+laptop,539000,18,None,None,Nước ngoài,922000,100,100,None,100,0,0,0,0,
+laptop,361200,23,None,None,Nước ngoài,469560,100,97,100,100,0,0,0,0,0
+laptop,1099000,None,None,None,Hanoi,None,63400,93,92,78,0,0,0,0,0
+laptop,680000,None,None,None,Ho Chi Minh,None,27300,100,75,100,0,0,0,0,0
+laptop,990000,42,None,None,Thanh Hoa,1699969,80200,86,100,None,0,0,0,0,0
+laptop,219000,None,None,None,Nước ngoài,None,17000,96,94,100,0,0,0,0,0
+laptop,1031000,None,None,None,Tien Giang,None,40300,87,37,100,0,0,0,0,0
+laptop,2580420,43,None,1,Ho Chi Minh,5500000,23800,96,100,100,0,0,0,0,1
+laptop,2400000,None,31,10,Hà Nội,None,74400,92,50,85,0,0,1,2,7
+laptop,1400000,None,24,10,Tien Giang,None,40300,87,37,100,2,0,0,0,9
+laptop,151000,74,None,None,Nước ngoài,580000,17000,96,94,100,0,0,0,0,0
+laptop,2550000,49,169,50,Thai Binh,5000000,80200,95,100,None,2,0,0,2,46
+laptop,13350000,None,None,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,1100000,8,nan,nan,Dong Nai,1200000,100,100,100,0,0,0,0,0,
+laptop,2699000,None,None,None,Dong Nai,None,48200,97,100,None,0,0,0,0,0
+laptop,15000000,None,35,6,Hung Yen,None,37700,100,98,100,0,0,0,0,6
+laptop,1200000,14,nan,2,Ho Chi Minh,1400000,13800,90,100,100,0,0,0,0,2
+laptop,6350000,31,5,None,Ho Chi Minh,9250000,20100,88,100,100,0,0,0,0,0
+laptop,1700000,None,17,8,Hung Yen,None,56800,91,65,100,0,0,0,1,7
+laptop,3900000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,2100000,None,None,None,Hanoi,None,None,None,None,0,0,0,0,0,
+laptop,8566770,None,None,None,Hung Yen,None,37700,100,98,100,0,0,0,0,0
+laptop,29990000,25,nan,nan,Ho Chi Minh,39990000,21200,99,97,99,0,0,0,0,0
+laptop,4500000,None,14,5,Hung Yen,None,51100,100,98,100,0,0,0,0,5
+laptop,15500000,26,5,None,Ho Chi Minh,20990000,12800,94,100,None,0,0,0,0,0
+laptop,5622499,14,8,2,Hà Nội,None,100,98,100,100,0,0,0,0,2
+laptop,17337000,21,nan,nan,Ho Chi Minh,21990000,16300,94,100,nan,0,0,0,0,0
+laptop,1571000,None,None,None,Hanoi,None,64700,79,84,96,0,0,0,0,1
+laptop,6500000,None,20,4,Hung Yen,14000000,70000,91,65,100,0,0,1,0,3
+laptop,6500000,None,11,5,Hung Yen,None,70000,91,65,100,0,0,0,1,4
+laptop,10590000,24,9,1,Ho Chi Minh,13890000,23800,94,100,None,0,0,1,0,0
+laptop,8800000,None,24,7,Hà Nội,None,38000,97,100,100,0,0,0,0,7
+laptop,8999000,None,24,6,Hung Yen,None,70000,91,65,100,0,0,1,0,5
+laptop,14000000,None,None,None,Hanoi,None,78950100,None,None,None,0,0,0,0,0
+laptop,4200000,28,5,3,Ho Chi Minh,5800000,16500,96,80,94,0,0,0,0,4
+laptop,2530000,None,None,None,Ho Chi Minh,None,20100,None,None,None,0,0,0,0,0
+laptop,6600000,6,nan,nan,Dong Nai,7699000,100,95,100,100,0,0,0,0,0
+laptop,6850000,None,None,None,Nam Dinh,None,90400,91,90,100,0,0,0,0,0
+laptop,2870000,12,7,2,Hà Nội,3270000,100,98,100,100,0,0,0,1,1
+laptop,2900000,None,None,None,Hanoi,None,32700,None,None,None,0,0,0,0,0
+laptop,4439400,56,None,None,Ho Chi Minh,10500000,16500,96,80,94,0,0,0,0,0
+laptop,7191218,40,103,39,Ho Chi Minh,None,100,98,None,None,1,0,1,0,37
+laptop,4650000,None,8,1,Ha Noi,None,45100,99,100,100,0,0,0,0,1
+laptop,3470000,None,9,5,Hà Nội,None,100,98,100,100,0,0,1,0,4
+laptop,3270000,24,9,1,Ha Noi,4289000,100,98,100,100,0,0,0,0,1
+laptop,3070000,6,5,1,Ha Noi,3270000,100,98,100,100,0,0,0,0,1
+laptop,2870000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,1790000,None,None,None,Ho Chi Minh,None,27300,100,100,None,0,0,0,0,0
+laptop,1799000,None,133,36,Dong Nai,None,65500,99,100,50,0,0,0,0,36
+laptop,4200000,None,None,None,Hung Yen,None,56800,100,98,100,0,0,0,0,0
+laptop,12000000,None,None,None,Thai Nguyen,None,43900,None,None,None,0,0,0,0,0
+laptop,1799000,None,64,18,Dong Nai,None,65500,96,50,50,1,0,0,1,16
+laptop,14900000,None,None,None,Ho Chi Minh,None,27300,None,None,None,0,0,0,0,0
+laptop,8500000,None,None,None,Hanoi,None,Miễn phí,None,100,100,0,0,0,0,0
+laptop,8120000,None,100,15,Hung Yen,None,37700,97,100,100,0,0,0,0,15
+laptop,6900000,None,13,5,Hung Yen,None,70000,91,65,100,1,0,1,1,2
+laptop,7250000,None,None,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,12690000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,6800000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,8890000,30,6,2,Ho Chi Minh,12790000,23800,94,100,,0,0,0,0,2
+laptop,5200000,None,None,None,Thanh Hoa,None,100600,None,None,None,0,0,0,0,0
+laptop,8550000,None,None,None,Nghệ An,None,90400,100,100,100,0,0,0,0,0
+laptop,19690000,10,nan,nan,Ho Chi Minh,21990000,nan,96,nan,81,0,0,0,0,0
+laptop,10590000,None,None,None,Thanh Hoa,None,56800,96,100,66,0,0,0,0,0
+laptop,5750000,None,6,None,Thai Binh,None,Miễn phí,95,100,None,0,0,0,0,0
+laptop,5790000,3,nan,nan,Nam Dinh,5998000,90400,91,90,100,0,0,0,0,0
+laptop,9950000,15,7,1,Ha Noi,11700000,94800,100,None,None,0,0,0,0,1
+laptop,27990000,26,None,None,Ho Chi Minh,37999000,21200,99,97,99,0,0,0,0,0
+laptop,8500000,None,None,1,Thanh Hoa,None,Miễn phí,92,None,33,0,0,0,0,1
+laptop,12600000,None,None,None,Hanoi,None,100,98,100,100,0,0,0,0,0
+laptop,9800000,None,None,None,Hanoi,None,34100,90,100,75,0,0,0,0,0
+laptop,8400000,None,16,5,Hung Yen,None,70000,91,65,100,0,0,0,0,5
+laptop,8500000,None,23,4,Hung Yen,None,70000,91,65,100,0,0,1,0,3
+laptop,17200000,None,None,None,Hanoi,None,78950100,None,None,None,0,0,0,0,0
+laptop,19990000,None,None,None,Ho Chi Minh,None,None,99,None,100,0,0,0,0,0
+laptop,12990000,None,None,1,Nghệ An,None,90400,100,100,100,0,0,0,0,1
+laptop,5900000,14,None,None,Hanoi,6900000,None,97,100,100,0,0,0,0,0
+laptop,6299000,3,nan,0,Dong Nai,6500000,100,95,100,100,0,0,0,0,1
