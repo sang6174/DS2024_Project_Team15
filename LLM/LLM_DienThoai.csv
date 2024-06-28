@@ -1,0 +1,1201 @@
+Type,Price_sale,Sale_off,Total_sold,Preview,Location,Price_original,Ship_price,Sale_rating,Ship_on_time,Chat_response,One_star,Two_star,Three_star,Four_star,Five_star
+dien thoai,41990000,7,11,None,Ho Chi Minh,44990000,20100,99,100,75,0,0,0,0,0
+dien thoai,39890000,10,None,None,Ha Noi,44490000,38000,99,100,85,0,0,0,0,0
+dien thoai,37590001,16,24,2,Ho Chi Minh,44490000,None,90,None,100,0,0,0,0,2
+dien thoai,36990000,None,None,None,Ho Chi Minh,None,16500,98,82,100,0,0,0,0,0
+dien thoai,32126000,NaN,28,1,Ho Chi Minh,38470000,18300,98,100,100,0,0,0,0,1
+dien thoai,31990000,6,1300,305,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,302
+dien thoai,31590000,16,21,2,Ho Chi Minh,37490000,None,90,None,100,0,0,0,0,3
+dien thoai,30090000,15,82,10,Ha Noi,35990000,38000,99,100,85,0,0,0,0,10
+dien thoai,29517000,11,6,None,Ho Chi Minh,32990000,18300,99,100,100,0,0,0,0,0
+dien thoai,29590000,15,11200,2631,Ho Chi Minh,34999000,5500,94,98,100,30,3,8,9,2578
+dien thoai,28990000,12,None,None,Ha Noi,32990000,38000,98,100,90,0,0,0,0,0
+dien thoai,28890000,11,7,1,Ha Noi,32490000,38000,99,100,85,0,0,0,0,1
+dien thoai,28090000,17,13,None,Ho Chi Minh,33990000,None,90,None,100,0,0,0,0,0
+dien thoai,27989000,8,123,26,Ho Chi Minh,30490000,16500,91,99,100,0,0,0,1,25
+dien thoai,27030000,None,15,1,Ho Chi Minh,None,18300,98,100,100,0,0,0,0,1
+dien thoai,25890000,13,None,None,Ha Noi,29790000,38000,99,100,85,0,0,0,0,0
+dien thoai,25682000,NaN,7,1,Ho Chi Minh,25782000,19600,98,100,100,0,0,0,0,1
+dien thoai,25590000,13,16,None,Ha Noi,29490000,38000,99,100,85,0,0,0,0,0
+dien thoai,24898000,27,6,None,Ho Chi Minh,33990000,18300,99,99,95,0,0,0,0,0
+dien thoai,24880000,22,None,None,Ha Noi,31990000,None,94,None,87,0,0,0,0,0
+dien thoai,24430000,None,None,None,Ho Chi Minh,None,18300,98,100,100,0,0,0,0,0
+dien thoai,24140000,29,None,None,Ho Chi Minh,33990000,16500,98,82,100,0,0,0,0,0
+dien thoai,23590000,11,14,1,Ho Chi Minh,26490000,None,90,None,100,1,0,0,0,0
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,75,0,0,0,0,0
+dien thoai,22890000,15,7,None,Ha Noi,26790000,38000,99,100,85,0,0,0,0,0
+dien thoai,21989000,27,2400,474,Ho Chi Minh,29990000,16500,91,99,100,16,4,3,12,440
+dien thoai,21390000,7,None,None,Ho Chi Minh,22900000,18300,99,99,95,0,0,0,0,0
+dien thoai,21310000,18,None,None,Ha Noi,25990000,None,94,None,87,0,0,0,0,0
+dien thoai,21310000,None,None,None,Ho Chi Minh,None,18300,98,100,100,0,0,0,0,0
+dien thoai,20989000,9,114,29,Ho Chi Minh,22990000,16500,91,99,100,1,1,4,1,22
+dien thoai,20691000,10,None,None,Ha Noi,22990000,None,92,None,33,0,0,0,0,0
+dien thoai,20090000,13,None,1,Ho Chi Minh,22990000,None,90,None,100,0,0,0,0,1
+dien thoai,20090000,14,14,2,Ha Noi,23790000,38000,99,100,85,0,0,0,0,2
+dien thoai,19640000,15,10,4,Ho Chi Minh,22990000,18300,99,100,100,0,0,0,0,4
+dien thoai,19390000,31,361,51,Ho Chi Minh,27990000,5500,94,98,100,1,0,0,0,50
+dien thoai,19190000,17,1000,236,Ho Chi Minh,25990000,5500,94,98,100,2,0,1,0,231
+dien thoai,18190000,None,24,None,Ho Chi Minh,None,19600,98,100,100,0,0,0,0,0
+dien thoai,17489000,42,75,12,Ho Chi Minh,29990000,20100,91,99,100,0,0,0,0,13
+dien thoai,16769000,35,None,None,Ho Chi Minh,25990000,18300,98,82,100,0,0,0,0,0
+dien thoai,16490000,34,957,123,Ho Chi Minh,24990000,5500,94,98,100,0,0,2,2,119
+dien thoai,41990000,7,11,None,Ho Chi Minh,44990000,20100,99,100,75,0,0,0,0,0
+dien thoai,37590001,16,24,2,Ho Chi Minh,44490000,None,90,None,100,0,0,0,0,2
+dien thoai,31989000,6,1300,305,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,302
+dien thoai,31990000,9,700,145,Bac Ninh,34990000,5500,94,98,100,1,0,1,0,143
+dien thoai,31590000,16,21,2,Ho Chi Minh,37490000,None,90,None,100,0,0,0,0,3
+dien thoai,30170000,25,538,168,Ho Chi Minh,39990000,19600,97,68,100,1,1,1,1,164
+dien thoai,29517000,11,6,None,Ho Chi Minh,32990000,18300,99,100,100,0,0,0,0,0
+dien thoai,29590000,15,11200,2636,Ho Chi Minh,34999000,5500,94,98,100,30,3,8,9,2586
+dien thoai,28990000,12,None,None,Ha Noi,32990000,38000,98,100,90,0,0,0,0,0
+dien thoai,28090000,17,13,None,Ho Chi Minh,33990000,None,90,None,100,0,0,0,0,0
+dien thoai,27989000,8,123,26,Ho Chi Minh,30490000,16500,91,99,100,0,0,0,1,25
+dien thoai,24898000,27,6,None,Ho Chi Minh,33990000,18300,99,99,95,0,0,0,0,0
+dien thoai,24880000,22,None,None,Ha Noi,31990000,None,94,None,87,0,0,0,0,0
+dien thoai,24290100,10,None,None,Ha Noi,29990000,None,94,None,87,0,0,0,0,0
+dien thoai,24140000,29,None,None,Ho Chi Minh,33990000,16500,98,82,100,0,0,0,0,0
+dien thoai,23590000,11,14,1,Ho Chi Minh,26490000,None,90,None,100,1,0,0,0,0
+dien thoai,23290000,31,7,3,Ho Chi Minh,44490000,0,98,100,90,0,0,0,1,2
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,75,0,0,0,0,0
+dien thoai,21989000,27,2400,474,Ho Chi Minh,29990000,16500,91,99,100,16,4,3,12,440
+dien thoai,21390000,7,None,None,Ho Chi Minh,22900000,18300,99,99,95,0,0,0,0,0
+dien thoai,21310000,18,None,None,Ha Noi,25990000,None,94,None,87,0,0,0,0,0
+dien thoai,20989000,9,114,29,Ho Chi Minh,22990000,16500,91,99,100,1,1,4,1,22
+dien thoai,20691000,10,None,None,Ha Noi,22990000,None,92,None,33,0,0,0,0,0
+dien thoai,20090000,13,None,1,Ho Chi Minh,22990000,None,90,None,100,0,0,0,0,1
+dien thoai,19930000,20,103,22,Ho Chi Minh,24990000,19600,97,68,100,1,0,0,0,21
+dien thoai,19640000,15,10,4,Ho Chi Minh,22990000,18300,99,100,100,0,0,0,0,4
+dien thoai,19190000,17,1000,236,Ho Chi Minh,22990000,5500,94,98,100,2,0,1,0,234
+dien thoai,18990000,42,8,3,Ho Chi Minh,32990000,18300,99,100,75,0,0,0,0,2
+dien thoai,16800000,None,None,None,Nam Định,None,202600,None,None,None,0,0,0,0,0
+dien thoai,16769000,35,None,None,Ho Chi Minh,25990000,18300,98,82,100,0,0,0,0,0
+dien thoai,15382000,None,26,None,Ho Chi Minh,None,18300,98,100,100,0,0,0,0,0
+dien thoai,14390000,20,303,70,Ha Noi,17990000,38000,99,100,85,0,0,1,3,66
+dien thoai,14089000,17,67,6,Ho Chi Minh,16900000,18300,97,100,100,0,0,0,0,6
+dien thoai,13990000,26,32,2,Ho Chi Minh,18990000,18300,99,100,75,0,0,0,0,2
+dien thoai,12998500,23,16,2,Ho Chi Minh,16890500,None,90,None,100,0,0,0,1,2
+dien thoai,12200000,18,None,1,Ha Noi,14900000,None,94,None,87,0,0,0,0,1
+dien thoai,11989000,19,86,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15
+dien thoai,11680000,10,35,8,Ho Chi Minh,12990000,18300,98,100,90,0,0,0,0,9
+dien thoai,11617600,22,33,2,Ho Chi Minh,14889600,None,90,None,100,0,0,0,0,3
+dien thoai,11039000,26,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,37020000,None,None,None,Ha Noi,None,38000,100,100,None,0,0,0,0,0
+dien thoai,28791000,10,None,None,Ha Noi,31990000,None,94,None,87,0,0,0,0,0
+dien thoai,23391000,10,None,None,Ha Noi,25990000,None,94,None,87,0,0,0,0,0
+dien thoai,16990000,15,13,5,Ho Chi Minh,19990000,18300,99,100,75,0,0,0,0,5
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,100,100,0,0,0,0,1
+dien thoai,10500000,None,None,None,Nam Định,None,110800,None,None,None,0,0,0,0,0
+dien thoai,10489500,None,None,None,Ho Chi Minh,None,16500,None,None,50,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ha Noi,None,19000,95,100,100,0,0,0,0,0
+dien thoai,10489000,52,217,30,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,26
+dien thoai,10390000,22,None,None,Vinh Phuc,13390000,37700,100,100,100,0,0,0,0,0
+dien thoai,10100000,8,6,2,Ho Chi Minh,10990000,18300,98,100,90,0,0,0,0,2
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,50,0,0,0,0,0
+dien thoai,9890000,21,38,12,Binh Duong,12490000,None,98,None,97,0,0,1,1,11
+dien thoai,9790000,1,None,None,Ho Chi Minh,9900000,18300,99,99,95,0,0,0,0,0
+dien thoai,9500000,None,10,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,9499000,10,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9220491,29,61,2,Ho Chi Minh,12990000,16500,97,100,100,0,0,0,1,1
+dien thoai,9090000,24,533,126,Ha Noi,12990000,38000,99,100,85,1,0,0,2,123
+dien thoai,8991000,None,None,None,Ho Chi Minh,None,0,79,None,None,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,None,0,0,0,0,0
+dien thoai,8990000,10,23,5,Ho Chi Minh,11490000,18300,99,100,100,0,0,0,0,5
+dien thoai,8890000,60,9100,1555,Ho Chi Minh,23990000,5500,94,98,100,34,13,14,37,1458
+dien thoai,8888000,23,16,7,Ho Chi Minh,11500000,18300,96,75,100,0,0,0,0,7
+dien thoai,8390000,7,None,1,Long An,8990000,28700,99,100,91,0,0,0,0,1
+dien thoai,8100000,5,None,None,Ho Chi Minh,8500000,0,None,100,100,0,0,0,0,0
+dien thoai,7850000,17,None,None,Ho Chi Minh,9500000,16500,98,82,100,0,0,0,0,0
+dien thoai,7590000,None,6,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,7490000,7,7,1,Ho Chi Minh,8090000,18300,99,99,95,0,0,0,0,1
+dien thoai,7490000,12,7,1,Ho Chi Minh,8990000,18300,99,100,100,0,0,0,0,2
+dien thoai,7400000,1,22,1,Nam Dinh,10200000,37700,87,80,100,0,0,0,0,1
+dien thoai,7349000,11,9,2,Ho Chi Minh,8290000,18300,99,99,95,0,0,0,0,2
+dien thoai,7290000,None,None,None,Ho Chi Minh,None,1928000,99,100,100,0,0,0,0,0
+dien thoai,7199000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,7190000,7,None,2,Long An,7690000,28700,99,100,91,0,0,0,0,2
+dien thoai,7180000,32,208,49,Ho Chi Minh,10490000,16500,99,99,95,0,0,0,0,49
+dien thoai,6539000,6,9,3,Vinh Phuc,7980000,43900,100,100,100,0,0,0,0,3
+dien thoai,6490000,10,9,5,Ho Chi Minh,7230000,18300,98,100,90,0,0,0,0,5
+dien thoai,6388000,22,36,13,Tien Giang,8500000,28700,97,100,100,0,0,0,0,14
+dien thoai,6290000,3,14,5,Ho Chi Minh,6490000,18300,99,100,100,0,0,0,0,5
+dien thoai,6194000,NaN,58,9,Ho Chi Minh,NaN,0,NaN,100,100,0,0,0,0,9
+dien thoai,29890000,17,16,4,Binh Duong,35990000,None,98,None,97,0,0,0,0,4
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,97,83,76,0,0,0,0,0
+dien thoai,13490000,37,None,None,Ha Noi,21300000,38000,91,95,100,0,0,0,0,0
+dien thoai,12200000,18,None,None,Ha Noi,16890500,None,92,None,33,0,0,0,0,0
+dien thoai,10690000,11,None,None,Da Nang,11990000,27000,100,100,100,0,0,0,0,0
+dien thoai,6975000,None,None,None,Ho Chi Minh,None,16500,None,None,50,0,0,0,0,0
+dien thoai,6189000,15,None,2,Ho Chi Minh,7290000,18300,99,99,95,0,0,0,0,2
+dien thoai,6090000,24,60,11,Ho Chi Minh,7990000,18300,99,99,95,0,0,0,0,11
+dien thoai,5900000,26,216,122,Ho Chi Minh,7990000,16500,97,None,None,0,1,0,2,119
+dien thoai,5900000,None,None,1,Nam Định,None,37700,87,80,100,0,0,0,0,1
+dien thoai,5889000,15,None,None,Ho Chi Minh,6988000,0,82,None,100,0,0,0,0,0
+dien thoai,5700000,3,None,None,Nam Định,6990000,37700,87,80,100,0,0,0,0,0
+dien thoai,5687310,8,161,54,Ha Noi,9490000,26100,95,100,100,1,3,1,3,46
+dien thoai,5499000,15,None,None,Ho Chi Minh,6499000,0,82,None,100,0,0,0,0,0
+dien thoai,5400000,5,None,1,Ha Noi,5700000,0,93,33,100,0,0,0,0,1
+dien thoai,5389000,23,38,15,Tien Giang,7500000,28700,97,100,100,0,0,0,2,14
+dien thoai,5129831,20,18,9,Vinh Phuc,6450000,43900,100,100,100,0,0,0,0,9
+dien thoai,5128000,11,68,41,Vinh Phuc,5750000,43900,100,100,100,0,0,0,0,41
+dien thoai,5089000,7,9,3,Ho Chi Minh,None,16500,96,100,75,0,0,0,0,3
+dien thoai,5000000,None,None,None,Hai Phong,None,37700,None,None,None,0,0,0,0,0
+dien thoai,4990000,9,None,None,Ho Chi Minh,5490000,16500,97,100,None,0,0,0,0,0
+dien thoai,4990000,9,None,None,Ho Chi Minh,5490000,0,96,100,80,0,0,0,0,0
+dien thoai,4990000,6,5,2,Long An,5290000,28700,99,100,91,0,0,0,0,2
+dien thoai,4939000,1,None,None,Ben Tre,4990000,28700,98,100,100,0,0,0,0,0
+dien thoai,4939000,1,None,None,Ben Tre,4990000,28700,97,100,100,0,0,0,0,0
+dien thoai,4920000,10,26,12,Ho Chi Minh,5490000,16500,99,100,76,0,0,0,1,11
+dien thoai,4914000,None,110,12,Ho Chi Minh,None,0,96,100,100,0,0,0,0,12
+dien thoai,4689000,371,35,Ho Chi Minh,4690000,16500,91,99,100,0,0,1,0,34,
+dien thoai,4649000,7,53,28,Ho Chi Minh,4990000,16500,99,100,76,0,0,1,0,27
+dien thoai,4599000,13,137,62,Ho Chi Minh,5290000,16500,99,100,76,2,0,0,1,60
+dien thoai,4590000,13,6,3,Ho Chi Minh,5290000,0,96,100,80,0,0,0,0,3
+dien thoai,4536040,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,4490000,10,11,1,Ho Chi Minh,4990000,20100,99,99,95,0,0,0,0,1
+dien thoai,4390000,17,82,32,Ho Chi Minh,5290000,16500,96,100,75,1,0,0,1,30
+dien thoai,4390000,None,10,3,Nam Định,None,37700,87,80,100,1,0,0,0,2
+dien thoai,4290000,32,None,None,Ho Chi Minh,6290000,18300,99,100,100,0,0,0,0,0
+dien thoai,4270000,13,181,76,Ho Chi Minh,4890000,18300,98,100,90,0,0,0,1,76
+dien thoai,4250000,13,319,134,Ho Chi Minh,4890000,18300,98,100,90,0,0,1,0,133
+dien thoai,4239000,34,99,55,Vinh Phuc,6420000,43900,100,100,100,0,0,0,2,53
+dien thoai,4209000,16,None,None,Ben Tre,4990000,28700,99,100,100,0,0,0,0,0
+dien thoai,28791000,10,None,None,Ha Noi,31990200,None,92,None,33,0,0,0,0,0
+dien thoai,23391000,10,None,None,Ha Noi,27490000,None,92,None,33,0,0,0,0,0
+dien thoai,14122403,9,69,18,Ha Noi,17990000,13700,95,100,100,0,1,0,0,17
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,4199000,16,None,1,Ho Chi Minh,4990000,16500,98,82,100,0,0,0,0,1
+dien thoai,4190000,42,5,3,Ho Chi Minh,7190000,18300,98,100,90,0,0,0,0,3
+dien thoai,4189000,14,41,3,Ben Tre,4890000,28700,98,100,100,0,0,0,0,3
+dien thoai,4174900,15,426,135,Ho Chi Minh,4890000,18300,99,99,95,0,0,2,2,131
+dien thoai,4160000,24,27,9,Ho Chi Minh,5490000,20100,99,99,95,0,0,0,1,8
+dien thoai,4090000,40,None,None,Ha Noi,6790000,0,None,None,100,0,0,0,0,0
+dien thoai,4085000,18,None,None,Ho Chi Minh,4990000,16500,98,82,100,0,0,0,0,0
+dien thoai,4050000,19,767,287,Ho Chi Minh,4990000,None,91,99,100,0,0,0,1,286
+dien thoai,3997000,20,43,11,Ho Chi Minh,4990000,16500,98,100,66,0,0,0,0,11
+dien thoai,3990000,None,None,None,Ho Chi Minh,None,18300,99,99,95,0,0,0,0,0
+dien thoai,3990000,20,None,None,Long An,4990000,28700,99,100,91,0,0,0,0,0
+dien thoai,3990000,11,47,26,Ho Chi Minh,4490000,0,100,0,100,0,0,0,0,26
+dien thoai,3930000,46,20,9,Ho Chi Minh,7290000,18300,98,100,90,0,0,0,0,9
+dien thoai,3905000,17,6,3,Ha Noi,4690000,38000,98,100,90,0,0,0,0,3
+dien thoai,3839000,15,1200,559,Ho Chi Minh,4490000,16500,99,100,76,3,0,3,8,545
+dien thoai,3790000,24,259,96,Ho Chi Minh,4990000,18300,97,100,None,0,1,1,3,91
+dien thoai,3690000,12,5,2,Ha Noi,4200000,64800,95,100,100,0,0,0,0,2
+dien thoai,3689000,21,87,40,Ho Chi Minh,4690000,16500,99,100,76,0,0,1,1,38
+dien thoai,3599000,28,1700,471,Ben Tre,4990000,32200,98,100,100,2,0,0,5,464
+dien thoai,3590000,28,None,None,Ha Noi,4990000,0,None,None,100,0,0,0,0,0
+dien thoai,3490000,17,None,1,Ha Noi,4229000,38000,88,100,None,0,0,0,0,2
+dien thoai,3490000,30,19,6,Ho Chi Minh,4990000,16500,99,100,76,2,0,0,1,4
+dien thoai,3488000,27,100,51,Nghệ An,4758000,37700,94,91,90,0,0,0,4,47
+dien thoai,3450000,14,None,4,Ho Chi Minh,3990000,18300,99,99,95,0,0,0,0,4
+dien thoai,3449000,45,42,41,Ho Chi Minh,6299000,16500,97,98,99,0,0,0,0,41
+dien thoai,3240179,25,88,28,Ho Chi Minh,449000,16500,97,98,99,0,0,0,0,28
+dien thoai,3200000,36,6,None,Ha Noi,4990000,None,94,None,87,0,0,0,0,0
+dien thoai,3190000,20,3100,830,Ho Chi Minh,3990000,None,91,99,100,8,0,5,7,810
+dien thoai,3139000,21,9,2,Ben Tre,3990000,28700,99,100,100,0,0,0,0,3
+dien thoai,3099000,NaN,90,78,Ho Chi Minh,NaN,16500,99,100,75,2,0,0,0,76
+dien thoai,3090000,6,6,1,Ho Chi Minh,3290000,0,96,100,80,0,0,0,0,1
+dien thoai,3090000,11,207,115,Ho Chi Minh,3490000,18300,98,100,90,0,0,1,0,114
+dien thoai,3090000,38,654,261,Ho Chi Minh,4990000,18300,98,100,90,1,0,2,2,256
+dien thoai,3085000,16,10,1,Ho Chi Minh,3690000,18300,99,99,95,0,0,0,0,1
+dien thoai,3050000,46,None,None,Ha Noi,5690000,0,None,None,100,0,0,0,0,0
+dien thoai,3000000,23,None,None,Ha Noi,3900000,73600,94,100,100,0,0,0,0,0
+dien thoai,41990000,7,11,None,Ho Chi Minh,44990000,20100,99,100,83,0,0,0,0,0
+dien thoai,40990000,None,None,None,Ho Chi Minh,None,18300,97,99,88,0,0,0,0,0
+dien thoai,37590001,16,24,2,Ho Chi Minh,44490000,None,91,None,100,0,0,0,0,2
+dien thoai,31989000,6,1400,324,Bac Ninh,33990000,16500,91,99,100,2,0,1,0,320
+dien thoai,31990000,None,203,43,Ho Chi Minh,None,None,99,None,100,2,0,0,0,41
+dien thoai,31590000,16,21,2,Ho Chi Minh,37490000,None,91,None,100,0,0,0,0,3
+dien thoai,31210000,8,None,None,Ha Noi,33990000,None,94,None,71,0,0,0,0,0
+dien thoai,30470000,10,None,None,Ha Noi,44490000,None,94,None,71,0,0,0,0,0
+dien thoai,29990000,9,None,None,Ha Noi,32990000,38000,98,100,92,0,0,0,0,0
+dien thoai,29517000,11,6,1,Ho Chi Minh,32990000,18300,99,99,100,0,0,0,0,1
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,18300,97,99,88,0,0,0,0,0
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,7300,97,98,85,0,0,0,0,0
+dien thoai,29990000,33,None,None,Da Nang,44990000,0,93,None,100,0,0,0,0,0
+dien thoai,29890000,17,16,4,Binh Duong,35990000,None,98,None,97,0,0,0,0,4
+dien thoai,29590000,15,11800,2664,Ho Chi Minh,34999000,5500,94,98,100,31,3,8,9,2614
+dien thoai,28990000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,28090000,17,13,None,Ho Chi Minh,33990000,None,91,None,100,0,0,0,0,0
+dien thoai,27891000,10,None,None,Ha Noi,32990000,None,94,None,71,0,0,0,0,0
+dien thoai,27490000,11,7,5,Ha Noi,33990000,51500,94,96,100,0,0,0,0,5
+dien thoai,27399000,None,None,None,Ha Noi,None,32700,97,None,None,0,0,0,0,0
+dien thoai,26590000,22,None,1,Ho Chi Minh,33999000,7300,97,None,40,0,0,0,0,1
+dien thoai,25390000,41,None,None,Ha Noi,43000000,38000,91,95,100,0,0,0,0,0
+dien thoai,24898000,27,7,None,Ho Chi Minh,33990000,18300,99,99,97,0,0,0,0,0
+dien thoai,24880000,22,None,None,Ha Noi,31990000,None,94,None,71,0,0,0,0,0
+dien thoai,24290100,10,None,None,Ha Noi,29990000,None,94,None,71,0,0,0,0,0
+dien thoai,24190000,21,None,None,Ha Noi,26990000,None,94,None,71,0,0,0,0,0
+dien thoai,24140000,29,None,None,Ho Chi Minh,33990000,16500,98,82,100,0,0,0,0,0
+dien thoai,23600000,13,None,None,Ha Noi,30490000,None,94,None,71,0,0,0,0,0
+dien thoai,23391000,10,None,None,Ha Noi,25990000,None,94,None,71,0,0,0,0,0
+dien thoai,23290000,31,7,3,Ho Chi Minh,44490000,0,98,100,90,0,0,0,1,2
+dien thoai,22990000,None,None,None,Ha Noi,None,38000,98,100,92,0,0,0,0,0
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,83,0,0,0,0,0
+dien thoai,22990000,45,9,1,Da Nang,41990000,32700,94,100,100,0,0,0,0,1
+dien thoai,22990000,18,16,3,Binh Duong,27990000,None,98,None,97,0,0,0,0,6
+dien thoai,21490000,35,8,2,Ha Noi,32990000,51500,94,96,100,0,0,0,0,2
+dien thoai,21390000,7,None,None,Ho Chi Minh,22900000,18300,99,99,97,0,0,0,0,0
+dien thoai,21290000,31,35,3,Ho Chi Minh,30990000,16500,97,None,None,0,0,1,0,3
+dien thoai,20989000,9,120,29,Bac Ninh,22990000,16500,91,99,100,1,1,4,1,22
+dien thoai,20890000,23,None,None,Ho Chi Minh,26990000,18300,99,99,97,0,0,0,0,0
+dien thoai,20610000,10,None,None,Ha Noi,22990000,None,94,None,71,0,0,0,0,0
+dien thoai,20090000,13,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19995000,9,None,None,Ho Chi Minh,21990000,0,97,100,50,0,0,0,0,0
+dien thoai,19990000,26,None,None,Ho Chi Minh,26990000,16500,98,82,100,0,0,0,0,0
+dien thoai,19990000,5,None,None,Ho Chi Minh,20990000,19600,85,None,100,0,0,0,0,0
+dien thoai,19890000,1,None,None,Ho Chi Minh,19990000,0,97,100,50,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19900000,19600,85,None,100,0,0,0,0,0
+dien thoai,19640000,15,10,4,Ho Chi Minh,22990000,18300,99,99,100,0,0,0,0,4
+dien thoai,19190000,17,None,None,Ho Chi Minh,23000000,16500,98,82,100,0,0,0,0,1
+dien thoai,19140000,17,None,None,Ho Chi Minh,22990000,16500,100,99,100,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,97,82,86,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,96,28,100,0,0,0,0,0
+dien thoai,18990000,42,8,3,Ho Chi Minh,32990000,18300,99,100,83,0,0,0,0,2
+dien thoai,18866000,9,None,None,Ha Noi,21299000,32700,97,None,None,0,0,0,0,0
+dien thoai,18800000,22,9,4,Ha Noi,24000000,0,88,0,100,0,0,0,0,4
+dien thoai,18599000,11,None,None,Ha Noi,23990000,13700,100,100,100,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,17950000,22,None,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,17800000,None,45,5,Ho Chi Minh,None,0,100,None,None,0,0,0,0,5
+dien thoai,17499000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,17290000,36,None,None,Ho Chi Minh,26990000,0,98,100,90,0,0,0,0,0
+dien thoai,17020000,26,None,1,Ha Noi,22990000,None,94,None,71,0,0,0,0,1
+dien thoai,17020000,26,10,2,Ha Noi,24989800,None,92,None,33,0,0,0,0,2
+dien thoai,16990000,15,13,5,Ho Chi Minh,19990000,18300,99,100,83,0,0,0,0,5
+dien thoai,16990000,35,11,1,Ho Chi Minh,25990000,16500,97,None,None,0,0,0,0,1
+dien thoai,16990000,45,31,12,Ho Chi Minh,33990000,16500,97,None,None,0,0,0,2,10
+dien thoai,16490000,None,None,1,Ha Noi,None,13700,95,100,100,0,0,0,0,1
+dien thoai,15890000,38,7,1,Ha Noi,32900000,38000,91,95,100,0,0,0,0,1
+dien thoai,15580000,32,None,None,Ho Chi Minh,22900000,18300,99,99,97,0,0,0,0,0
+dien thoai,15490000,40,None,None,Da Nang,29990000,38000,97,82,86,0,0,0,0,0
+dien thoai,15390000,33,None,None,Ho Chi Minh,22990000,0,98,100,90,0,0,0,0,0
+dien thoai,14995000,5,None,None,Ho Chi Minh,15790000,0,97,100,50,0,0,0,0,0
+dien thoai,14500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,14500000,None,5,None,Ha Noi,None,0,None,None,None,0,0,0,0,0
+dien thoai,14390000,37,9,None,Ha Noi,22990000,0,97,50,50,0,0,0,0,0
+dien thoai,14122403,9,69,18,Ha Noi,17990000,13700,95,100,100,0,1,0,0,17
+dien thoai,13990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,13990000,26,32,2,Ho Chi Minh,18990000,18300,99,100,83,0,0,0,0,2
+dien thoai,13878080,37,7,None,Ho Chi Minh,21990000,18300,97,None,40,0,0,0,0,0
+dien thoai,13500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,13200000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,13190000,31,None,None,Ha Noi,24550000,38000,91,95,100,0,0,0,0,0
+dien thoai,12998500,23,16,2,Ho Chi Minh,16890500,None,91,None,100,0,0,0,1,2
+dien thoai,12990000,24,None,None,Ho Chi Minh,16990000,16500,None,None,60,0,0,0,0,0
+dien thoai,12940000,13,None,None,Ha Noi,16890000,38000,98,100,92,0,0,0,0,0
+dien thoai,12890000,None,None,None,Ha Noi,None,13700,95,100,100,0,0,0,0,0
+dien thoai,12690000,33,12,2,Ho Chi Minh,25990000,16500,97,None,40,0,0,0,0,2
+dien thoai,12389000,None,None,None,Nam Định,None,43900,None,None,100,0,0,0,0,0
+dien thoai,12290000,36,None,1,Ha Noi,19200000,38000,91,95,100,0,0,0,0,1
+dien thoai,12200000,18,None,1,Ha Noi,14900000,None,94,None,71,0,0,0,0,1
+dien thoai,12200000,18,None,None,Ha Noi,16890500,None,92,None,33,0,0,0,0,0
+dien thoai,11990000,8,None,3,Ho Chi Minh,12990000,19600,85,None,100,0,0,0,0,3
+dien thoai,11989000,19,90,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15
+dien thoai,11970000,None,None,None,Ho Chi Minh,11990000,0,97,100,50,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,11700000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,11680000,10,35,8,Ho Chi Minh,12990000,18300,98,100,92,0,0,0,0,9
+dien thoai,11617600,22,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11250000,16,None,None,Ha Noi,13350000,38000,91,95,100,0,0,0,0,0
+dien thoai,11146000,7,31,1,Ho Chi Minh,11990000,16500,99,100,80,0,0,0,0,1
+dien thoai,11078000,21,None,None,Ho Chi Minh,13990000,16500,100,99,100,0,0,0,0,0
+dien thoai,11039000,26,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,100,0,0,0,0,1
+dien thoai,10990000,27,None,None,Da Nang,14990000,0,93,None,100,0,0,0,0,0
+dien thoai,10990000,35,None,1,Ho Chi Minh,16900000,18300,96,75,100,0,0,0,0,1
+dien thoai,10990000,27,None,None,Da Nang,14990000,38000,97,82,86,0,0,0,0,0
+dien thoai,10890000,39,5,2,Ha Noi,17999000,26100,100,100,100,0,0,0,0,2
+dien thoai,10839000,27,None,None,Ben Tre,14890000,28700,97,100,100,0,0,0,0,0
+dien thoai,10800000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10791000,10,None,None,Ha Noi,11990000,None,94,None,71,0,0,0,0,0
+dien thoai,10782000,10,5,None,Ha Noi,12980000,None,92,None,33,0,0,0,0,0
+dien thoai,10560000,None,None,None,Ho Chi Minh,None,19600,100,None,None,0,0,0,0,0
+dien thoai,10500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10490000,13,None,None,Da Nang,11990000,38000,97,82,86,0,0,0,0,0
+dien thoai,10490000,19,None,None,Da Nang,12990000,38000,97,82,86,0,0,0,0,0
+dien thoai,10490000,None,7,2,Ho Chi Minh,None,None,99,None,100,0,0,0,0,3
+dien thoai,10490000,None,None,None,Dak Nong,None,32200,None,None,None,0,0,0,0,0
+dien thoai,10489000,52,227,35,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,31
+dien thoai,17985000,5,None,None,Ho Chi Minh,18990000,19600,85,None,100,0,0,0,0,0
+dien thoai,17590000,41,16,2,Ha Noi,29990000,0,97,50,50,0,0,0,0,2
+dien thoai,10690000,11,None,None,Da Nang,11990000,27000,100,100,100,0,0,0,0,0
+dien thoai,10450000,30,None,None,Ha Noi,14900000,38000,91,95,100,0,0,0,0,0
+dien thoai,10290000,34,None,None,Ha Noi,16000000,38000,91,95,100,0,0,0,0,0
+dien thoai,10290000,21,None,None,Da Nang,12990000,38000,96,28,100,0,0,0,0,0
+dien thoai,10266000,7,None,None,Ho Chi Minh,10990000,16500,100,99,100,0,0,0,0,0
+dien thoai,10235000,32,None,None,Da Nang,14990000,38000,97,82,86,0,0,0,0,0
+dien thoai,10200000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10100000,8,6,2,Ho Chi Minh,10990000,18300,98,100,92,0,0,0,0,2
+dien thoai,10099000,22,None,1,Ha Noi,13000000,38000,97,None,None,0,0,0,0,1
+dien thoai,10085523,17,45,3,Ha Noi,12090000,13700,95,100,100,0,0,0,0,3
+dien thoai,10000000,None,8,1,Da Nang,None,32700,99,100,100,0,0,0,0,1
+dien thoai,9990000,9,None,None,Da Nang,10990000,45100,96,28,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,9990000,17,None,None,Ho Chi Minh,12000000,16500,98,82,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ha Noi,None,None,94,None,71,0,0,0,0,0
+dien thoai,9990000,None,None,None,Da Nang,None,32700,100,80,None,0,0,0,0,0
+dien thoai,9990000,23,7,None,Ho Chi Minh,12890000,0,98,100,90,0,0,0,0,0
+dien thoai,9890000,21,38,12,Binh Duong,12490000,None,98,None,97,0,0,1,1,11
+dien thoai,9990000,None,7,None,Ha Noi,None,0,100,None,None,0,0,0,0,0
+dien thoai,9895000,None,None,None,Ha Noi,9900000,0,91,57,83,1,0,0,0,0
+dien thoai,9890000,18,8,5,Tien Giang,15900000,28700,97,100,100,0,0,1,0,4
+dien thoai,9790000,1,None,None,Ho Chi Minh,9900000,18300,99,99,97,0,0,0,0,0
+dien thoai,9675000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,9590000,11,None,None,Tien Giang,10800000,28700,97,100,100,0,0,0,0,0
+dien thoai,9500000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,9500000,32,None,None,Ha Noi,13900000,0,75,None,None,0,0,0,0,0
+dien thoai,9499000,10,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9490000,10,None,None,Ha Noi,10590000,13700,95,100,100,0,0,0,0,0
+dien thoai,9480000,14,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,9440640,10,20,1,Ha Noi,10489600,None,92,None,33,0,0,0,0,2
+dien thoai,9390000,17,None,1,Vinh Phuc,None,None,None,None,None,0,0,0,0,1
+dien thoai,9351363,13,38,13,Ha Noi,10790000,13700,95,100,100,0,0,0,0,13
+dien thoai,9350000,38,35,18,Ha Noi,17000000,32700,91,95,100,0,0,0,0,19
+dien thoai,9300000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,9299000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,9150000,17,None,None,Ho Chi Minh,10990000,16500,98,82,100,0,0,0,0,0
+dien thoai,9090000,24,533,126,Ha Noi,11990000,38000,99,100,85,1,0,0,2,123
+dien thoai,9000000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,28490000,16,None,None,Ho Chi Minh,33990000,18300,100,None,None,0,0,0,0,0
+dien thoai,19735000,38,None,None,Ha Noi,31900000,38000,100,100,None,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,10,None,None,Ho Chi Minh,9990000,19600,85,None,100,0,0,0,0,0
+dien thoai,8990000,10,25,5,Ho Chi Minh,11490000,18300,99,99,100,0,0,0,0,5
+dien thoai,8990000,18,None,1,Ho Chi Minh,10990000,18300,85,None,100,0,0,0,0,1
+dien thoai,8990000,None,None,1,Ho Chi Minh,9000000,0,97,100,50,0,0,0,0,1
+dien thoai,8990000,25,101,41,Ho Chi Minh,11990000,16500,97,None,None,2,0,0,0,39
+dien thoai,8990000,2,14,6,Ha Noi,9190000,13700,95,100,100,0,0,0,1,5
+dien thoai,8990000,None,8,2,Ho Chi Minh,None,0,96,75,None,0,0,0,0,2
+dien thoai,8979000,10,None,None,Ben Tre,9990000,28700,97,100,100,0,0,0,0,0
+dien thoai,8979000,10,None,None,Ben Tre,9990000,28700,98,100,100,0,0,0,0,0
+dien thoai,8890000,60,9100,1557,Ho Chi Minh,23990000,5500,94,98,100,34,13,14,37,1459
+dien thoai,8889000,18,12,4,Tien Giang,12500000,28700,97,100,100,0,0,0,0,4
+dien thoai,8888000,23,16,7,Ho Chi Minh,11500000,18300,96,75,100,0,0,0,0,7
+dien thoai,8870000,NaN,5,3,Ho Chi Minh,NaN,16500,97,95,100,0,0,0,0,3
+dien thoai,8690000,None,None,None,Ha Noi,None,0,95,100,50,0,0,0,0,0
+dien thoai,8690000,24,9,4,Ho Chi Minh,11500000,16500,96,75,100,0,0,0,0,4
+dien thoai,8690000,None,None,None,Ho Chi Minh,None,1928000,None,None,None,0,0,0,0,0
+dien thoai,8690000,12,5,2,Vinh Phuc,10650000,37700,100,100,96,0,0,0,0,2
+dien thoai,8679000,42,43,12,Tien Giang,14900000,28700,97,100,100,0,0,0,0,12
+dien thoai,8600000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,8590000,14,None,1,Ho Chi Minh,9990000,0,98,100,90,0,0,0,0,1
+dien thoai,8590000,22,None,None,Ho Chi Minh,11190000,0,96,75,100,0,0,0,0,0
+dien thoai,8590000,14,None,None,Da Nang,9990000,0,93,None,100,0,0,0,0,0
+dien thoai,8590000,17,5,2,Ha Noi,10990000,26100,100,100,100,0,0,0,1,1
+dien thoai,8590000,14,11,2,Da Nang,10990000,38000,97,82,86,0,0,0,0,2
+dien thoai,8499000,None,None,None,Ho Chi Minh,None,16500,None,None,60,0,0,0,0,0
+dien thoai,8498000,2,None,None,Ho Chi Minh,8690000,0,98,100,100,0,0,0,0,0
+dien thoai,8490000,6,None,None,Da Nang,9000000,38000,97,100,100,0,0,0,0,0
+dien thoai,8490000,15,None,None,Ho Chi Minh,9990000,0,97,100,50,0,0,0,0,0
+dien thoai,8490000,15,None,None,Ho Chi Minh,9990000,18300,85,None,100,0,0,0,0,0
+dien thoai,8490000,6,None,None,Ho Chi Minh,8990000,18300,85,None,100,0,0,0,0,0
+dien thoai,8490000,15,None,None,Da Nang,9990000,0,97,100,None,0,0,0,0,0
+dien thoai,8489000,15,9,None,Da Nang,9990000,38000,97,82,86,0,0,0,0,0
+dien thoai,8480000,6,None,None,Ho Chi Minh,8990000,0,97,100,50,0,0,0,0,0
+dien thoai,8410000,11,None,None,Ho Chi Minh,9490000,0,100,None,100,0,0,0,0,0
+dien thoai,8390000,7,7,1,Long An,8990000,28700,99,100,94,0,0,0,0,2
+dien thoai,8390000,30,14,None,Da Nang,11990000,38000,97,82,86,0,0,0,0,0
+dien thoai,8380000,27,None,None,Ho Chi Minh,11490000,16500,98,82,100,0,0,0,0,0
+dien thoai,28791000,10,None,None,Ha Noi,31990200,None,92,None,33,0,0,0,0,0
+dien thoai,14990000,None,None,1,Ho Chi Minh,None,0,100,None,100,0,0,0,0,1
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,12200000,18,None,None,Ha Noi,16890500,None,92,None,33,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,11690000,22,None,None,Da Nang,None,None,None,None,None,0,0,0,0,0
+dien thoai,11680000,10,35,8,Ho Chi Minh,12990000,18300,98,100,92,0,0,0,0,9
+dien thoai,11617600,22,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11039000,26,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,1
+dien thoai,10690000,11,None,None,Da Nang,11990000,27000,100,100,100,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10489500,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,10489000,52,237,35,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,32
+dien thoai,10390000,22,None,None,Vinh Phuc,13390000,37700,100,100,97,0,0,0,0,0
+dien thoai,10100000,8,6,2,Ho Chi Minh,10990000,18300,98,100,92,0,0,0,0,2
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9890000,21,38,12,Binh Duong,12490000,None,98,None,98,0,0,1,1,11
+dien thoai,9790000,1,None,None,Ho Chi Minh,9900000,18300,99,99,98,0,0,0,0,0
+dien thoai,9500000,None,10,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,9499000,10,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9390000,17,None,1,Vinh Phuc,11250000,43900,100,100,97,0,0,0,0,1
+dien thoai,9220491,29,62,2,Ho Chi Minh,12990000,16500,97,100,100,0,0,0,1,1
+dien thoai,9090000,24,534,126,Ha Noi,11990000,38000,99,100,85,1,0,0,2,123
+dien thoai,9060000,18,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,8991000,None,None,None,Ho Chi Minh,None,0,79,None,None,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,10,23,5,Ho Chi Minh,11490000,18300,99,99,98,0,0,0,0,5
+dien thoai,8890000,60,9100,1558,Ho Chi Minh,23990000,5500,94,98,100,34,13,14,37,1460
+dien thoai,8888000,23,16,7,Ho Chi Minh,11500000,18300,96,75,75,0,0,0,0,7
+dien thoai,8390000,7,None,1,Long An,8990000,28700,99,100,96,0,0,0,0,2
+dien thoai,7850000,17,None,None,Ho Chi Minh,9500000,16500,98,82,100,0,0,0,0,0
+dien thoai,7490000,7,9,1,Ho Chi Minh,8090000,18300,99,99,98,0,0,0,0,1
+dien thoai,7490000,12,13,1,Ho Chi Minh,8990000,18300,99,99,98,0,0,0,0,2
+dien thoai,7400000,1,22,1,Nam Dinh,10200000,37700,87,80,100,0,0,0,0,1
+dien thoai,7349000,11,9,2,Ho Chi Minh,8290000,18300,99,99,98,0,0,0,0,2
+dien thoai,7290000,None,None,None,Ho Chi Minh,None,1928000,99,99,98,0,0,0,0,0
+dien thoai,7199000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,7190000,7,None,2,Long An,7690000,28700,99,100,96,0,0,0,0,2
+dien thoai,7180000,32,208,49,Ho Chi Minh,10490000,16500,99,99,98,0,0,0,0,49
+dien thoai,41990000,None,11,None,Ho Chi Minh,44990000,20100,99,100,85,0,0,0,0,0
+dien thoai,37590001,NaN,24,2,Ho Chi Minh,44490000,NaN,91,NaN,100,0,0,0,0,2
+dien thoai,37020000,None,None,None,Ha Noi,None,38000,100,100,None,0,0,0,0,0
+dien thoai,31989000,1400,340,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,337,
+dien thoai,31590000,None,21,2,Ho Chi Minh,37490000,None,91,None,100,0,0,0,0,3
+dien thoai,29990000,None,None,None,Ha Noi,32990000,38000,98,100,92,0,0,0,0,0
+dien thoai,29517000,6,1,Ho Chi Minh,32990000,18300,99,99,98,0,0,0,0,2,
+dien thoai,29890000,16,4,Binh Duong,35990000,0,98,98,0,0,0,0,4,,
+dien thoai,29590000,NaN,11900,2674,Ho Chi Minh,34999000,5500,94,98,100,31,3,8,9,2625
+dien thoai,28791000,None,None,None,Ha Noi,31990000,None,94,None,83,0,0,0,0,0
+dien thoai,28090000,None,13,None,Ho Chi Minh,33990000,None,91,None,100,0,0,0,0,0
+dien thoai,27989000,155,28,Ho Chi Minh,30490000,16500,91,99,100,0,0,0,1,28,
+dien thoai,24898000,6,6,None,Ho Chi Minh,33990000,18300,99,99,98,0,0,0,0,0
+dien thoai,24880000,None,None,None,Ha Noi,31990000,None,94,None,83,0,0,0,0,0
+dien thoai,24290100,None,None,None,Ha Noi,29990000,None,94,None,83,0,0,0,0,0
+dien thoai,24140000,None,None,None,Ho Chi Minh,33990000,16500,98,82,100,0,0,0,0,0
+dien thoai,23590000,None,14,1,Ho Chi Minh,26490000,None,91,None,100,1,0,0,0,0
+dien thoai,23290000,None,7,3,Ho Chi Minh,44490000,0,98,100,88,0,0,0,1,2
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,85,0,0,0,0,0
+dien thoai,22890000,None,7,None,Ha Noi,26790000,38000,99,100,85,0,0,0,0,0
+dien thoai,21390000,None,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,21310000,None,None,None,Ha Noi,25990000,None,94,None,83,0,0,0,0,0
+dien thoai,20989000,114,29,Ho Chi Minh,22990000,16500,91,99,100,1,1,4,1,22,
+dien thoai,20691000,None,None,None,Ha Noi,22990000,None,92,None,33,0,0,0,0,0
+dien thoai,20090000,None,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19640000,10,4,Ho Chi Minh,22990000,18300,99,99,98,0,0,0,0,4,
+dien thoai,18990000,None,None,None,Da Nang,22990000,38000,97,82,80,0,0,0,0,0
+dien thoai,18990000,NaN,8,3,Ho Chi Minh,32990000,18300,99,100,85,0,0,0,0,2
+dien thoai,16990000,NaN,13,5,Ho Chi Minh,19990000,18300,99,100,85,0,0,0,0,5
+dien thoai,16769000,None,None,None,Ho Chi Minh,25990000,18300,98,82,100,0,0,0,0,0
+dien thoai,14390000,NaN,303,70,Ha Noi,17990000,38000,99,100,85,0,0,1,3,66
+dien thoai,14122403,69,18,Hà Nội,17990000,13700,95,100,100,0,1,0,0,17,
+dien thoai,14089000,NaN,67,6,Ho Chi Minh,16900000,18300,97,100,100,0,0,0,0,6
+dien thoai,13990000,None,32,2,Ho Chi Minh,18990000,18300,99,100,85,0,0,0,0,2
+dien thoai,13490000,None,None,None,Ha Noi,21300000,38000,91,95,100,0,0,0,0,0
+dien thoai,12998500,NaN,16,2,Ho Chi Minh,16890500,NaN,91,NaN,100,0,0,0,1,2
+dien thoai,12700000,None,None,None,Thai Binh,13000000,37700,None,None,None,0,0,0,0,0
+dien thoai,12200000,None,None,1,Ha Noi,14900000,None,94,None,83,0,0,0,0,1
+dien thoai,11989000,91,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15,
+dien thoai,11680000,NaN,35,8,Ho Chi Minh,12990000,18300,98,100,92,0,0,0,0,9
+dien thoai,23391000,None,None,None,Ha Noi,25990000,None,94,None,83,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,11617600,None,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11039000,None,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,1
+dien thoai,10690000,None,None,None,Da Nang,11990000,27000,100,100,100,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10489500,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,10489000,237,35,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,32,
+dien thoai,10390000,None,None,None,Vinh Phuc,13390000,37700,100,100,97,0,0,0,0,0
+dien thoai,10100000,6,2,Ho Chi Minh,10990000,18300,98,100,92,0,0,0,0,2,
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9890000,None,38,12,Binh Duong,12490000,None,98,None,98,0,0,1,1,11
+dien thoai,9790000,None,None,None,Ho Chi Minh,9900000,18300,99,99,98,0,0,0,0,0
+dien thoai,9500000,None,10,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,9499000,None,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9390000,None,1,None,Vinh Phuc,11250000,43900,100,100,97,0,0,0,0,1
+dien thoai,9220491,None,62,2,Ho Chi Minh,12990000,16500,97,100,100,0,0,0,1,1
+dien thoai,9090000,NaN,534,126,Ha Noi,11990000,38000,99,100,85,1,0,0,2,123
+dien thoai,8991000,None,None,None,Ho Chi Minh,None,0,79,None,None,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,23,5,Ho Chi Minh,11490000,18300,99,99,98,0,0,0,0,5,
+dien thoai,8890000,NaN,9100,1558,Ho Chi Minh,23990000,5500,94,98,100,34,13,14,37,1460
+dien thoai,8888000,NaN,16,7,Ho Chi Minh,11500000,18300,96,75,75,0,0,0,0,7
+dien thoai,8390000,None,None,1,Ho Chi Minh,8990000,None,96,None,83,0,0,0,0,1
+dien thoai,8390000,None,1,None,Long An,8990000,28700,99,100,96,0,0,0,0,2
+dien thoai,7850000,None,None,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,7490000,None,9,1,Ho Chi Minh,8090000,18300,99,99,98,0,0,0,0,1
+dien thoai,7490000,None,13,1,Ho Chi Minh,8990000,18300,99,99,98,0,0,0,0,2
+dien thoai,7400000,None,22,1,Nam Dinh,10200000,37700,87,80,100,0,0,0,0,1
+dien thoai,7349000,NaN,9,2,Ho Chi Minh,8290000,18300,99,99,98,0,0,0,0,2
+dien thoai,7290000,None,None,None,Ho Chi Minh,None,1928000,99,99,98,0,0,0,0,0
+dien thoai,7290000,4,None,4,Ho Chi Minh,8490000,18300,98,100,92,0,0,0,0,4
+dien thoai,7199000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,7190000,NaN,NaN,2,Long An,7690000,28700,99,100,96,0,0,0,0,2
+dien thoai,7180000,208,49,Ho Chi Minh,10490000,16500,99,99,98,0,0,0,0,49,
+dien thoai,6975000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,6539000,NaN,11,3,Vinh Phuc,7980000,43900,100,100,97,0,0,0,0,3
+dien thoai,6490000,10,5,Ho Chi Minh,7230000,18300,98,100,92,0,0,0,0,5,
+dien thoai,6450000,None,None,None,Ho Chi Minh,7500000,16500,98,82,100,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,6388000,36,None,Tien Giang,8500000,28700,97,100,100,0,0,0,0,14,
+dien thoai,6290000,16,5,Ho Chi Minh,6490000,18300,99,99,98,0,0,0,0,5,
+dien thoai,6194000,NaN,58,9,Ho Chi Minh,NaN,0,NaN,100,50,0,0,0,0,9
+dien thoai,6189000,None,None,2,Ho Chi Minh,7290000,18300,99,99,98,0,0,0,0,2
+dien thoai,6090000,NaN,60,11,Ho Chi Minh,7990000,18300,99,99,98,0,0,0,0,11
+dien thoai,5900000,NaN,216,122,Ho Chi Minh,7990000,16500,97,NaN,NaN,0,1,0,2,119
+dien thoai,5900000,None,None,1,Nam Định,None,37700,87,80,100,0,0,0,0,1
+dien thoai,5889000,None,None,None,Ho Chi Minh,6988000,0,82,None,100,0,0,0,0,0
+dien thoai,5700000,None,None,None,Nam Định,6990000,37700,87,80,100,0,0,0,0,0
+dien thoai,5499000,None,None,None,Ho Chi Minh,6499000,0,82,None,100,0,0,0,0,0
+dien thoai,5400000,None,None,1,Ha Noi,5700000,0,93,33,100,0,0,0,0,1
+dien thoai,5389000,NaN,38,15,Tien Giang,7500000,28700,97,100,100,0,0,0,2,14
+dien thoai,5329000,NaN,15,4,Nghệ An,6990000,37700,95,98,87,0,0,0,0,4
+dien thoai,5180000,31,None,Ho Chi Minh,5490000,16500,99,100,83,0,0,0,2,11,
+dien thoai,5129831,NaN,18,9,Vinh Phuc,6450000,43900,100,100,97,0,0,0,0,9
+dien thoai,5128000,67,41,Vinh Phuc,5750000,43900,100,100,97,0,0,0,0,41,
+dien thoai,5089000,13,13,3,Ho Chi Minh,None,16500,96,100,88,0,0,0,0,3
+dien thoai,5000000,None,None,None,Hai Phong,None,37700,None,None,None,0,0,0,0,0
+dien thoai,4990000,None,None,None,Ho Chi Minh,5490000,16500,97,100,None,0,0,0,0,0
+dien thoai,4990000,None,None,None,Ho Chi Minh,5490000,0,96,100,80,0,0,0,0,0
+dien thoai,4990000,7,2,Long An,5290000,28700,99,100,96,0,0,0,0,2,
+dien thoai,4990000,None,285,140,Ho Chi Minh,7290000,16500,97,None,None,1,0,0,1,138
+dien thoai,4939000,None,None,None,Ben Tre,4990000,28700,98,100,100,0,0,0,0,0
+dien thoai,4939000,None,None,None,Ben Tre,4990000,28700,97,100,100,0,0,0,0,0
+dien thoai,4914000,None,110,12,Ho Chi Minh,None,0,96,100,100,0,0,0,0,12
+dien thoai,4689000,1300,None,Ho Chi Minh,4690000,16500,91,99,100,0,0,1,0,58,
+dien thoai,4649000,NaN,54,28,Ho Chi Minh,4990000,16500,99,100,83,0,0,1,0,28
+dien thoai,4599000,NaN,137,62,Ho Chi Minh,5290000,16500,99,100,83,2,0,0,1,60
+dien thoai,4590000,None,6,3,Ho Chi Minh,5290000,0,96,100,80,0,0,0,0,3
+dien thoai,4539000,NaN,99,55,Vinh Phuc,6760000,43900,100,100,97,0,0,0,2,53
+dien thoai,4536040,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,4499000,None,None,None,Ha Noi,7190000,0,None,None,100,0,0,0,0,0
+dien thoai,4490000,None,11,1,Ho Chi Minh,4990000,20100,99,99,98,0,0,0,0,1
+dien thoai,4400000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,4390000,None,82,32,Ho Chi Minh,5290000,16500,96,100,88,1,0,0,1,30
+dien thoai,4390000,None,10,3,Nam Định,None,37700,87,80,100,1,0,0,0,2
+dien thoai,4290000,None,None,None,Ho Chi Minh,6290000,18300,99,99,98,0,0,0,0,0
+dien thoai,4270000,218,80,Ho Chi Minh,4890000,18300,98,100,92,0,0,0,1,79,
+dien thoai,4269000,NaN,359,136,Ho Chi Minh,4890000,18300,98,100,92,0,0,1,0,135
+dien thoai,28791000,None,None,None,Ha Noi,31990200,None,92,None,33,0,0,0,0,0
+dien thoai,23391000,None,None,None,Ha Noi,27490000,None,92,None,33,0,0,0,0,0
+dien thoai,19990000,None,None,None,Da Nang,22990000,27000,100,100,100,0,0,0,0,0
+dien thoai,12200000,None,None,None,Ha Noi,16890500,None,92,None,33,0,0,0,0,0
+dien thoai,11690000,None,None,None,Da Nang,14990000,27000,100,100,100,0,0,0,0,0
+dien thoai,9060000,None,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,4250000,530,94,Ho Chi Minh,4990000,16500,100,100,100,0,0,1,1,92,
+dien thoai,4209000,None,None,None,Ben Tre,4990000,28700,99,100,100,0,0,0,0,0
+dien thoai,4199000,None,None,1,Ho Chi Minh,4990000,16500,98,82,100,0,0,0,0,1
+dien thoai,4190000,NaN,6,3,Ho Chi Minh,7190000,18300,98,100,92,0,0,0,0,3
+dien thoai,4189000,NaN,40,3,Ben Tre,4890000,28700,98,100,100,0,0,0,0,3
+dien thoai,4174900,437,136,Ho Chi Minh,4890000,18300,99,99,98,0,0,2,2,132,
+dien thoai,4160000,NaN,33,9,Ho Chi Minh,5490000,20100,99,99,98,0,0,0,1,8
+dien thoai,4099000,None,45,19,Ben Tre,5790000,32200,98,100,100,0,0,0,2,17
+dien thoai,4090000,None,None,None,Ha Noi,6790000,0,None,None,100,0,0,0,0,0
+dien thoai,4085000,None,None,None,Ho Chi Minh,4990000,16500,98,82,100,0,0,0,0,0
+dien thoai,3997000,NaN,43,11,Ho Chi Minh,4990000,16500,98,100,100,0,0,0,0,11
+dien thoai,3990000,None,None,None,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,0
+dien thoai,3990000,None,None,None,Long An,4990000,28700,99,100,96,0,0,0,0,0
+dien thoai,3990000,NaN,47,26,Ho Chi Minh,4490000,0,100,NaN,100,0,0,0,0,26
+dien thoai,3691000,22,9,Ho Chi Minh,7290000,18300,98,100,92,0,0,0,0,9,
+dien thoai,3905000,NaN,6,3,Ha Noi,4690000,38000,98,100,92,0,0,0,0,3
+dien thoai,3839000,1200,1,None,Ho Chi Minh,4490000,16500,99,100,83,3,0,3,8,545
+dien thoai,3790000,None,None,None,Ha Noi,4650000,0,None,None,100,0,0,0,0,0
+dien thoai,3749000,NaN,144,46,Ho Chi Minh,4490000,16500,99,100,83,1,0,1,0,44
+dien thoai,3690000,None,5,2,Ha Noi,4200000,64800,95,100,100,0,0,0,0,2
+dien thoai,3689000,none,87,40,Ho Chi Minh,4690000,16500,99,100,83,0,0,1,1,38
+dien thoai,3668000,None,None,None,Dak Lak,None,37700,100,None,None,0,0,0,0,0
+dien thoai,3599000,NaN,1700,471,Ben Tre,4990000,32200,98,100,100,2,0,0,5,464
+dien thoai,3590000,None,None,None,Ha Noi,4990000,0,None,None,100,0,0,0,0,0
+dien thoai,3490000,None,None,1,Ha Noi,4229000,38000,88,100,71,0,0,0,0,2
+dien thoai,3490000,NaN,19,6,Ho Chi Minh,4990000,16500,99,100,83,2,0,0,1,4
+dien thoai,3488000,NaN,101,51,Nghệ An,4758000,37700,94,91,92,0,0,0,4,47
+dien thoai,3450000,None,6,5,Ho Chi Minh,3990000,18300,99,99,98,0,0,0,0,5
+dien thoai,3449000,None,42,41,Ho Chi Minh,6299000,16500,97,98,100,0,0,0,0,41
+dien thoai,3270000,123,46,Ho Chi Minh,3990000,18300,100,100,100,0,0,1,0,45,
+dien thoai,3240179,NaN,88,30,Ho Chi Minh,449000,16500,97,98,100,0,0,0,0,31
+dien thoai,3200000,None,6,None,Ha Noi,4990000,None,94,None,83,0,0,0,0,0
+dien thoai,3139000,NaN,12,2,Ben Tre,3990000,28700,99,100,100,0,0,0,0,3
+dien thoai,3120000,NaN,221,118,Ho Chi Minh,3490000,18300,98,100,92,0,0,1,0,117
+dien thoai,24188000,29,11,1,Da Nang,33990000,38000,97,81,80,0,0,0,0,2
+dien thoai,20090000,13,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19995000,9,None,None,Ho Chi Minh,21990000,0,97,100,33,0,0,0,0,0
+dien thoai,19990000,26,None,None,Ho Chi Minh,26990000,16500,98,83,100,0,0,0,0,0
+dien thoai,19990000,5,None,None,Ho Chi Minh,20990000,19600,85,None,100,0,0,0,0,0
+dien thoai,19890000,1,None,None,Ho Chi Minh,19990000,0,97,100,33,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19900000,19600,85,None,100,0,0,0,0,0
+dien thoai,19640000,15,10,4,Ho Chi Minh,22990000,18300,99,99,98,0,0,0,0,4
+dien thoai,19190000,17,None,None,Ho Chi Minh,23000000,16500,98,83,100,0,0,0,0,1
+dien thoai,19140000,17,None,None,Ho Chi Minh,22990000,16500,100,99,100,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,97,81,80,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,96,25,100,0,0,0,0,0
+dien thoai,18990000,42,8,3,Ho Chi Minh,32990000,18300,99,100,85,0,0,0,0,2
+dien thoai,18866000,9,None,None,Ha Noi,21299000,32700,97,None,None,0,0,0,0,0
+dien thoai,18599000,11,None,None,Ha Noi,23990000,13700,100,100,100,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,17950000,22,None,None,Ho Chi Minh,22990000,16500,98,83,100,0,0,0,0,0
+dien thoai,17800000,None,45,5,Ho Chi Minh,None,0,100,None,None,0,0,0,0,5
+dien thoai,17499000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17290000,36,None,None,Ho Chi Minh,26990000,0,98,100,88,0,0,0,0,0
+dien thoai,17020000,26,None,1,Ha Noi,22990000,None,94,None,83,0,0,0,0,1
+dien thoai,17020000,26,10,2,Ha Noi,24989800,None,92,None,33,0,0,0,0,2
+dien thoai,16990000,15,13,5,Ho Chi Minh,19990000,18300,99,100,85,0,0,0,0,5
+dien thoai,16990000,35,11,1,Ho Chi Minh,25990000,16500,97,None,None,0,0,0,0,1
+dien thoai,16490000,None,None,1,Ha Noi,None,13700,95,100,100,0,0,0,0,1
+dien thoai,15890000,38,7,1,Ha Noi,32900000,38000,91,95,100,0,0,0,0,1
+dien thoai,15580000,32,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,15490000,40,None,None,Da Nang,29990000,38000,97,81,80,0,0,0,0,0
+dien thoai,15390000,33,None,None,Ho Chi Minh,22990000,0,98,100,88,0,0,0,0,0
+dien thoai,14500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,14500000,None,5,None,Ha Noi,None,0,None,None,None,0,0,0,0,0
+dien thoai,14390000,37,9,None,Ha Noi,22990000,0,97,50,50,0,0,0,0,0
+dien thoai,14122403,9,69,18,Ha Noi,17990000,13700,95,100,100,0,1,0,0,17
+dien thoai,13990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,13990000,26,32,2,Ho Chi Minh,18990000,18300,99,100,85,0,0,0,0,2
+dien thoai,13878080,37,7,None,Ho Chi Minh,21990000,18300,97,None,50,0,0,0,0,0
+dien thoai,13500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,13200000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,41990000,7,11,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,40990000,None,None,None,Ho Chi Minh,None,18300,97,99,88,0,0,0,0,0
+dien thoai,37590001,16,24,2,Ho Chi Minh,44490000,None,91,None,100,0,0,0,0,2
+dien thoai,31989000,6,1400,347,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,344
+dien thoai,31990000,9,712,151,Ho Chi Minh,34990000,5500,94,98,100,1,0,1,0,149
+dien thoai,31990000,None,203,43,Ho Chi Minh,None,None,99,None,100,2,0,0,0,41
+dien thoai,31590000,16,21,2,Ho Chi Minh,37490000,None,91,None,100,0,0,0,0,3
+dien thoai,31210000,8,None,None,Ha Noi,33990000,None,94,None,83,0,0,0,0,0
+dien thoai,30470000,10,6,None,Ha Noi,44490000,None,94,None,83,0,0,0,0,0
+dien thoai,29990000,9,None,None,Ha Noi,32990000,38000,98,100,92,0,0,0,0,0
+dien thoai,29517000,11,6,1,Ho Chi Minh,32990000,18300,99,99,98,0,0,0,0,2
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,18300,97,99,88,0,0,0,0,0
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,7300,97,98,85,0,0,0,0,0
+dien thoai,29890000,17,16,4,Binh Duong,35990000,None,98,None,98,0,0,0,0,4
+dien thoai,29689000,15,11900,2683,Ho Chi Minh,34999000,5500,94,98,100,31,3,8,9,2631
+dien thoai,28990000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,28791000,10,None,None,Ha Noi,31990000,None,94,None,83,0,0,0,0,0
+dien thoai,28090000,17,13,None,Ho Chi Minh,33990000,None,91,None,100,0,0,0,0,0
+dien thoai,27891000,10,None,None,Ha Noi,32990000,None,94,None,83,0,0,0,0,0
+dien thoai,27490000,11,7,5,Ha Noi,33990000,51500,94,96,100,0,0,0,0,5
+dien thoai,27399000,None,None,None,Ha Noi,None,32700,97,None,None,0,0,0,0,0
+dien thoai,26590000,22,None,1,Ho Chi Minh,33999000,7300,97,None,50,0,0,0,0,1
+dien thoai,25390000,41,None,None,Ha Noi,43000000,38000,91,95,100,0,0,0,0,0
+dien thoai,24898000,27,7,None,Ho Chi Minh,33990000,18300,99,99,98,0,0,0,0,0
+dien thoai,24880000,22,None,None,Ha Noi,31990000,None,94,None,83,0,0,0,0,0
+dien thoai,24290100,10,None,None,Ha Noi,29990000,None,94,None,83,0,0,0,0,0
+dien thoai,24190000,21,None,None,Ha Noi,26990000,None,94,None,83,0,0,0,0,0
+dien thoai,24140000,29,None,None,Ho Chi Minh,33990000,16500,98,83,100,0,0,0,0,0
+dien thoai,23600000,13,None,None,Ha Noi,30490000,None,94,None,83,0,0,0,0,0
+dien thoai,23290000,31,7,3,Ho Chi Minh,44490000,0,98,100,88,0,0,0,1,2
+dien thoai,22990000,None,None,None,Ha Noi,None,38000,98,100,92,0,0,0,0,0
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,85,0,0,0,0,0
+dien thoai,22990000,45,9,1,Da Nang,41990000,32700,94,100,100,0,0,0,0,1
+dien thoai,22990000,18,16,3,Binh Duong,27990000,None,98,None,98,0,0,0,0,6
+dien thoai,21490000,35,8,2,Ha Noi,32990000,51500,94,96,100,0,0,0,0,2
+dien thoai,21390000,7,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,21290000,31,36,3,Ho Chi Minh,30990000,16500,97,None,None,0,0,1,0,3
+dien thoai,20989000,9,120,30,Bac Ninh,22990000,16500,91,99,100,1,1,4,1,23
+dien thoai,20890000,23,None,None,Ho Chi Minh,26990000,18300,99,99,98,0,0,0,0,0
+dien thoai,20610000,10,None,None,Ha Noi,22990000,None,94,None,83,0,0,0,0,0
+dien thoai,20090000,13,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19995000,9,None,None,Ho Chi Minh,21990000,0,97,100,33,0,0,0,0,0
+dien thoai,19990000,26,None,None,Ho Chi Minh,26990000,16500,98,83,100,0,0,0,0,0
+dien thoai,19990000,5,None,None,Ho Chi Minh,20990000,19600,85,None,100,0,0,0,0,0
+dien thoai,19890000,1,None,None,Ho Chi Minh,19990000,0,97,100,33,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19900000,19600,85,None,100,0,0,0,0,0
+dien thoai,19640000,15,10,4,Ho Chi Minh,22990000,18300,99,99,98,0,0,0,0,4
+dien thoai,19190000,17,None,None,Ho Chi Minh,23000000,16500,98,83,100,0,0,0,0,1
+dien thoai,19140000,17,None,None,Ho Chi Minh,22990000,16500,100,99,100,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,97,81,80,0,0,0,0,0
+dien thoai,18990000,17,None,None,Da Nang,22990000,38000,96,25,100,0,0,0,0,0
+dien thoai,18990000,42,8,3,Ho Chi Minh,32990000,18300,99,100,85,0,0,0,0,2
+dien thoai,18866000,9,None,None,Ha Noi,21299000,32700,97,None,None,0,0,0,0,0
+dien thoai,18599000,11,None,None,Ha Noi,23990000,13700,100,100,100,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,17950000,22,None,None,Ho Chi Minh,22990000,16500,98,83,100,0,0,0,0,0
+dien thoai,17800000,None,45,5,Ho Chi Minh,None,0,100,None,None,0,0,0,0,5
+dien thoai,17499000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17290000,36,None,None,Ho Chi Minh,26990000,0,98,100,88,0,0,0,0,0
+dien thoai,17020000,26,None,1,Ha Noi,22990000,None,94,None,83,0,0,0,0,1
+dien thoai,17020000,26,10,2,Ha Noi,24989800,None,92,None,33,0,0,0,0,2
+dien thoai,16990000,15,13,5,Ho Chi Minh,19990000,18300,99,100,85,0,0,0,0,5
+dien thoai,16990000,35,11,1,Ho Chi Minh,25990000,16500,97,None,None,0,0,0,0,1
+dien thoai,16490000,None,None,1,Ha Noi,None,13700,95,100,100,0,0,0,0,1
+dien thoai,15890000,38,7,1,Ha Noi,32900000,38000,91,95,100,0,0,0,0,1
+dien thoai,15580000,32,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,15490000,40,None,None,Da Nang,29990000,38000,97,81,80,0,0,0,0,0
+dien thoai,15390000,33,None,None,Ho Chi Minh,22990000,0,98,100,88,0,0,0,0,0
+dien thoai,14500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,14500000,None,5,None,Ha Noi,None,0,None,None,None,0,0,0,0,0
+dien thoai,14390000,37,9,None,Ha Noi,22990000,0,97,50,50,0,0,0,0,0
+dien thoai,14122403,9,69,18,Ha Noi,17990000,13700,95,100,100,0,1,0,0,17
+dien thoai,13990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,13990000,26,32,2,Ho Chi Minh,18990000,18300,99,100,85,0,0,0,0,2
+dien thoai,13878080,37,7,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,13500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,80,100,0,0,0,0,0
+dien thoai,13200000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,13190000,31,None,None,Ha Noi,24550000,38000,91,95,100,0,0,0,0,0
+dien thoai,24188000,29,11,1,Da Nang,33990000,38000,97,81,80,0,0,0,0,2
+dien thoai,16990000,45,31,12,Ho Chi Minh,33990000,16500,97,None,None,0,0,0,2,10
+dien thoai,14990000,None,None,1,Ho Chi Minh,None,0,100,None,100,0,0,0,0,1
+dien thoai,12998500,23,16,2,Ho Chi Minh,16890500,None,91,None,100,0,0,0,1,2
+dien thoai,12990000,24,None,None,Ho Chi Minh,16990000,16500,None,None,66,0,0,0,0,0
+dien thoai,12940000,13,None,None,Ha Noi,16890000,38000,98,100,92,0,0,0,0,0
+dien thoai,12890000,None,None,None,Ha Noi,None,13700,95,100,100,0,0,0,0,0
+dien thoai,12389000,None,None,None,Nam Định,None,43900,None,None,100,0,0,0,0,0
+dien thoai,12290000,36,None,1,Ha Noi,19200000,38000,91,95,100,0,0,0,0,1
+dien thoai,12200000,18,None,1,Ha Noi,14900000,None,94,None,83,0,0,0,0,1
+dien thoai,12200000,18,None,None,Ha Noi,16890500,None,92,None,33,0,0,0,0,0
+dien thoai,11990000,8,None,3,Ho Chi Minh,12990000,19600,85,None,100,0,0,0,0,3
+dien thoai,11989000,19,91,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15
+dien thoai,11980000,8,None,None,Ho Chi Minh,12990000,0,97,100,33,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,11700000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,11680000,10,35,8,Ho Chi Minh,12990000,18300,98,100,92,0,0,0,0,9
+dien thoai,11617600,22,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11250000,16,None,None,Ha Noi,13350000,38000,91,95,100,0,0,0,0,0
+dien thoai,11078000,21,None,None,Ho Chi Minh,13990000,16500,100,99,100,0,0,0,0,0
+dien thoai,11039000,26,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,1
+dien thoai,10990000,27,None,None,Da Nang,14990000,0,93,None,100,0,0,0,0,0
+dien thoai,10990000,35,5,1,Ho Chi Minh,16900000,18300,96,75,75,0,0,0,0,1
+dien thoai,10990000,27,None,None,Da Nang,14990000,38000,97,81,80,0,0,0,0,0
+dien thoai,10890000,39,5,2,Ha Noi,17999000,26100,100,100,100,0,0,0,0,2
+dien thoai,10839000,27,None,None,Ben Tre,14890000,28700,97,100,100,0,0,0,0,0
+dien thoai,10800000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10791000,10,None,None,Ha Noi,11990000,None,94,None,83,0,0,0,0,0
+dien thoai,10782000,10,5,None,Ha Noi,12980000,None,92,None,33,0,0,0,0,0
+dien thoai,10560000,None,None,None,Ho Chi Minh,None,19600,100,None,None,0,0,0,0,0
+dien thoai,10500000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10490000,19,None,None,Da Nang,12990000,38000,97,81,80,0,0,0,0,0
+dien thoai,10490000,None,None,None,Dak Nong,None,32200,None,None,None,0,0,0,0,0
+dien thoai,10489000,52,237,37,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,33
+dien thoai,10450000,30,None,None,Ha Noi,14900000,38000,91,95,100,0,0,0,0,0
+dien thoai,10290000,34,None,None,Ha Noi,16000000,38000,91,95,100,0,0,0,0,0
+dien thoai,10290000,21,None,None,Da Nang,12990000,38000,96,25,100,0,0,0,0,0
+dien thoai,10266000,7,None,None,Ho Chi Minh,10990000,16500,100,99,100,0,0,0,0,0
+dien thoai,10490000,13,None,None,Da Nang,11990000,38000,97,81,80,0,0,0,0,0
+dien thoai,10490000,None,7,2,Ho Chi Minh,None,None,99,None,100,0,0,0,0,3
+dien thoai,10235000,32,None,None,Da Nang,14990000,38000,97,81,80,0,0,0,0,0
+dien thoai,10200000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,10100000,8,6,2,Ho Chi Minh,10990000,18300,98,100,92,0,0,0,0,2
+dien thoai,10099000,22,None,1,Ha Noi,13000000,38000,97,None,None,0,0,0,0,1
+dien thoai,10085523,17,45,3,Ha Noi,12090000,13700,95,100,100,0,0,0,0,3
+dien thoai,9990000,9,None,None,Da Nang,10990000,45100,96,25,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9990000,17,None,None,Ho Chi Minh,12000000,16500,98,83,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ha Noi,None,None,94,None,83,0,0,0,0,0
+dien thoai,9990000,None,None,None,Da Nang,None,32700,100,80,None,0,0,0,0,0
+dien thoai,9990000,23,7,None,Ho Chi Minh,12890000,0,98,100,88,0,0,0,0,0
+dien thoai,9890000,21,38,12,Binh Duong,12490000,None,98,None,98,0,0,1,1,11
+dien thoai,9990000,None,7,None,Ha Noi,None,0,100,None,None,0,0,0,0,0
+dien thoai,9895000,None,None,None,Ha Noi,9900000,0,91,55,78,1,0,0,0,0
+dien thoai,9890000,18,8,5,Tien Giang,15900000,28700,97,100,100,0,0,1,0,4
+dien thoai,9790000,1,None,None,Ho Chi Minh,9900000,18300,99,99,98,0,0,0,0,0
+dien thoai,9675000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9590000,9,None,None,Ho Chi Minh,10500000,16500,96,75,75,0,0,0,0,0
+dien thoai,9590000,11,None,0,Tien Giang,10800000,28700,97,100,100,0,0,0,0,1
+dien thoai,9500000,None,None,None,Nam Dinh,None,37700,87,80,100,0,0,0,0,0
+dien thoai,9500000,32,None,None,Ha Noi,13900000,0,75,None,None,0,0,0,0,0
+dien thoai,9499000,10,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9490000,21,None,None,Ho Chi Minh,11990000,18300,85,None,100,0,0,0,0,0
+dien thoai,9480000,14,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,9440640,10,20,1,Ha Noi,10489600,None,92,None,33,0,0,0,0,2
+dien thoai,9390000,17,None,1,Vinh Phuc,11250000,43900,100,100,97,0,0,0,0,1
+dien thoai,9351363,13,38,13,Ha Noi,10790000,13700,95,100,100,0,0,0,0,13
+dien thoai,9350000,38,35,18,Ha Noi,17000000,32700,91,95,100,0,0,0,0,19
+dien thoai,9300000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,9150000,17,None,None,Ho Chi Minh,10990000,16500,98,83,100,0,0,0,0,0
+dien thoai,9090000,24,534,126,Ha Noi,11990000,38000,99,100,85,1,0,0,2,123
+dien thoai,9000000,None,None,None,Ho Chi Minh,None,16500,None,66,100,0,0,0,0,0
+dien thoai,8990000,10,None,None,Ho Chi Minh,9990000,0,97,100,33,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,10,None,None,Ho Chi Minh,9990000,19600,85,None,100,0,0,0,0,0
+dien thoai,8990000,10,25,5,Ho Chi Minh,11490000,18300,99,99,98,0,0,0,0,5
+dien thoai,8990000,18,None,1,Ho Chi Minh,10990000,18300,85,None,100,0,0,0,0,1
+dien thoai,8990000,None,None,1,Ho Chi Minh,9000000,0,97,100,33,0,0,0,0,1
+dien thoai,41990000,None,11,None,Ho Chi Minh,44990000,20100,99,100,85,0,0,0,0,0
+dien thoai,40990000,None,None,None,Ho Chi Minh,None,18300,97,99,86,0,0,0,0,0
+dien thoai,37590001,NaN,25,2,Ho Chi Minh,44490000,NaN,91,NaN,100,0,0,0,0,2
+dien thoai,31990000,none,1500,355,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,352
+dien thoai,31990000,None,203,43,Ho Chi Minh,None,None,99,None,100,2,0,0,0,41
+dien thoai,31590000,None,21,2,Ho Chi Minh,37490000,None,91,None,100,0,0,0,0,3
+dien thoai,31210000,None,None,None,Ha Noi,33990000,None,94,None,87,0,0,0,0,0
+dien thoai,30470000,None,6,None,Ha Noi,44490000,None,94,None,87,0,0,0,0,0
+dien thoai,29990000,None,None,None,Ha Noi,32990000,38000,98,100,92,0,0,0,0,0
+dien thoai,29517000,0,6,1,Ho Chi Minh,32990000,18300,99,99,98,0,0,0,0,2
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,18300,97,99,86,0,0,0,0,0
+dien thoai,29990000,None,None,None,Ho Chi Minh,None,7300,97,98,89,0,0,0,0,0
+dien thoai,29890000,16,4,Binh Duong,35990000,0,98,0,97,0,0,0,0,4,
+dien thoai,29590000,NaN,12000,2707,Ho Chi Minh,34999000,5500,94,98,100,31,3,8,9,2655
+dien thoai,28990000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,28791000,None,None,None,Ha Noi,31990000,None,94,None,87,0,0,0,0,0
+dien thoai,28090000,None,13,None,Ho Chi Minh,33990000,None,91,None,100,0,0,0,0,0
+dien thoai,27490000,NaN,7,5,Ha Noi,33990000,51500,94,96,100,0,0,0,0,5
+dien thoai,27399000,None,None,None,Ha Noi,None,32700,97,None,None,0,0,0,0,0
+dien thoai,26590000,None,None,1,Ho Chi Minh,33999000,7300,97,None,57,0,0,0,0,1
+dien thoai,25390000,None,None,None,Ha Noi,43000000,38000,91,100,100,0,0,0,0,0
+dien thoai,25300000,None,17,5,Ho Chi Minh,29990000,16500,97,None,33,0,0,0,0,5
+dien thoai,24999000,None,7,None,Ho Chi Minh,33990000,18300,99,99,98,0,0,0,0,0
+dien thoai,24880000,None,None,None,Ha Noi,31990000,None,94,None,87,0,0,0,0,0
+dien thoai,24290100,None,None,None,Ha Noi,29990000,None,94,None,87,0,0,0,0,0
+dien thoai,24190000,None,None,None,Ha Noi,26990000,None,94,None,87,0,0,0,0,0
+dien thoai,24188000,NaN,11,1,Da Nang,33990000,38000,97,81,87,0,0,0,0,2
+dien thoai,24140000,None,None,None,Ho Chi Minh,33990000,16500,98,80,100,0,0,0,0,0
+dien thoai,23600000,None,None,None,Ha Noi,30490000,None,94,None,87,0,0,0,0,0
+dien thoai,23290000,None,7,3,Ho Chi Minh,44490000,0,98,100,100,0,0,0,1,2
+dien thoai,22990000,None,None,None,Ha Noi,None,38000,98,100,92,0,0,0,0,0
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,85,0,0,0,0,0
+dien thoai,22990000,None,9,1,Da Nang,41990000,32700,94,100,100,0,0,0,0,1
+dien thoai,22990000,None,16,3,Binh Duong,27990000,None,98,None,97,0,0,0,0,6
+dien thoai,21490000,None,8,2,Ha Noi,32990000,51500,94,96,100,0,0,0,0,2
+dien thoai,21390000,None,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,21290000,None,36,3,Ho Chi Minh,30990000,16500,97,None,33,0,0,1,0,3
+dien thoai,20989000,123,30,Bac Ninh,22990000,16500,91,99,100,1,1,4,1,23,
+dien thoai,20890000,None,None,None,Ho Chi Minh,26990000,18300,99,99,98,0,0,0,0,0
+dien thoai,20610000,None,None,None,Ha Noi,22990000,None,94,None,87,0,0,0,0,0
+dien thoai,20090000,None,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19995000,None,None,None,Ho Chi Minh,21990000,0,97,100,33,0,0,0,0,0
+dien thoai,19990000,None,None,None,Ho Chi Minh,26990000,16500,98,80,100,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19990000,0,97,100,33,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19900000,19600,85,None,100,0,0,0,0,0
+dien thoai,19735000,None,None,None,Ha Noi,31900000,38000,100,100,None,0,0,0,0,0
+dien thoai,19640000,None,10,4,Ho Chi Minh,22990000,18300,99,99,98,0,0,0,0,4
+dien thoai,19190000,None,None,None,Ho Chi Minh,23000000,16500,98,80,100,0,0,0,0,1
+dien thoai,19140000,None,None,None,Ho Chi Minh,22990000,16500,100,99,100,0,0,0,0,0
+dien thoai,18990000,None,None,None,Da Nang,22990000,38000,97,81,87,0,0,0,0,0
+dien thoai,18990000,None,None,None,Da Nang,22990000,38000,96,25,100,0,0,0,0,0
+dien thoai,18990000,NaN,8,3,Ho Chi Minh,32990000,18300,99,100,85,0,0,0,0,2
+dien thoai,18866000,None,None,None,Ha Noi,21299000,32700,97,None,None,0,0,0,0,0
+dien thoai,18599000,None,None,None,Ha Noi,23990000,13700,100,None,100,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ho Chi Minh,None,16500,None,None,71,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,17950000,None,None,None,Ho Chi Minh,22990000,16500,98,80,100,0,0,0,0,0
+dien thoai,17800000,None,45,5,Ho Chi Minh,None,0,100,None,None,0,0,0,0,5
+dien thoai,17499000,None,None,None,Ho Chi Minh,None,16500,None,None,71,0,0,0,0,0
+dien thoai,17290000,None,None,None,Ho Chi Minh,26990000,0,98,100,100,0,0,0,0,0
+dien thoai,17020000,None,None,1,Ha Noi,22990000,None,94,None,87,0,0,0,0,1
+dien thoai,17020000,None,10,2,Ha Noi,24989800,None,92,None,50,0,0,0,0,2
+dien thoai,16990000,NaN,13,5,Ho Chi Minh,19990000,18300,99,100,85,0,0,0,0,5
+dien thoai,16990000,None,11,1,Ho Chi Minh,25990000,16500,97,None,33,0,0,0,0,1
+dien thoai,16490000,None,None,1,Ha Noi,None,13700,95,100,95,0,0,0,0,1
+dien thoai,15890000,None,7,1,Ha Noi,32900000,38000,91,100,100,0,0,0,0,1
+dien thoai,15580000,None,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,15490000,None,None,None,Da Nang,29990000,38000,97,81,87,0,0,0,0,0
+dien thoai,15390000,None,None,None,Ho Chi Minh,22990000,0,98,100,100,0,0,0,0,0
+dien thoai,14995000,None,None,None,Ho Chi Minh,15790000,0,97,100,33,0,0,0,0,0
+dien thoai,14990000,None,None,1,Ho Chi Minh,None,0,100,None,100,0,0,0,0,1
+dien thoai,14500000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,14500000,None,5,None,Ha Noi,None,0,None,None,None,0,0,0,0,0
+dien thoai,14390000,None,9,None,Ha Noi,22990000,0,97,100,50,0,0,0,0,0
+dien thoai,14123403,NaN,69,18,Ha Noi,17990000,13700,95,100,95,0,1,0,0,17
+dien thoai,13990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,13990000,None,32,2,Ho Chi Minh,18990000,18300,99,100,85,0,0,0,0,2
+dien thoai,13878080,None,7,None,Ho Chi Minh,21990000,18300,97,None,57,0,0,0,0,0
+dien thoai,13500000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,75,100,0,0,0,0,0
+dien thoai,29990000,None,None,None,Da Nang,44990000,0,93,None,100,0,0,0,0,0
+dien thoai,27891000,None,None,None,Ha Noi,32990000,None,94,None,87,0,0,0,0,0
+dien thoai,25990000,None,None,None,Da Nang,33990000,0,93,None,100,0,0,0,0,0
+dien thoai,24599000,None,None,None,Ben Tre,33990000,28700,98,100,100,0,0,0,0,0
+dien thoai,23391000,None,None,None,Ha Noi,25990000,None,94,None,87,0,0,0,0,0
+dien thoai,21990000,None,None,None,Ha Noi,23000000,32700,100,100,None,0,0,0,0,0
+dien thoai,19990000,None,None,None,Ho Chi Minh,20990000,19600,85,None,100,0,0,0,0,0
+dien thoai,19791000,NaN,5,1,Ha Noi,23490000,NaN,92,NaN,50,0,0,0,0,1
+dien thoai,17985000,None,None,None,Ho Chi Minh,18990000,19600,85,None,100,0,0,0,0,0
+dien thoai,17699000,None,None,None,Ho Chi Minh,22990000,7300,97,None,57,0,0,0,0,0
+dien thoai,17590000,None,16,2,Ha Noi,29990000,0,97,100,50,0,0,0,0,2
+dien thoai,17229000,None,None,None,Ben Tre,29990000,32200,98,100,100,0,0,0,0,0
+dien thoai,16990000,NaN,31,12,Ho Chi Minh,33990000,16500,97,NaN,33,0,0,0,2,10
+dien thoai,15990000,None,None,None,Ho Chi Minh,19000000,16500,96,75,85,0,0,0,0,0
+dien thoai,15980000,None,6,1,Tien Giang,19000000,28700,97,100,100,0,0,0,0,1
+dien thoai,14500000,None,None,1,Ha Noi,20500000,0,88,None,100,0,0,0,0,1
+dien thoai,14390000,NaN,303,70,Ha Noi,17990000,38000,99,100,90,0,0,1,3,66
+dien thoai,14089000,NaN,67,6,Ho Chi Minh,16900000,18300,98,100,100,0,0,0,0,6
+dien thoai,13990000,None,None,None,Ho Chi Minh,None,16500,100,99,100,0,0,0,0,0
+dien thoai,13990000,None,None,None,Da Nang,24990000,38000,94,100,100,0,0,0,0,0
+dien thoai,13200000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,13190000,None,None,None,Ha Noi,24550000,38000,91,100,100,0,0,0,0,0
+dien thoai,12998500,NaN,16,2,Ho Chi Minh,16890500,NaN,91,NaN,100,0,0,0,1,2
+dien thoai,12990000,None,None,None,Ho Chi Minh,16990000,16500,None,None,71,0,0,0,0,0
+dien thoai,12940000,None,None,None,Ha Noi,16890000,38000,98,100,92,0,0,0,0,0
+dien thoai,12890000,None,None,None,Ha Noi,None,13700,95,100,95,0,0,0,0,0
+dien thoai,12490000,None,None,None,Ho Chi Minh,None,16500,98,None,None,0,0,0,0,0
+dien thoai,12399000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,12389000,None,None,None,Nam Định,None,43900,None,None,100,0,0,0,0,0
+dien thoai,12290000,None,None,1,Ha Noi,19200000,38000,91,100,100,0,0,0,0,1
+dien thoai,12200000,None,None,1,Ha Noi,14900000,None,94,None,87,0,0,0,0,1
+dien thoai,12200000,None,5,None,Ha Noi,16890500,None,92,None,50,0,0,0,0,0
+dien thoai,12190000,None,None,None,Ho Chi Minh,None,16500,97,95,100,0,0,0,0,0
+dien thoai,11990000,None,None,None,Tien Giang,14500000,28700,97,100,100,0,0,0,0,0
+dien thoai,11990000,None,None,None,Ho Chi Minh,12990000,18300,85,None,100,0,0,0,0,0
+dien thoai,11990000,None,None,None,Ho Chi Minh,12990000,0,97,100,33,0,0,0,0,0
+dien thoai,11990000,None,None,3,Ho Chi Minh,12990000,19600,85,None,100,0,0,0,0,3
+dien thoai,11980000,None,None,None,Ho Chi Minh,11990000,19600,85,None,100,0,0,0,0,0
+dien thoai,11980000,None,None,None,Ho Chi Minh,12990000,0,97,100,33,0,0,0,0,0
+dien thoai,11948000,None,None,None,Ho Chi Minh,14890000,16500,100,99,100,0,0,0,0,0
+dien thoai,12690000,None,12,2,Ho Chi Minh,25990000,16500,97,None,57,0,0,0,0,2
+dien thoai,11989000,93,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15,
+dien thoai,11970000,None,None,None,Ho Chi Minh,11990000,0,97,100,33,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,75,100,0,0,0,0,0
+dien thoai,11700000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,11680000,NaN,35,8,Ho Chi Minh,12990000,18300,98,100,92,0,0,0,0,9
+dien thoai,11617600,None,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11390000,None,None,1,Ha Noi,12490000,13700,95,100,95,0,0,0,0,1
+dien thoai,11250000,None,None,None,Ha Noi,13350000,38000,91,100,100,0,0,0,0,0
+dien thoai,11146000,NaN,32,1,Ho Chi Minh,11990000,16500,99,100,78,0,0,0,0,1
+dien thoai,11078000,None,None,None,Ho Chi Minh,13990000,16500,100,99,100,0,0,0,0,0
+dien thoai,11039000,None,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,1
+dien thoai,10990000,None,None,None,Da Nang,14990000,0,93,None,100,0,0,0,0,0
+dien thoai,10990000,None,5,1,Ho Chi Minh,16900000,18300,96,75,85,0,0,0,0,1
+dien thoai,10990000,None,None,None,Da Nang,14990000,38000,97,81,87,0,0,0,0,0
+dien thoai,10990000,None,None,1,Ho Chi Minh,12990000,18300,85,None,100,0,0,0,0,1
+dien thoai,10890000,NaN,5,2,Ha Noi,17999000,26100,100,NaN,100,0,0,0,0,2
+dien thoai,10839000,None,None,None,Ben Tre,14890000,28700,97,100,100,0,0,0,0,0
+dien thoai,10800000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,10791000,None,None,None,Ha Noi,11990000,None,94,None,87,0,0,0,0,0
+dien thoai,10782000,None,5,None,Ha Noi,12980000,None,92,None,50,0,0,0,0,0
+dien thoai,10690000,None,None,None,Da Nang,11990000,27000,100,50,100,0,0,0,0,0
+dien thoai,10560000,None,None,None,Ho Chi Minh,None,19600,100,None,None,0,0,0,0,0
+dien thoai,10500000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10490000,None,None,None,Da Nang,11990000,38000,97,81,87,0,0,0,0,0
+dien thoai,10490000,None,None,None,Da Nang,12990000,38000,97,81,87,0,0,0,0,0
+dien thoai,10490000,None,None,None,Dak Nong,None,32200,None,None,None,0,0,0,0,0
+dien thoai,10489000,240,37,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,33,
+dien thoai,10450000,None,None,None,Ha Noi,14900000,38000,91,100,100,0,0,0,0,0
+dien thoai,10290000,None,None,None,Ha Noi,16000000,38000,91,100,100,0,0,0,0,0
+dien thoai,10266000,None,None,None,Ho Chi Minh,10990000,16500,100,99,100,0,0,0,0,0
+dien thoai,10235000,None,None,None,Da Nang,14990000,38000,97,81,87,0,0,0,0,0
+dien thoai,10200000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,10100000,NaN,6,2,Ha Noi,10990000,18300,98,100,92,0,0,0,0,2
+dien thoai,10099000,None,None,1,Ha Noi,13000000,38000,97,None,None,0,0,0,0,1
+dien thoai,10085523,NaN,45,3,Ha Noi,12090000,13700,95,100,95,0,0,0,0,3
+dien thoai,9990000,None,None,None,Da Nang,10990000,45100,96,25,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,71,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ho Chi Minh,12000000,16500,98,80,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ha Noi,None,None,94,None,87,0,0,0,0,0
+dien thoai,9990000,None,None,None,Da Nang,None,32700,100,80,None,0,0,0,0,0
+dien thoai,9990000,None,7,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,9890000,None,38,12,Binh Duong,12490000,None,98,None,97,0,0,1,1,11
+dien thoai,9990000,None,7,None,Ha Noi,None,0,100,None,None,0,0,0,0,0
+dien thoai,9895000,None,None,None,Ha Noi,9900000,0,91,55,73,1,0,0,0,0
+dien thoai,9890000,None,8,5,Tien Giang,15900000,28700,97,100,100,0,0,1,0,4
+dien thoai,9790000,None,None,None,Ho Chi Minh,9900000,18300,99,99,98,0,0,0,0,0
+dien thoai,9675000,None,None,None,Ho Chi Minh,None,16500,None,None,71,0,0,0,0,0
+dien thoai,9590000,None,None,None,Ho Chi Minh,10500000,16500,96,75,85,0,0,0,0,0
+dien thoai,9590000,None,None,0,Tien Giang,10800000,28700,97,100,100,0,0,0,0,1
+dien thoai,9500000,None,None,None,Nam Định,None,37700,87,75,100,0,0,0,0,0
+dien thoai,9500000,None,None,None,Ha Noi,13900000,0,75,None,None,0,0,0,0,0
+dien thoai,9499000,None,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9480000,None,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,9390000,None,None,1,Vinh Phuc,11250000,43900,100,100,98,0,0,0,0,1
+dien thoai,9351363,None,38,13,Ha Noi,10790000,13700,95,100,95,0,0,0,0,13
+dien thoai,9350000,None,35,18,Ha Noi,17000000,32700,91,100,100,0,0,0,0,19
+dien thoai,9300000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,9290000,None,None,None,Da Nang,12990000,38000,96,25,100,0,0,0,0,0
+dien thoai,9220491,None,62,2,Ho Chi Minh,12990000,16500,98,100,100,0,0,0,1,2
+dien thoai,9150000,None,None,None,Ho Chi Minh,10990000,16500,98,80,100,0,0,0,0,0
+dien thoai,9090000,NaN,535,126,Ha Noi,11990000,38000,99,100,90,1,0,0,2,123
+dien thoai,9000000,None,None,None,Ho Chi Minh,None,16500,None,66,92,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,9990000,0,97,100,33,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,9990000,19600,85,None,100,0,0,0,0,0
+dien thoai,8990000,27,5,Ho Chi Minh,11490000,18300,99,99,98,0,0,0,0,5,
+dien thoai,8990000,None,None,1,Ho Chi Minh,10990000,18300,85,None,100,0,0,0,0,1
+dien thoai,8990000,None,None,1,Ho Chi Minh,9000000,0,97,100,33,0,0,0,0,1
+dien thoai,8990000,None,101,41,Ho Chi Minh,11990000,16500,97,None,33,2,0,0,0,39
+dien thoai,8990000,NaN,14,6,Ha Noi,9190000,13700,95,100,95,0,0,0,1,5
+dien thoai,8990000,None,8,2,Ho Chi Minh,None,0,96,75,None,0,0,0,0,2
+dien thoai,8979000,None,None,None,Ben Tre,9990000,28700,97,100,100,0,0,0,0,0
+dien thoai,8979000,None,None,None,Ben Tre,9990000,28700,98,100,100,0,0,0,0,0
+dien thoai,8890000,NaN,9100,1558,Ho Chi Minh,23990000,5500,94,98,100,34,13,14,37,1460
+dien thoai,8889000,NaN,12,4,Tien Giang,12500000,28700,97,100,100,0,0,0,0,4
+dien thoai,8888000,NaN,16,7,Ho Chi Minh,11500000,18300,96,75,85,0,0,0,0,7
+dien thoai,8870000,NaN,5,3,Ho Chi Minh,NaN,16500,97,95,100,0,0,0,0,3
+dien thoai,41990000,None,11,None,Ho Chi Minh,44990000,20100,99,100,92,0,0,0,0,0
+dien thoai,37590001,nan,25,2,Ho Chi Minh,44490000,nan,91,nan,100,0,0,0,0,2
+dien thoai,34590000,nan,1700,347,Ho Chi Minh,37999000,5500,94,99,100,1,0,0,1,345
+dien thoai,31990000,NaN,1500,358,Ho Chi Minh,33990000,16500,91,99,100,2,0,1,0,356
+dien thoai,31990000,None,714,151,Bac Ninh,34990000,5500,94,99,100,1,0,1,0,149
+dien thoai,31990000,None,203,43,Ho Chi Minh,None,None,99,None,100,2,0,0,0,41
+dien thoai,31590000,NaN,21,2,Ho Chi Minh,37490000,NaN,91,NaN,100,0,0,0,0,3
+dien thoai,31210000,None,None,None,Ha Noi,33990000,None,94,None,80,0,0,0,0,0
+dien thoai,30470000,None,6,None,Ha Noi,44490000,None,94,None,80,0,0,0,0,0
+dien thoai,29990000,None,None,None,Ha Noi,32990000,38000,98,100,94,0,0,0,0,0
+dien thoai,29517000,0,6,1,Ho Chi Minh,32990000,18300,99,99,98,0,0,0,0,2
+dien thoai,29890000,17,4,Binh Duong,35990000,0,98,0,97,0,0,0,0,4,
+dien thoai,29590000,NaN,12100,2736,Ho Chi Minh,34999000,5500,94,99,100,31,3,8,9,2676
+dien thoai,28990000,None,None,None,Ha Noi,None,32700,None,None,None,0,0,0,0,0
+dien thoai,28791000,None,None,None,Ha Noi,31990000,None,94,None,80,0,0,0,0,0
+dien thoai,28090000,None,13,None,Ho Chi Minh,33990000,None,91,None,100,0,0,0,0,0
+dien thoai,27990000,NaN,1000,252,Ho Chi Minh,31990000,5500,94,99,100,2,0,1,0,249
+dien thoai,27490000,NaN,7,5,Ha Noi,33990000,51500,94,96,100,0,0,0,0,5
+dien thoai,27399000,None,None,None,Ha Noi,None,32700,97,None,None,0,0,0,0,0
+dien thoai,26590000,None,None,1,Ho Chi Minh,33999000,7300,97,None,57,0,0,0,0,1
+dien thoai,25390000,None,None,None,Ha Noi,43000000,38000,91,100,100,0,0,0,0,0
+dien thoai,24999000,None,7,None,Ho Chi Minh,33990000,18300,99,99,98,0,0,0,0,0
+dien thoai,24880000,None,None,None,Ha Noi,31990000,None,94,None,80,0,0,0,0,0
+dien thoai,24290100,None,None,None,Ha Noi,29990000,None,94,None,80,0,0,0,0,0
+dien thoai,24190000,None,None,None,Ha Noi,26990000,None,94,None,80,0,0,0,0,0
+dien thoai,24188000,NaN,11,1,Da Nang,33990000,38000,97,78,78,0,0,0,0,2
+dien thoai,24140000,None,None,None,Ho Chi Minh,33990000,16500,98,85,100,0,0,0,0,0
+dien thoai,23600000,None,None,None,Ha Noi,30490000,None,94,None,80,0,0,0,0,0
+dien thoai,23290000,None,7,3,Ho Chi Minh,44490000,0,98,100,100,0,0,0,1,2
+dien thoai,22990000,None,None,None,Ha Noi,None,38000,98,100,94,0,0,0,0,0
+dien thoai,22990000,None,5,None,Ho Chi Minh,None,19600,99,100,92,0,0,0,0,0
+dien thoai,22990000,None,9,1,Da Nang,41990000,32700,94,100,100,0,0,0,0,1
+dien thoai,22990000,None,16,3,Binh Duong,27990000,None,98,None,97,0,0,0,0,6
+dien thoai,21490000,None,8,2,Ha Noi,32990000,51500,94,96,100,0,0,0,0,2
+dien thoai,21390000,None,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,21290000,NaN,36,3,Ho Chi Minh,30990000,16500,97,NaN,37,0,0,1,0,3
+dien thoai,20989000,125,30,Ho Chi Minh,22990000,16500,91,99,100,1,1,4,1,23,
+dien thoai,20890000,None,None,None,Ho Chi Minh,26990000,18300,99,99,98,0,0,0,0,0
+dien thoai,20610000,None,None,None,Ha Noi,22990000,None,94,None,80,0,0,0,0,0
+dien thoai,20090000,None,None,1,Ho Chi Minh,22990000,None,91,None,100,0,0,0,0,1
+dien thoai,19995000,None,None,None,Ho Chi Minh,21990000,0,97,100,33,0,0,0,0,0
+dien thoai,19990000,None,None,None,Ho Chi Minh,26990000,16500,98,85,100,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19990000,0,97,100,33,0,0,0,0,0
+dien thoai,19890000,None,None,None,Ho Chi Minh,19900000,19600,85,None,100,0,0,0,0,0
+dien thoai,19640000,None,10,4,Ho Chi Minh,22990000,18300,99,99,98,0,0,0,0,4
+dien thoai,19190000,None,None,None,Ho Chi Minh,23000000,16500,98,85,100,0,0,0,0,1
+dien thoai,19140000,None,None,None,Ho Chi Minh,22990000,16500,100,99,100,0,0,0,0,0
+dien thoai,18990000,None,None,None,Da Nang,22990000,38000,97,78,78,0,0,0,0,0
+dien thoai,18990000,None,None,None,Da Nang,22990000,38000,96,14,100,0,0,0,0,0
+dien thoai,18990000,NaN,8,3,Ho Chi Minh,32990000,18300,99,100,92,0,0,0,0,2
+dien thoai,18866000,None,None,None,Ha Noi,21299000,32700,97,None,None,0,0,0,0,0
+dien thoai,18599000,None,None,None,Ha Noi,23990000,13700,100,None,100,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,17950000,None,None,None,Ho Chi Minh,22990000,16500,98,85,100,0,0,0,0,0
+dien thoai,17800000,None,45,5,Ho Chi Minh,None,0,100,None,None,0,0,0,0,5
+dien thoai,17499000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,17290000,None,None,None,Ho Chi Minh,26990000,0,98,100,100,0,0,0,0,0
+dien thoai,17020000,None,None,1,Ha Noi,22990000,None,94,None,80,0,0,0,0,1
+dien thoai,16990000,NaN,13,5,Ho Chi Minh,19990000,18300,99,100,92,0,0,0,0,5
+dien thoai,16990000,None,11,1,Ho Chi Minh,25990000,16500,97,None,37,0,0,0,0,1
+dien thoai,16990000,NaN,31,12,Ho Chi Minh,33990000,16500,97,NaN,37,0,0,0,2,10
+dien thoai,16490000,None,None,1,Ha Noi,None,13700,95,100,96,0,0,0,0,1
+dien thoai,16490000,None,968,124,Ho Chi Minh,24990000,5500,94,99,100,0,0,2,2,120
+dien thoai,15890000,None,7,1,Ha Noi,32900000,38000,91,100,100,0,0,0,0,1
+dien thoai,15580000,None,None,None,Ho Chi Minh,22900000,18300,99,99,98,0,0,0,0,0
+dien thoai,15490000,None,None,None,Da Nang,29990000,38000,97,78,78,0,0,0,0,0
+dien thoai,15390000,None,None,None,Ho Chi Minh,22990000,0,98,100,100,0,0,0,0,0
+dien thoai,14995000,None,None,None,Ho Chi Minh,15790000,0,97,100,33,0,0,0,0,0
+dien thoai,14990000,None,None,1,Ho Chi Minh,None,0,100,None,100,0,0,0,0,1
+dien thoai,14500000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,14500000,None,5,None,Ha Noi,None,0,None,None,None,0,0,0,0,0
+dien thoai,14390000,None,9,None,Ha Noi,22990000,0,97,100,50,0,0,0,0,0
+dien thoai,14123403,NaN,69,18,Ha Noi,17990000,13700,95,100,96,0,1,0,0,17
+dien thoai,13990000,None,None,None,Ben Tre,None,28700,83,None,None,0,0,0,0,0
+dien thoai,13990000,None,None,None,Ho Chi Minh,None,16500,100,99,100,0,0,0,0,0
+dien thoai,13990000,None,32,2,Ho Chi Minh,18990000,18300,99,100,92,0,0,0,0,2
+dien thoai,13878080,None,7,None,Ho Chi Minh,21990000,18300,97,None,57,0,0,0,0,0
+dien thoai,13500000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,13400000,None,None,None,Nam Định,None,37700,87,66,100,0,0,0,0,0
+dien thoai,13200000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,13190000,None,None,None,Ha Noi,24550000,38000,91,100,100,0,0,0,0,0
+dien thoai,12998500,NaN,16,2,Ho Chi Minh,16890500,NaN,91,NaN,100,0,0,0,1,2
+dien thoai,12990000,None,None,None,Ho Chi Minh,16990000,16500,None,None,66,0,0,0,0,0
+dien thoai,12940000,None,None,None,Ha Noi,16890000,38000,98,100,94,0,0,0,0,0
+dien thoai,12890000,None,None,None,Ha Noi,None,13700,95,100,96,0,0,0,0,0
+dien thoai,12690000,None,12,2,Ho Chi Minh,25990000,16500,97,None,57,0,0,0,0,2
+dien thoai,12389000,None,None,None,Nam Định,None,43900,None,None,None,0,0,0,0,0
+dien thoai,12290000,None,None,1,Ha Noi,19200000,38000,91,100,100,0,0,0,0,1
+dien thoai,12200000,None,None,1,Ha Noi,14900000,None,94,None,80,0,0,0,0,1
+dien thoai,12200000,None,5,None,Ha Noi,16890500,None,92,None,50,0,0,0,0,0
+dien thoai,11990000,None,None,None,Tien Giang,14500000,28700,97,100,100,0,0,0,0,0
+dien thoai,11990000,None,None,None,Ho Chi Minh,12990000,18300,85,None,100,0,0,0,0,0
+dien thoai,11989000,95,16,Ho Chi Minh,14890000,16500,91,99,100,1,0,0,0,15,
+dien thoai,11980000,None,None,None,Ho Chi Minh,12990000,0,97,100,33,0,0,0,0,0
+dien thoai,11980000,None,None,None,Ho Chi Minh,12990000,0,97,100,33,0,0,0,0,0
+dien thoai,11800000,None,None,None,Nam Dinh,None,37700,87,66,100,0,0,0,0,0
+dien thoai,11700000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,11680000,NaN,35,8,Ho Chi Minh,12990000,18300,98,100,94,0,0,0,0,9
+dien thoai,11617600,None,33,2,Ho Chi Minh,14889600,None,91,None,100,0,0,0,0,3
+dien thoai,11489000,4,818,Ho Chi Minh,24990000,5500,94,99,100,16,7,11,30,754,
+dien thoai,11390000,None,None,1,Ha Noi,12490000,13700,95,100,96,0,0,0,0,1
+dien thoai,11250000,None,None,None,Ha Noi,13350000,38000,91,100,100,0,0,0,0,0
+dien thoai,11148000,NaN,32,1,Ho Chi Minh,11990000,16500,99,100,75,0,0,0,0,1
+dien thoai,11078000,None,None,None,Ho Chi Minh,13990000,16500,100,99,100,0,0,0,0,0
+dien thoai,11039000,None,None,0,Ben Tre,14890000,28700,98,100,100,0,0,0,0,1
+dien thoai,10990000,None,15,1,Ho Chi Minh,None,18300,99,99,98,0,0,0,0,1
+dien thoai,10990000,None,None,None,Da Nang,14990000,0,93,None,100,0,0,0,0,0
+dien thoai,10990000,None,5,1,Ho Chi Minh,16900000,18300,96,75,85,0,0,0,0,1
+dien thoai,10990000,None,None,None,Da Nang,14990000,38000,97,78,78,0,0,0,0,0
+dien thoai,10990000,None,None,1,Ho Chi Minh,12990000,18300,85,None,100,0,0,0,0,1
+dien thoai,10890000,NaN,5,2,Ha Noi,17999000,26100,100,NaN,100,0,0,0,0,2
+dien thoai,10839000,None,None,None,Ben Tre,14890000,28700,97,100,100,0,0,0,0,0
+dien thoai,10800000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,10791000,None,None,None,Ha Noi,11990000,None,94,None,80,0,0,0,0,0
+dien thoai,10782000,None,5,None,Ha Noi,12980000,None,92,None,50,0,0,0,0,0
+dien thoai,10560000,None,None,None,Ho Chi Minh,None,19600,100,None,None,0,0,0,0,0
+dien thoai,10500000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,99,100,None,0,0,0,0,0
+dien thoai,10490000,None,None,None,Ho Chi Minh,None,16500,100,99,100,0,0,0,0,0
+dien thoai,10690000,None,None,None,Da Nang,11990000,27000,100,50,100,0,0,0,0,0
+dien thoai,10490000,None,None,None,Da Nang,11990000,38000,97,78,78,0,0,0,0,0
+dien thoai,10490000,None,None,None,Da Nang,12990000,38000,97,78,78,0,0,0,0,0
+dien thoai,10490000,NaN,245,39,Ho Chi Minh,21990000,18300,91,99,100,2,0,0,2,35
+dien thoai,10471047,NaN,70,3,Ho Chi Minh,15990000,18300,98,100,100,0,0,0,0,3
+dien thoai,10235000,None,None,None,Da Nang,14990000,38000,97,78,78,0,0,0,0,0
+dien thoai,10200000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,10099000,None,None,1,Ha Noi,13000000,38000,97,None,None,0,0,0,0,1
+dien thoai,10085523,NaN,45,3,Ha Noi,12090000,13700,95,100,96,0,0,0,0,3
+dien thoai,9990000,None,None,None,Da Nang,10990000,45100,96,14,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ho Chi Minh,12000000,16500,98,85,100,0,0,0,0,0
+dien thoai,9990000,None,None,None,Ha Noi,None,None,94,None,80,0,0,0,0,0
+dien thoai,9990000,None,None,None,Da Nang,None,32700,100,80,None,0,0,0,0,0
+dien thoai,9990000,None,7,None,Ho Chi Minh,12890000,0,98,100,100,0,0,0,0,0
+dien thoai,9890000,None,38,12,Binh Duong,12490000,None,98,None,97,0,0,1,1,11
+dien thoai,9990000,None,7,None,Ha Noi,None,0,100,None,None,0,0,0,0,0
+dien thoai,9895000,None,None,None,Ha Noi,9900000,0,91,50,71,1,0,0,0,0
+dien thoai,9890000,None,9,5,Tien Giang,15900000,28700,97,100,100,0,0,1,0,4
+dien thoai,9790000,None,None,None,Ho Chi Minh,9900000,18300,99,99,98,0,0,0,0,0
+dien thoai,9675000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9590000,None,None,None,Ho Chi Minh,10500000,16500,96,75,85,0,0,0,0,0
+dien thoai,9590000,None,None,0,Tien Giang,10800000,28700,97,100,100,0,0,0,0,1
+dien thoai,9590000,None,None,None,Ho Chi Minh,9990000,0,97,100,33,0,0,0,0,0
+dien thoai,9500000,None,None,None,Nam Dinh,None,37700,87,66,100,0,0,0,0,0
+dien thoai,9499000,None,None,None,Ho Chi Minh,10499000,0,82,None,100,0,0,0,0,0
+dien thoai,9490000,None,None,None,Ho Chi Minh,9990000,18300,85,None,100,0,0,0,0,0
+dien thoai,9480000,None,None,None,Ho Chi Minh,10990000,0,100,None,100,0,0,0,0,0
+dien thoai,9390000,None,None,1,Vinh Phuc,11250000,43900,100,100,97,0,0,0,0,1
+dien thoai,9351363,None,38,13,Ha Noi,10790000,13700,95,100,96,0,0,0,0,13
+dien thoai,9350000,None,35,18,Ha Noi,17000000,32700,91,100,100,0,0,0,0,19
+dien thoai,9300000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,9290000,None,None,None,Da Nang,12990000,38000,96,14,100,0,0,0,0,0
+dien thoai,9150000,None,None,None,Ho Chi Minh,10990000,16500,98,85,100,0,0,0,0,0
+dien thoai,9090000,NaN,535,126,Ha Noi,11990000,38000,99,100,91,1,0,0,2,123
+dien thoai,8990000,None,None,None,Ha Noi,9990000,38000,98,100,94,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,9990000,0,97,100,33,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,None,45100,100,100,100,0,0,0,0,0
+dien thoai,8990000,None,None,None,Ho Chi Minh,9990000,19600,85,None,100,0,0,0,0,0
+dien thoai,8990000,27,5,Ho Chi Minh,11490000,18300,99,99,98,0,0,0,0,5,
+dien thoai,8990000,None,None,1,Ho Chi Minh,9000000,0,97,100,33,0,0,0,0,1
+dien thoai,14089000,NaN,67,6,Ho Chi Minh,16900000,18300,98,100,100,0,0,0,0,6
+dien thoai,10490000,None,None,None,Dak Nong,None,32200,None,None,None,0,0,0,0,0
+dien thoai,10450000,None,None,None,Ha Noi,14900000,38000,91,100,100,0,0,0,0,0
+dien thoai,10290000,None,None,None,Ha Noi,16000000,38000,91,100,100,0,0,0,0,0
+dien thoai,10266000,None,None,None,Ho Chi Minh,10990000,16500,100,99,100,0,0,0,0,0
+dien thoai,10100000,NaN,6,2,Ha Noi,10990000,18300,98,100,94,0,0,0,0,2
+dien thoai,9990000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,9500000,None,None,None,Ha Noi,13900000,0,75,None,None,0,0,0,0,0
+dien thoai,9440640,None,20,1,Ha Noi,10489600,None,92,None,50,0,0,0,0,2
+dien thoai,9220491,None,62,2,Ho Chi Minh,12990000,16500,98,100,100,0,0,0,1,2
+dien thoai,8990000,None,None,1,Ho Chi Minh,10990000,18300,85,None,100,0,0,0,0,1
+dien thoai,8990000,NaN,101,41,Ho Chi Minh,11990000,16500,97,NaN,37,2,0,0,0,39
+dien thoai,8990000,NaN,14,6,Ha Noi,9190000,13700,95,100,96,0,0,0,1,5
+dien thoai,8990000,None,8,2,Ho Chi Minh,None,0,96,100,None,0,0,0,0,2
+dien thoai,8979000,None,None,None,Ben Tre,9990000,28700,97,100,100,0,0,0,0,0
+dien thoai,8979000,None,None,None,Ben Tre,9990000,28700,98,100,100,0,0,0,0,0
+dien thoai,8890000,NaN,9100,1558,Ho Chi Minh,23990000,5500,94,99,100,34,13,14,37,1460
+dien thoai,8888000,NaN,16,7,Ho Chi Minh,11500000,18300,96,75,85,0,0,0,0,7
+dien thoai,8870000,NaN,5,3,Ho Chi Minh,NaN,16500,97,95,100,0,0,0,0,3
+dien thoai,8860000,None,None,None,Ho Chi Minh,None,19600,100,None,None,0,0,0,0,0
+dien thoai,8690000,None,None,None,Ha Noi,None,0,95,None,40,0,0,0,0,0
+dien thoai,8690000,NaN,9,4,Ho Chi Minh,11500000,16500,96,75,85,0,0,0,0,4
+dien thoai,8690000,None,None,None,Ho Chi Minh,None,1928000,None,None,None,0,0,0,0,0
+dien thoai,8690000,None,5,2,Vinh Phuc,10650000,37700,100,100,97,0,0,0,0,2
+dien thoai,8679000,NaN,43,12,Tien Giang,14900000,28700,97,100,100,0,0,0,0,12
+dien thoai,8600000,None,None,None,Ho Chi Minh,None,16500,None,66,93,0,0,0,0,0
+dien thoai,8590000,None,None,1,Ho Chi Minh,9990000,0,98,100,100,0,0,0,0,1
+dien thoai,8590000,None,None,None,Ho Chi Minh,11190000,0,96,75,100,0,0,0,0,0
+dien thoai,8590000,None,None,None,Da Nang,9990000,0,93,None,100,0,0,0,0,0
+dien thoai,8590000,None,5,2,Ha Noi,10990000,26100,100,None,100,0,0,0,1,1
+dien thoai,8590000,None,11,2,Da Nang,10990000,38000,97,78,78,0,0,0,0,2
+dien thoai,8499000,None,None,None,Ho Chi Minh,None,16500,None,None,66,0,0,0,0,0
+dien thoai,8498000,None,None,None,Ho Chi Minh,8690000,0,98,100,83,0,0,0,0,0
+dien thoai,8490000,None,None,None,Ha Noi,None,38000,None,None,None,0,0,0,0,0
+dien thoai,8490000,None,11,1,Da Nang,11990000,38000,97,78,78,0,0,0,0,2
+dien thoai,8490000,None,None,None,Ho Chi Minh,9990000,0,97,100,33,0,0,0,0,0
+dien thoai,8490000,None,None,None,Ho Chi Minh,None,None,None,None,None,0,0,0,0,0
+dien thoai,8490000,None,None,None,Ho Chi Minh,8990000,18300,85,None,100,0,0,0,0,0
+dien thoai,8490000,None,None,None,Da Nang,9990000,0,97,100,None,0,0,0,0,0
+dien thoai,8480000,None,None,None,Ho Chi Minh,8990000,0,97,100,33,0,0,0,0,0
